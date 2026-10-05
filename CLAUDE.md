@@ -1,6 +1,7 @@
-# CLAUDE.md — Art Discussions
+# CLAUDE.md — AI Discussions
 
-A minimalist static **Astro** site of bilingual essays about art, discoverable by **client-side
+A minimalist static **Astro** site of bilingual essays on any subject the conversation reaches (art is frequent, but not the
+only topic — history, science, technology, philosophy, …), discoverable by **client-side
 semantic search** (embeddings) and by the relationships between essays. Its structure, design,
 and writing guide are copied from the sister project **`kynd/art-history`**
 (https://www.kynd.info/art-history/). Deployed at `www.kynd.info/ai-discussions/` (base
@@ -11,7 +12,7 @@ and writing guide are copied from the sister project **`kynd/art-history`**
 Unlike `art-history`, pages here are not commissioned one by one. They grow out of an ongoing
 conversation with the user. Every turn follows this loop:
 
-1. **The user asks a question** about art (or gives feedback / disagrees with something said).
+1. **The user asks a question** on any subject (or gives feedback / disagrees with something said).
 2. **Research it on the web** (WebSearch / WebFetch) before answering. Check names, dates, and
    attributions against more than one source where possible; note where sources disagree.
 3. **Answer the question in the chat** — directly, in plain prose, citing the main sources
@@ -114,14 +115,14 @@ English paragraph.
 
 Pages are shaped by the questions asked, so there is no fixed template. Still: **name the
 prominent figures and their key works** (with years), explain *why* one thing led to another,
-and — where the topic allows — reach beyond the Western canon (Japan and other regions; design,
-architecture, film, music, manga/anime) per the Editorial Policy's breadth section. Overview
+and — where the topic allows — reach beyond the Western canon (Japan and other regions; for art,
+design, architecture, film, music, manga/anime; for science and ideas, non-Western traditions) per the Editorial Policy's breadth section. Overview
 pages put "driving forces & connections" near the top, next to the summary.
 
 ### 3. Capture index terms (keeps index pages + in-prose links in sync)
 
 When you add or edit an article, capture any **new** decade/era, artist/designer/architect/
-director/maker, or movement/keyword in **`src/data/index-terms.mjs`** (`CHRONOLOGY`,
+director/maker, scientist/thinker/historical figure, or movement/concept/keyword in **`src/data/index-terms.mjs`** (`CHRONOLOGY`,
 `ARTISTS`, `KEYWORDS`). This single file feeds three things:
 
 - the `/chronology`, `/people`, `/keyword` index pages, and
@@ -168,7 +169,7 @@ is the programmatic entry point.
   fully static — no server, no API keys.
 - The three index pages share `src/components/TermIndex.astro` (plain-text, middot-separated
   terms — no pills — with a sort toggle between the grouped view and flat A–Z). The People
-  page (`/people`, 人物) covers artists/designers/architects/makers, not only "artists".
+  page (`/people`, 人物) covers anyone named — artists and makers, scientists, thinkers, historical figures.
 
 ### 6. Design (match `art-history`)
 

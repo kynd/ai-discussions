@@ -9,11 +9,11 @@ introJa: 何を選び、どう位置づけ、どう責任を持つのか。こ�
 ## Purpose and scope
 ## 目的と範囲
 
-Art Discussions is a collection of short, bilingual essays that grow out of an ongoing conversation about art. A human asks a question; an AI researches it on the web, answers, and writes or revises the pages that the answer touches. The collection has no fixed period or boundary — it follows wherever the questions go. Each essay is a starting point, not an exhaustive or definitive account. We prioritise clarity, connection, and breadth over completeness.
+AI Discussions is a collection of short, bilingual essays that grow out of an ongoing conversation. Art is a frequent subject, but not the only one — history, science, technology, philosophy, and anything else the questions lead to belong here too. A human asks a question; an AI researches it on the web, answers, and writes or revises the pages that the answer touches. The collection has no fixed period or boundary — it follows wherever the questions go. Each essay is a starting point, not an exhaustive or definitive account. We prioritise clarity, connection, and breadth over completeness.
 
 <!-- -->
 
-「芸術をめぐる対話」は、芸術についての続いていく対話から生まれる、短い二言語のエッセイ集です。人間が問いを投げかけ、AIがウェブで調べて答え、その答えに関わるページを書いたり書き直したりします。扱う時代や範囲はあらかじめ決めておらず、問いの向かう先についていきます。それぞれのエッセイは、網羅的で決定的な記述ではなく、出発点となることを目指しています。私たちは完全さよりも、明快さ・つながり・広がりを大切にします。
+「AIとの対話」は、続いていく対話から生まれる、短い二言語のエッセイ集です。芸術はよく取り上げる主題ですが、それだけではありません。歴史、科学、技術、哲学など、問いが向かう先はどれもここに含まれます。人間が問いを投げかけ、AIがウェブで調べて答え、その答えに関わるページを書いたり書き直したりします。扱う時代や範囲はあらかじめ決めておらず、問いの向かう先についていきます。それぞれのエッセイは、網羅的で決定的な記述ではなく、出発点となることを目指しています。私たちは完全さよりも、明快さ・つながり・広がりを大切にします。
 
 ---
 
@@ -22,24 +22,24 @@ Art Discussions is a collection of short, bilingual essays that grow out of an o
 
 We aim for a balanced, non-partisan perspective. We describe movements, events, and works rather than advocate for them; we present competing interpretations where they matter; and we avoid ideological, national, or aesthetic bias. When a subject is contested, we say so plainly instead of taking a side, and we try to explain why people held the views they did rather than judging them by today's standards.
 
-We also try not to mistake our own choices for facts about the field. When an essay picks a few artists to make a point, that is our editorial selection, not a ranking — so a page says "he appears in" that essay rather than calling him one of its "key figures." Any grouping we invent belongs to us, not to art history.
+We also try not to mistake our own choices for facts about the field. When an essay picks a few people to make a point, that is our editorial selection, not a ranking — so a page says "he appears in" that essay rather than calling him one of its "key figures." Any grouping we invent belongs to us, not to the field.
 
 <!-- -->
 
 私たちは、均衡のとれた、党派によらない視点を目指します。運動や出来事、作品を擁護するのではなく記述し、重要な場面では対立する解釈を併せて示し、思想的・国家的・美的な偏りを避けます。議論の分かれる主題では、どちらかに与するのではなく、その旨をはっきりと述べます。そして、今日の基準で断罪するのではなく、人々がなぜそう考えたのかを説明するよう努めます。
 
-また、自分たちの選択を、その分野の事実と取り違えないよう気をつけます。あるエッセイが論点を示すために数人の作家を取り上げるとき、それは私たちの編集上の選択であって、順位づけではありません。ですから各ページでは、その人物をエッセイの「中心人物」と呼ぶのではなく、「〜に登場します」と書きます。私たちが作ったまとまりは、美術史のものではなく、私たちのものです。
+また、自分たちの選択を、その分野の事実と取り違えないよう気をつけます。あるエッセイが論点を示すために数人の人物を取り上げるとき、それは私たちの編集上の選択であって、順位づけではありません。ですから各ページでは、その人物をエッセイの「中心人物」と呼ぶのではなく、「〜に登場します」と書きます。私たちが作ったまとまりは、その分野のものではなく、私たちのものです。
 
 ---
 
 ## Breadth and representation
 ## 広がりと多様性
 
-Art is not only Western, and not only "high" art. Where a question allows it, we place Japan and other regions alongside Europe and the United States; folk, regional, and everyday forms alongside the museum canon; and design, architecture, film, music, and manga alongside painting and sculpture. The questions themselves will lean toward the interests of the people asking them — a reflection of who is in the conversation, not a judgement about what matters. We name a wide range of figures and works so the picture stays plural rather than narrow.
+Knowledge and culture are not only Western, and art is not only "high" art. Where a question allows it, we place Japan and other regions alongside Europe and the United States; folk, regional, and everyday forms alongside the museum canon; design, architecture, film, music, and manga alongside painting and sculpture; and non-Western traditions of science and thought alongside the European story. The questions themselves will lean toward the interests of the people asking them — a reflection of who is in the conversation, not a judgement about what matters. We name a wide range of figures and works so the picture stays plural rather than narrow.
 
 <!-- -->
 
-芸術は西洋だけのものでも、「高尚な」芸術だけのものでもありません。問いが許すかぎり、ヨーロッパやアメリカと並べて日本やその他の地域を、美術館の正典と並べて民衆的・地域的・日常的な形式を、絵画や彫刻と並べてデザイン・建築・映画・音楽・漫画を取り上げます。問いそのものは、問う人の関心に偏るでしょう。これは対話に誰が加わっているかを映したものであり、何が重要かの判断ではありません。全体が狭くならず多様であり続けるよう、幅広い人物や作品に触れます。
+知識や文化は西洋だけのものではなく、芸術も「高尚な」芸術だけのものではありません。問いが許すかぎり、ヨーロッパやアメリカと並べて日本やその他の地域を、美術館の正典と並べて民衆的・地域的・日常的な形式を、絵画や彫刻と並べてデザイン・建築・映画・音楽・漫画を、ヨーロッパの物語と並べて西洋以外の科学や思想の伝統を取り上げます。問いそのものは、問う人の関心に偏るでしょう。これは対話に誰が加わっているかを映したものであり、何が重要かの判断ではありません。全体が狭くならず多様であり続けるよう、幅広い人物や作品に触れます。
 
 ---
 
@@ -79,11 +79,11 @@ Every essay exists fully in English and Japanese. The two versions carry the sam
 ## Sensitive subjects
 ## 繊細な主題
 
-The history of art sits alongside war, genocide, oppression, and immense suffering. We treat these factually and soberly, giving them the weight they deserve and never sensationalising them. We write about people — including living people — with care and respect, and we avoid language that dehumanises or that assumes a reader's identity.
+History holds war, genocide, oppression, and immense suffering. We treat these factually and soberly, giving them the weight they deserve and never sensationalising them. We write about people — including living people — with care and respect, and we avoid language that dehumanises or that assumes a reader's identity.
 
 <!-- -->
 
-芸術の歴史は、戦争・虐殺・抑圧、そして計り知れない苦しみと隣り合っています。私たちはこうした主題を、事実に即して静かに扱い、それにふさわしい重みを与え、決して扇情的にはしません。存命の人を含め、人については配慮と敬意をもって書き、人間性を奪う言葉や、読者の属性を決めつける言葉を避けます。
+歴史には、戦争・虐殺・抑圧、そして計り知れない苦しみがあります。私たちはこうした主題を、事実に即して静かに扱い、それにふさわしい重みを与え、決して扇情的にはしません。存命の人を含め、人については配慮と敬意をもって書き、人間性を奪う言葉や、読者の属性を決めつける言葉を避けます。
 
 ---
 

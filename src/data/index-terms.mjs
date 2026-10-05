@@ -16,9 +16,10 @@ export const CHRONOLOGY = [
 ];
 
 // group: 'Fine art' | 'Design & architecture' | 'Film & music' | 'Manga & anime' | 'Critics & curators'
+//      | 'Science & technology' | 'Thought & literature' | 'History & society'
 export const ARTISTS = [
 ];
 
-// group: 'Movements' | 'Media & concepts' | 'History & society'
+// group: 'Movements' | 'Media & concepts' | 'Science & technology' | 'Ideas' | 'History & society'
 export const KEYWORDS = [
 ];

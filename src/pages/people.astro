@@ -3,18 +3,18 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import TermIndex from '../components/TermIndex.astro';
 import { ARTISTS } from '../data/index-terms.mjs';
 
-const GROUP_ORDER = ['Fine art', 'Design & architecture', 'Film & music', 'Manga & anime', 'Critics & curators'];
+const GROUP_ORDER = ['Fine art', 'Design & architecture', 'Film & music', 'Manga & anime', 'Critics & curators', 'Science & technology', 'Thought & literature', 'History & society'];
 const groups = GROUP_ORDER.map((g) => ({
   name: g,
   items: ARTISTS.filter((a) => a.group === g).map((t) => ({ label: t.label, query: t.query || t.label })),
 })).filter((g) => g.items.length);
 ---
 
-<BaseLayout title="People · Art Discussions">
+<BaseLayout title="People · AI Discussions">
   <TermIndex
     title="People"
     titleJa="人物"
-    note="Artists, designers, architects, and makers named across the essays. Click a name to run a semantic search."
+    note="People named across the essays — artists and makers, scientists, thinkers, and historical figures. Click a name to run a semantic search."
     groups={groups}
     primaryLabel="By category"
   />

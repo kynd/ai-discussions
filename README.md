@@ -1,6 +1,6 @@
-# Art Discussions
+# AI Discussions
 
-A minimal static site of short bilingual essays about art, discoverable by **semantic search**
+A minimal static site of short bilingual essays on any subject (often art, but not only), discoverable by **semantic search**
 (embeddings) and by the **relationships between essays**. The pages grow out of an ongoing
 question-and-answer conversation (see the protocol in [CLAUDE.md](CLAUDE.md)). Sister project
 to [`kynd/art-history`](https://www.kynd.info/art-history/); same Astro stack, visual language,

@@ -1,4 +1,4 @@
-# Art Discussions — Spec
+# AI Discussions — Spec
 
 > Inherited from the sister project `kynd/art-history`, whose structure this site copies. The
 > design rationale below applies unchanged; only the authoring workflow differs (see CLAUDE.md).
