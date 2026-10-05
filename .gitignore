@@ -1,0 +1,17 @@
+# build output
+dist/
+.astro/
+
+# deps
+node_modules/
+
+# generated search index (regenerated at build time)
+public/search-index.json
+public/related.json
+public/topics.json
+
+# local editor / tool settings
+.claude/settings.local.json
+
+# os
+.DS_Store

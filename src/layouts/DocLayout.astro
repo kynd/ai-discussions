@@ -1,0 +1,21 @@
+---
+// Layout for standalone Markdown doc pages (Editorial Policy, Writing Style).
+// Used via a Markdown page's `layout:` frontmatter. Renders in a .doc container
+// (not .prose) so the in-prose term auto-linker does not run on guidance pages.
+import BaseLayout from './BaseLayout.astro';
+
+const { frontmatter } = Astro.props;
+const title: string = frontmatter.title;
+const titleJa: string | undefined = frontmatter.titleJa;
+const intro: string | undefined = frontmatter.intro;
+const introJa: string | undefined = frontmatter.introJa;
+---
+
+<BaseLayout title={`${title} · Art Discussions`}>
+  <article class="doc">
+    <h1 class="doc-title">{title}{titleJa && <span class="ja">{titleJa}</span>}</h1>
+    {intro && <p class="doc-intro">{intro}</p>}
+    {introJa && <p class="doc-intro doc-intro-ja">{introJa}</p>}
+    <slot />
+  </article>
+</BaseLayout>
