@@ -220,4 +220,5 @@ npm run build     # reindex + static build into dist/
 **Cloud sessions:** `npm run reindex` downloads the embedding model from huggingface.co. If the
 environment's network policy blocks it, skip the reindex locally, verify with `npx astro build`
 (stub `public/*.json` as `[]` / `{}` if needed, and don't commit them), and rely on the GitHub
-Pages workflow, which regenerates the index on every push to `main`.
+Pages workflow, which regenerates the index on every push to `main` (and, for now, to the
+working branch `claude/gifted-fermi-ck5tim`, which is the repo default).
