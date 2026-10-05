@@ -6,6 +6,7 @@ export const TOPICS = [
   { label: 'Art', query: 'art, artists, and works of art' },
   { label: 'Design & Architecture', query: 'design, architecture, and the built environment' },
   { label: 'History', query: 'historical events, periods, and their causes' },
+  { label: 'Evolution', query: 'evolution, natural selection, and its influence on society and thought' },
   { label: 'Science', query: 'science, discovery, and how we understand nature' },
   { label: 'Technology', query: 'technology, machines, computers, and their effects on society' },
   { label: 'Ideas & Philosophy', query: 'philosophy, ideas, and ways of thinking' },
