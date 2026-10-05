@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-10-05 — Richard Rorty
+
+Prompted by a request to explain Richard Rorty. Added a page on him: his family background, the attack on the "mirror of nature" picture of knowledge, his Darwinian neopragmatism, the liberal ironist of *Contingency, Irony, and Solidarity*, the politics of *Achieving Our Country* and its "strongman" warning, the main criticisms (Putnam, Habermas, Haack, Fraser), and his reception in Japan. "Evolution in Philosophy and Religion" now mentions his Darwinian revival of pragmatism.
+
+<!-- -->
+
+リチャード・ローティについて説明してほしいという問いを受けて、彼のページを加えました。家庭環境、知識を「自然の鏡」とみなす描き方への批判、ダーウィン的なネオプラグマティズム、『偶然性・アイロニー・連帯』のリベラル・アイロニスト、『アメリカ　未完のプロジェクト』の政治と「強い男」への警告、主な批判（パトナム、ハーバーマス、ハーク、フレイザー）、そして日本での受容を扱います。「哲学と宗教のなかの進化論」には、彼がダーウィン的な言葉でプラグマティズムを復活させたことを加えました。
+
+---
+
 ## 2026-10-05 — Evolution
 
 Prompted by a question about the history of evolutionary theory from Darwin to today, and its influence on other fields. Added four essays. "Evolutionary Theory from Darwin to the Modern Synthesis" covers Darwin and Wallace, the problem of heredity, the "eclipse of Darwinism", and the population-genetics synthesis of the 1930s–40s. "Evolutionary Biology After the Synthesis" follows the neutral theory, the gene's-eye view, punctuated equilibrium, microbes and horizontal gene transfer, evo-devo, genomics, and the current argument over an "extended" synthesis, noting where scientists still disagree. "Evolutionary Ideas in Economics and Politics" traces Malthus, Spencer, eugenics (including Japan's Eugenic Protection Law and the 2024 Supreme Court ruling), Kropotkin, Lysenko, evolutionary economics, and the sociobiology dispute. "Evolution in Philosophy and Religion" covers pragmatism, evolutionary ethics, Christian, Muslim, and Jewish responses, the American school battles, and the Japanese reception, including Kinji Imanishi.
