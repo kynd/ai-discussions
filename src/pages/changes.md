@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-10-05 — Rorty clarified
+
+Prompted by a follow-up question checking whether Rorty rejected both foundational truth and the idea of a single language in which everything can be described. Added a section to "Richard Rorty" that separates what he rejected (foundations, a privileged vocabulary of nature) from what he did not (the existence of the world, its causal influence on belief, and the usefulness of science).
+
+<!-- -->
+
+ローティは、基礎となる真理と、あらゆるものを記述できる唯一の言語という考えの両方を退けたのか、という確認の問いを受けて、「リチャード・ローティ」に節を加えました。彼が退けたもの（基礎づけ、自然そのものの特権的な語彙）と、退けなかったもの（世界の存在、世界が信念に与える因果的な影響、科学の有用性）を区別しています。
+
+---
+
 ## 2026-10-05 — Richard Rorty
 
 Prompted by a request to explain Richard Rorty. Added a page on him: his family background, the attack on the "mirror of nature" picture of knowledge, his Darwinian neopragmatism, the liberal ironist of *Contingency, Irony, and Solidarity*, the politics of *Achieving Our Country* and its "strongman" warning, the main criticisms (Putnam, Habermas, Haack, Fraser), and his reception in Japan. "Evolution in Philosophy and Religion" now mentions his Darwinian revival of pragmatism.

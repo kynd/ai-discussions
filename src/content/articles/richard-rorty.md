@@ -57,6 +57,17 @@ In *Consequences of Pragmatism* (1982) and later essays, Rorty presented himself
 
 ---
 
+## What he rejected, and what he did not
+## 退けたもの、退けなかったもの
+
+Rorty rejected two linked hopes. The first is that philosophy could find a foundation — a truth so certain that every other belief could be checked against it. The second is that there is one correct vocabulary, "Nature's own", in which everything could in principle be described, so that other ways of talking would be approximations to it. He held that we can compare vocabularies only with other vocabularies, never with the world as it is apart from any description: ["The world does not speak. Only we do."](https://en.wikipedia.org/wiki/Contingency,_Irony,_and_Solidarity) This did not mean that the world is unreal or that people can believe whatever they like. He accepted that the world exists independently of us and causes us to hold beliefs. Rain causes the belief that it is raining. What he denied is that the world tells us which language to describe it in. Nor did he claim "there is no truth", which he thought was just another philosophical thesis. He said instead that "true" needs no general theory, much as "good" does not. Physics is the best vocabulary for predicting and controlling nature, but in his view that does not make it the right vocabulary for ethics, politics, or understanding a poem. Rather than refute the old questions, he proposed to stop asking them.
+
+<!-- -->
+
+ローティは、互いに結びついた二つの望みを退けました。一つ目は、哲学が基礎を見つけられるという望みです。ほかのあらゆる信念をそれに照らして点検できるほど確かな真理のことです。二つ目は、ただ一つの正しい語彙、「自然そのものの語彙」があり、原理的にはあらゆるものをそれで記述でき、ほかの語り方はそれへの近似にすぎない、という望みです。彼は、語彙を比べられるのは別の語彙とだけであり、どんな記述からも離れた世界そのものと比べることはできない、と考えました。[「世界は語らない。語るのは私たちだけだ」](https://en.wikipedia.org/wiki/Contingency,_Irony,_and_Solidarity)という言葉がそれを示しています。これは、世界が実在しないとか、人は何でも好きなように信じてよい、という意味ではありません。彼は、世界が私たちとは独立に存在し、私たちに信念をもたせる原因になることを認めていました。雨は、雨が降っているという信念の原因になります。彼が否定したのは、世界が、自分をどの言語で記述すべきかを私たちに告げる、ということです。また彼は「真理は存在しない」とも主張しませんでした。それもまた一つの哲学的なテーゼにすぎないと考えたからです。代わりに彼は、「善い」に一般理論が要らないのと同じく、「真」にも一般理論は要らないと述べました。物理学は自然を予測し制御するための最良の語彙ですが、彼の見方では、だからといって倫理や政治、あるいは一篇の詩を理解するための正しい語彙になるわけではありません。彼は古い問いに反論するのではなく、それを問うのをやめることを提案しました。
+
+---
+
 ## Contingency, irony, and solidarity
 ## 偶然性・アイロニー・連帯
 

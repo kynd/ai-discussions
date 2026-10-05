@@ -119,6 +119,7 @@ export const KEYWORDS = [
   { label: 'Anti-representationalism', query: 'the critique of knowledge as accurate representation, mind as mirror of nature', group: 'Ideas', aliases: ['mirror of nature', '自然の鏡'] },
   { label: 'Foundationalism', query: 'foundationalism and anti-foundationalism in epistemology', group: 'Ideas', aliases: ['anti-foundationalism', '基礎づけ主義'] },
   { label: 'Liberal ironist', query: 'Rorty\'s liberal ironist, final vocabulary and contingency', group: 'Ideas', aliases: ['ironist', 'final vocabulary', 'アイロニスト', '終極の語彙'] },
+  { label: 'Correspondence theory of truth', query: 'truth as correspondence between beliefs and reality, and its critics', group: 'Ideas', aliases: ['correspondence theory', '真理の対応説'] },
   { label: 'Relativism', group: 'Ideas', aliases: ['相対主義'] },
   { label: 'Solidarity', query: 'solidarity versus objectivity', group: 'Ideas', aliases: ['連帯'], noLink: true },
   { label: 'Post-truth politics', group: 'History & society', aliases: ['post-truth', 'ポスト真実'] },
