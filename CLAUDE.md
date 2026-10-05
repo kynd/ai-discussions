@@ -31,6 +31,11 @@ conversation with the user. Every turn follows this loop:
    `src/pages/changes.md` that names the question or feedback that prompted it (rule 0b).
 7. **Commit and push** the page changes at the end of each turn, so the site tracks the
    conversation. In the chat reply, list which pages were created or updated.
+8. **Always end the reply with links to the pages** created or updated in that turn — the live
+   site URL `https://www.kynd.info/ai-discussions/articles/<slug>/`, plus the GitHub source link
+   (`https://github.com/kynd/ai-discussions/blob/<branch>/src/content/articles/<slug>.md`) while
+   the change is not yet merged to `main` and deployed. Do this on every turn, even when the
+   answer only revises existing pages.
 
 Keep a page focused on its topic, not on the conversation: pages are essays, written in the
 house style, not transcripts. The question that prompted a change belongs in `changes.md`.
