@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-10-07 — Jean-Paul Sartre
+
+Prompted by a request about Jean-Paul Sartre. Added a page on him: his life and the war, "existence precedes essence" and radical freedom, *Being and Nothingness* (bad faith and the look), literature and commitment alongside Simone de Beauvoir, his politics from the break with Camus to the *Critique of Dialectical Reason*, anti-colonialism and the late Maoist years, his critics (Aron, Lévi-Strauss, Foucault), and his reception in Japan, including the 1966 visit.
+
+<!-- -->
+
+ジャン＝ポール・サルトルについての問いを受けて、彼のページを加えました。生涯と戦争、「実存は本質に先立つ」と徹底した自由、『存在と無』（自己欺瞞とまなざし）、シモーヌ・ド・ボーヴォワールとともにあった文学とアンガジュマン、カミュとの決裂から『弁証法的理性批判』に至る政治、反植民地主義と晩年の毛沢東主義の時期、批判者たち（アロン、レヴィ＝ストロース、フーコー）、そして1966年の来日を含む日本での受容を扱います。
+
+---
+
 ## 2026-10-05 — Rorty clarified
 
 Prompted by a follow-up question checking whether Rorty rejected both foundational truth and the idea of a single language in which everything can be described. Added a section to "Richard Rorty" that separates what he rejected (foundations, a privileged vocabulary of nature) from what he did not (the existence of the world, its causal influence on belief, and the usefulness of science).
