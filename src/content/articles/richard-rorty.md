@@ -1,7 +1,7 @@
 ---
 title: "Richard Rorty  リチャード・ローティ"
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 topics: ["philosophy", "pragmatism", "politics"]
 ---
 
@@ -10,6 +10,17 @@ Richard Rorty (1931–2007) was an American philosopher who argued that philosop
 <!-- -->
 
 リチャード・ローティ（1931〜2007年）は、哲学は知識の基礎を見つけようとすることをやめるべきだと論じたアメリカの哲学者です。『哲学と自然の鏡』（1979年）で彼は、心を、現実を多かれ少なかれ正確に映す鏡とみなす描き方を批判しました。ジョン・デューイ、ルートヴィヒ・ウィトゲンシュタイン、マルティン・ハイデガーに拠りながら、彼は代わりに、言語や信念を世界とうまく付き合うための道具として扱い、正当化を、自分たちの共同体が何に合意できるかの問題として扱うことを提案しました。『偶然性・アイロニー・連帯』（1989年）では、これを政治的な見方に変えました。自分のいちばん深い価値観にも究極の根拠はないと疑いながら、それでも残酷さこそ私たちがなしうる最悪のことだと考えるリベラル、という人物像です。批判者は彼を相対主義だとし、真理をあきらめたと非難しました。支持者は彼がアメリカのプラグマティズムを復活させたと見ました。見捨てられた労働者が「強い男」に向かうかもしれないという1998年の警告によって、彼は2016年以降ふたたび広く読まれるようになりました。
+
+---
+
+## In plain terms
+## わかりやすく言えば
+
+Rorty's main point can be put simply. Philosophers have long hoped to find a bedrock: one fact, method, or way of describing things that is true in an absolute sense, independent of any human point of view, against which everything else could be measured. Rorty thought no such bedrock can be found, because we can never step outside our own language and beliefs to check them against reality "as it really is". He called that hoped-for outside position a ["skyhook"](https://philosophynow.org/issues/106/Recovering_From_Rorty); others call it a God's-eye view. This does not mean nothing is true. It is true that it is raining, and the rain itself makes us believe it. What he denied is that philosophy can supply a final, deeper kind of truth that settles every question once and for all. What we have instead are many vocabularies — physics, law, poetry, ethics — each good for some purposes. We improve our beliefs by testing them in conversation with other people, not by comparing them with the world from nowhere.
+
+<!-- -->
+
+ローティの要点は、簡単に言うことができます。哲学者たちは長いあいだ、岩盤を見つけたいと願ってきました。人間のどんな視点からも独立して絶対的な意味で真であり、ほかのあらゆるものをそれで測れるような、一つの事実や方法、あるいは物事の記述のしかたです。ローティは、そうした岩盤は見つからないと考えました。私たちは自分の言語や信念の外に出て、それを「ほんとうのありのままの」現実と照らし合わせることが決してできないからです。彼はこの、望まれた外側の立場を[「スカイフック（空からの吊り鉤）」](https://philosophynow.org/issues/106/Recovering_From_Rorty)と呼びました。「神の視点」と呼ぶ人もいます。これは、何も真ではないという意味ではありません。雨が降っているのは本当であり、雨そのものが私たちにそう信じさせます。彼が否定したのは、あらゆる問いを最終的に決着させる、より深い究極の種類の真理を哲学が提供できる、ということです。代わりに私たちがもっているのは、物理学、法、詩、倫理といった多くの語彙であり、それぞれがある目的に役立ちます。私たちは、どこでもない場所から世界と比べることによってではなく、他の人々との会話のなかで信念を試すことによって、信念をよりよいものにしていきます。
 
 ---
 
