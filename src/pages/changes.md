@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-10-07 — Truth and the roles of knowers
+
+Prompted by a question about how philosophy and science were once one, how ideas about truth have changed, and how the roles of philosophers, scientists, engineers, and artists have shifted. Added three essays. "When Philosophy and Science Were One" follows natural philosophy from Greece through the Islamic world, India, China, medieval Europe, the Scientific Revolution, and Edo Japan to the naming of the "scientist" in 1833. "How Ideas About Truth Have Changed" traces correspondence, Indian and Buddhist alternatives, foundations from Descartes to Kant, pragmatism, positivism, Popper, Kuhn, science studies, the science wars, and "post-truth". "Philosophers, Scientists, Engineers, and Artists" follows how those roles separated, from Greek *episteme* and *techne* to Renaissance artisans, engineers, Romanticism, Big Science, art-and-technology collaborations, and today's technology companies.
+
+<!-- -->
+
+哲学と科学がかつて一つだったこと、真理についての考え方がどう変わってきたか、そして哲学者・科学者・技術者・芸術家の役割がどう移り変わってきたか、という問いを受けて、三つのエッセイを加えました。「哲学と科学が一つだったころ」は、ギリシアからイスラーム世界、インド、中国、中世ヨーロッパ、科学革命、江戸の日本を経て、1833年に「サイエンティスト」という名がつけられるまでの自然哲学をたどります。「真理をめぐる考え方の移り変わり」は、対応説、インドと仏教の別の考え方、デカルトからカントまでの基礎づけ、プラグマティズム、実証主義、ポパー、クーン、科学論、サイエンス・ウォーズ、そして「ポスト真実」をたどります。「哲学者・科学者・技術者・芸術家」は、ギリシアのエピステーメーとテクネーから、ルネサンスの職人、技術者、ロマン主義、ビッグ・サイエンス、芸術と技術の協働、今日のテクノロジー企業まで、それらの役割がどう分かれてきたかを追います。
+
+---
+
 ## 2026-10-07 — Jean-Paul Sartre
 
 Prompted by a request about Jean-Paul Sartre. Added a page on him: his life and the war, "existence precedes essence" and radical freedom, *Being and Nothingness* (bad faith and the look), literature and commitment alongside Simone de Beauvoir, his politics from the break with Camus to the *Critique of Dialectical Reason*, anti-colonialism and the late Maoist years, his critics (Aron, Lévi-Strauss, Foucault), and his reception in Japan, including the 1966 visit.
