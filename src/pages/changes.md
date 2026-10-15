@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-10-15 — Anti-intellectualism
+
+Prompted by the suggestion that "anti-intellectualism" was never meant as an insult for people who ignore science, but as a recognition that some people are not persuaded by intellectuals' evidence and logic, and that understanding where they come from matters. Added a page that tests this against Hofstadter's original book, Morimoto Anri's egalitarian reading and the 2015 Japanese debate around Uchida Tatsuru, research on identity-protective cognition and lay knowledge, and writers on resentment such as Hochschild and Sandel. It also sets out how the idea is misused: as a label, as a political weapon against expertise, as relativism, and as manipulation. "How Ideas About Truth Have Changed" now mentions the science-communication research.
+
+<!-- -->
+
+「反知性主義」はもともと科学を無視する人々への悪口ではなく、知識人の示す証拠や論理に納得しない人々がいることを認め、その人々がどこから来ているのかを理解することが大切だ、という考えだったのではないか、という指摘を受けて、ページを加えました。この見方を、ホーフスタッターの原著、森本あんりの平等主義的な読み、内田樹をめぐる2015年の日本での論争、アイデンティティ保護的認知や素人の知識についての研究、そしてホックシールドやサンデルのような怨念を論じた書き手たちに照らして検討しています。また、この考えがどう誤用されるか—レッテルとして、専門知に対する政治的な武器として、相対主義として、操作として—も示しました。「真理をめぐる考え方の移り変わり」には、科学コミュニケーションの研究についての記述を加えました。
+
+---
+
 ## 2026-10-07 — Truth and the roles of knowers
 
 Prompted by a question about how philosophy and science were once one, how ideas about truth have changed, and how the roles of philosophers, scientists, engineers, and artists have shifted. Added three essays. "When Philosophy and Science Were One" follows natural philosophy from Greece through the Islamic world, India, China, medieval Europe, the Scientific Revolution, and Edo Japan to the naming of the "scientist" in 1833. "How Ideas About Truth Have Changed" traces correspondence, Indian and Buddhist alternatives, foundations from Descartes to Kant, pragmatism, positivism, Popper, Kuhn, science studies, the science wars, and "post-truth". "Philosophers, Scientists, Engineers, and Artists" follows how those roles separated, from Greek *episteme* and *techne* to Renaissance artisans, engineers, Romanticism, Big Science, art-and-technology collaborations, and today's technology companies.
