@@ -22,6 +22,14 @@ The question of how models relate to reality became pressing because complexity 
 
 モデルが現実とどう関係するのかという問いが切実になったのは、複雑系のモデルが実験室から政策の場へと移ったからです。世界経済、気候、感染症、金融市場のモデルは、何百万人もの人々に影響する決定を正当化するために使われ、その仮定を外部の人が容易に点検できない専門家によって動かされることが多くあります。同時にコンピュータは、多くの部分と調整可能な設定をもつモデルを安く組めるようにしましたが、そうしたモデルは、過去のほとんどどんなデータでも再現するように調整できてしまいます。こうした圧力が、地図と土地、説明と予測、還元と創発についての古い哲学的な問いを、実際的な問いに変えました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/simulations-science/">Computer Simulations in Science (SEP)</a> — Philosophical guide to how simulations are built, tuned, and trusted.<span class="ja">シミュレーションの作り方、調整、信頼性をめぐる哲学的な解説です。</span></li>
+<li><a href="https://www.complexityexplorer.org/">Complexity Explorer</a> — Free courses from the Santa Fe Institute on building and testing complex-systems models.<span class="ja">複雑系のモデルの作り方と検証を学べるサンタフェ研究所の無料講座です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## The map and the territory
@@ -32,6 +40,14 @@ The philosopher Alfred Korzybski's phrase ["the map is not the territory"](https
 <!-- -->
 
 哲学者アルフレッド・コージブスキーの[「地図は土地ではない」](https://en.wikipedia.org/wiki/Alfred_Korzybski)という言葉（1931年。『科学と正気』1933年）は、基本的な点をとらえています。モデルが役に立つのは、それが表すものとある構造を共有しているからであって、それと同じものだからではありません。ホルヘ・ルイス・ボルヘスの一段落の短編「学問の厳密さについて」（1946年）は、地図製作者たちが帝国と同じ大きさの地図を描く帝国を想像します。その地図は完全に正確で、完全に役に立ちません。統計学者ジョージ・ボックスの「すべてのモデルは間違っているが、いくつかは役に立つ」という言葉は、1976年からの論文で練り上げられ、モデルを作る人々の標語になりました。複雑系科学では、これらの指摘はとくに重みをもちます。複雑系とは定義上、少数の相互作用を省くだけで全体の振る舞いが変わりうるシステムだからです。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/models-science/">Models in Science (SEP)</a> — Survey of what scientific models are and how they represent the world.<span class="ja">科学のモデルとは何か、それが世界をどう表すかの概説です。</span></li>
+<li><a href="https://doi.org/10.1080/01621459.1976.10480949">Box, Science and Statistics (1976)</a> — Box&#x27;s paper arguing that all models are wrong and must be judged by use.<span class="ja">すべてのモデルは誤りであり、有用性で判断すべきだと論じたボックスの論文です。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -44,6 +60,15 @@ Models do different jobs. The modeller Joshua Epstein's essay ["Why Model?"](htt
 
 モデルはさまざまな仕事をします。モデル研究者ジョシュア・エプスタインの論考[「なぜモデルを作るのか」](https://jasss.soc.surrey.ac.uk/11/4/12.html)（2008年）は、予測以外の多くの目的を挙げました。説明すること、データ収集を導くこと、中心的な動態を照らし出すこと、新しい問いを見つけること、そして一見単純な結果に多くの原因がありうることを示すことです。トマス・シェリングの分居モデルがその例です。このモデルは実在のどの都市の地図も予測しませんが、強い偏見がなくても強い分断が生じうることを示し、それによって何を探すべきかを変えます。哲学者たちはこうした事例を「いかにして可能か」の説明と呼び、実際に何が起きたのかを特定する「実際にどうであったか」の説明と対比します。この二つの混同は、主張の誇張のよくある源です。あるパターンを再現するモデルは、それが生じうる一つの道筋を示すのであって、実際にその道筋で生じたことを示すわけではありません。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/scientific-explanation/">Scientific Explanation (SEP)</a> — Overview of philosophical theories of what makes an explanation.<span class="ja">説明とは何かをめぐる哲学の諸理論の概説です。</span></li>
+<li><a href="https://doi.org/10.1080/0022250X.1971.9989794">Schelling, Dynamic Models of Segregation (1971)</a> — Schelling&#x27;s original paper on how mild preferences produce segregation.<span class="ja">弱い好みが分居を生むことを示したシェリングの原論文です。</span></li>
+<li><a href="https://ncase.me/polygons/">Nicky Case: Parable of the Polygons</a> — Playable &quot;how-possibly&quot; model of segregation from mild bias.<span class="ja">弱い偏りから分居が生まれうることを試せる対話型モデルです。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Where models have earned trust
@@ -55,16 +80,34 @@ Some complex-system models have strong track records. Weather forecasts have imp
 
 複雑系のモデルのなかには、確かな実績をもつものがあります。天気予報は、カオスにもかかわらず、物理モデルと膨大な観測を組み合わせ、少しずつ異なる多くの予報を同時に走らせることで、二十世紀半ば以降、十年ごとにおよそ一日分ずつ役に立つ予報期間を延ばしてきました。真鍋淑郎のものを含む1970年代以降の気候モデルは、のちに観測された温暖化をおおまかに予測していました。感染症のモデルは、集団を感受性者・感染者・回復者に分けたウィリアム・カーマックとアンダーソン・マッケンドリックの1927年の方程式に由来します。COVID-19のパンデミックのあいだ、それらは計画に欠かせないものでしたが、人々の行動や政策が変わり続けたため、個々の予測はしばしば外れました。パターンははっきりしています。モデルが信頼を得るのは、その物理や仕組みがよく理解され、新しいデータで確かめられ、その不確かさが誠実に報告されているときです。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://doi.org/10.1038/nature14956">Bauer, Thorpe &amp; Brunet, The quiet revolution of numerical weather prediction (2015)</a> — Review of how forecasts gained about a day of skill per decade.<span class="ja">天気予報が10年ごとに約1日ずつ精度を伸ばした歩みの総説です。</span></li>
+<li><a href="https://doi.org/10.1029/2019GL085378">Hausfather et al., Evaluating past climate model projections (2020)</a> — Test of 1970s–2000s climate model projections against observed warming.<span class="ja">1970〜2000年代の気候モデルの予測を観測された温暖化と照合した研究です。</span></li>
+<li><a href="https://doi.org/10.1098/rspa.1927.0118">Kermack &amp; McKendrick (1927)</a> — The founding paper of SIR-type epidemic models.<span class="ja">SIR型の感染症モデルの出発点となった論文です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Where models have overreached
 ## モデルが行き過ぎたところ
 
-Other cases show the risks. *The Limits to Growth* (1972), built on Jay Forrester's World3 system-dynamics model for the Club of Rome, projected that unchecked growth would lead to collapse in the twenty-first century. Economists attacked its crude assumptions about technology and prices, and it was often misremembered as predicting collapse by 2000, which it did not. A 2008 comparison by Graham Turner found that thirty years of data had tracked its "business as usual" scenario fairly closely, so its standing remains [debated](https://docs.niwa.co.nz/library/public/CSIROwp2008-09.pdf). In network science and physics, claims that power laws or scale-free networks are universal often rested on plotting data on log-log graphs, and later statistical tests found the evidence weaker than claimed. In 1995 the journalist John Horgan's *Scientific American* article "From Complexity to Perplexity" argued that the field had produced elegant computer worlds with little connection to real ones. Many complexity researchers accept parts of these criticisms and have moved toward more careful testing against data.
+Other cases show the risks. *The Limits to Growth* (1972), written for the Club of Rome by Donella Meadows, Dennis Meadows, and colleagues at MIT using the World3 model, an extension of Jay Forrester's system dynamics, projected that unchecked growth would lead to collapse in the twenty-first century. Economists attacked its crude assumptions about technology and prices, and it was often misremembered as predicting collapse by 2000, which it did not. A 2008 comparison by Graham Turner found that thirty years of data had tracked its "business as usual" scenario fairly closely, so its standing remains [debated](https://docs.niwa.co.nz/library/public/CSIROwp2008-09.pdf). In network science and physics, claims that power laws or scale-free networks are universal often rested on plotting data on log-log graphs, and later statistical tests found the evidence weaker than claimed. In 1995 the journalist John Horgan's *Scientific American* article "From Complexity to Perplexity" argued that the field had produced elegant computer worlds with little connection to real ones. Many complexity researchers accept parts of these criticisms and have moved toward more careful testing against data.
 
 <!-- -->
 
-ほかの事例は、危うさを示しています。ローマ・クラブのためにジェイ・フォレスターのシステム・ダイナミクスのモデル「ワールド3」をもとにつくられた『成長の限界』（1972年）は、歯止めのない成長は二十一世紀に崩壊をもたらすと予測しました。経済学者たちは、技術や価格についての粗い仮定を批判し、この本はしばしば2000年までの崩壊を予測したと誤って記憶されましたが、そうは予測していませんでした。グレアム・ターナーによる2008年の比較は、三十年分のデータがその「成り行き」のシナリオにかなり近い道筋をたどっていたことを見いだし、そのためこの本の評価はいまも[議論されています](https://docs.niwa.co.nz/library/public/CSIROwp2008-09.pdf)。ネットワーク科学や物理学では、べき乗則やスケールフリー・ネットワークが普遍的だという主張は、しばしばデータを両対数グラフに描くことに頼っており、のちの統計的な検定は、その証拠が主張されたより弱いことを見いだしました。1995年、ジャーナリストのジョン・ホーガンは『サイエンティフィック・アメリカン』誌の記事「複雑さから当惑へ」で、この分野は現実の世界とはほとんどつながりのない、優雅なコンピュータの世界を生み出してきたと論じました。多くの複雑系研究者は、こうした批判の一部を受け入れ、データに照らしたより注意深い検証へと向かってきました。
+ほかの事例は、危うさを示しています。ドネラ・メドウズ、デニス・メドウズらMITの研究者が、ジェイ・フォレスターのシステム・ダイナミクスを発展させたモデル「ワールド3」を使ってローマ・クラブのために書いた『成長の限界』（1972年）は、歯止めのない成長は二十一世紀に崩壊をもたらすと予測しました。経済学者たちは、技術や価格についての粗い仮定を批判し、この本はしばしば2000年までの崩壊を予測したと誤って記憶されましたが、そうは予測していませんでした。グレアム・ターナーによる2008年の比較は、三十年分のデータがその「成り行き」のシナリオにかなり近い道筋をたどっていたことを見いだし、そのためこの本の評価はいまも[議論されています](https://docs.niwa.co.nz/library/public/CSIROwp2008-09.pdf)。ネットワーク科学や物理学では、べき乗則やスケールフリー・ネットワークが普遍的だという主張は、しばしばデータを両対数グラフに描くことに頼っており、のちの統計的な検定は、その証拠が主張されたより弱いことを見いだしました。1995年、ジャーナリストのジョン・ホーガンは『サイエンティフィック・アメリカン』誌の記事「複雑さから当惑へ」で、この分野は現実の世界とはほとんどつながりのない、優雅なコンピュータの世界を生み出してきたと論じました。多くの複雑系研究者は、こうした批判の一部を受け入れ、データに照らしたより注意深い検証へと向かってきました。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://doi.org/10.1111/jiec.13084">Herrington, Update to Limits to Growth (2021)</a> — Recent comparison of World3 scenarios with data up to 2019.<span class="ja">World3のシナリオを2019年までのデータと比べた近年の研究です。</span></li>
+<li><a href="https://doi.org/10.1038/scientificamerican0695-104">Horgan, From Complexity to Perplexity (1995)</a> — Horgan&#x27;s critical Scientific American article on complexity research.<span class="ja">複雑系研究を批判したホーガンの『サイエンティフィック・アメリカン』記事です。</span></li>
+<li><a href="https://arxiv.org/abs/1801.03400">Broido &amp; Clauset, Scale-free networks are rare (2018 preprint)</a> — Free preprint testing the scale-free claim on nearly 1,000 networks.<span class="ja">約1000のネットワークでスケールフリー説を検証した論文の無料プレプリントです。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -77,6 +120,14 @@ The financial crisis of 2008 sharpened the debate in economics. Mainstream macro
 
 2008年の金融危機は、経済学における議論を鋭くしました。当時の主流のマクロ経済モデルは、代表的な主体と、均衡に戻る市場を前提としており、実際に起きた連鎖的な破綻の入る余地はほとんどありませんでした。J・ドイン・ファーマーとダンカン・フォーリーは[『ネイチャー』誌](https://ideas.repec.org/a/nat/nature/v460y2009i7256d10.1038_460685a.html)（2009年）で、経済には、相互作用する多様な企業・銀行・家計をシミュレーションするエージェント・ベース・モデルが必要だと論じました。その後、中央銀行は金融の連鎖のネットワーク・モデルやいくつかのエージェント・ベースの道具を加えてきましたが、主流の経済学者は、そうしたモデルは較正や検証が難しく、標準的なモデルも金融の摩擦を含むように拡張されてきたと応じます。この出来事は、繰り返し現れる型を示しています。複雑系のアプローチが最も説得力をもつのは既存のモデルの失敗が目に見えるときであり、最も論争の的になるのは、それがよりうまくやれることを証明しなければならないときです。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://doi.org/10.1038/nature09659">Haldane &amp; May, Systemic risk in banking ecosystems (2011)</a> — Bank of England economist and ecologist apply network ideas to financial contagion.<span class="ja">経済学者と生態学者がネットワークの考えを金融危機の連鎖に応用した論文です。</span></li>
+<li><a href="https://plato.stanford.edu/entries/economics/">Philosophy of Economics (SEP)</a> — Overview of debates over models, idealisation, and explanation in economics.<span class="ja">経済学におけるモデル、理想化、説明をめぐる議論の概説です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Reduction, emergence, and what is real
@@ -87,3 +138,12 @@ Behind these debates lies a philosophical question: are the patterns that comple
 <!-- -->
 
 こうした議論の背後には、一つの哲学的な問いがあります。複雑系科学が記述するパターンは実在するのか、それとも便利な要約にすぎないのか、という問いです。フィリップ・アンダーソンの「多は異なり」（1972年）は、固さや超伝導のような上位の性質は、根底にある物理学に何も反していないとしても、独自の概念を必要とする世界の実在の特徴だと論じました。マーク・ベドーらの哲学者はこれを弱い創発と呼び、広く受け入れていますが、強い創発—物理学が原理的にさえ説明できない新しい因果的な力—はいまも論争の的です。ローティのプラグマティズムに近い実際的な中間の見方は、記述のそれぞれの階層を道具として扱います。物理学、化学、生態学、経済学は、それぞれある目的にとって信頼できるパターンを取り出している、という見方です。この見方に立てば、複雑系のモデルがよいのは、それが現実を完全に映すとき—どのモデルにもそれはできません—ではなく、問われている問いにとって大切なパターンを追えているときです。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/properties-emergent/">Emergent Properties (SEP)</a> — Survey of weak and strong emergence and their philosophical stakes.<span class="ja">弱い創発と強い創発、その哲学的な意味の概説です。</span></li>
+<li><a href="https://plato.stanford.edu/entries/scientific-reduction/">Scientific Reduction (SEP)</a> — What it means to reduce one level of description to another.<span class="ja">ある記述の階層を別の階層へ還元するとはどういうことかの解説です。</span></li>
+<li><a href="https://doi.org/10.1126/science.177.4047.393">Anderson, More Is Different (1972)</a> — The original Science article on broken symmetry and levels of organisation.<span class="ja">対称性の破れと組織化の階層を論じた『サイエンス』誌の原論文です。</span></li>
+</ul>
+</aside>
