@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-10-20 — Pure and applied science
+
+Prompted by a summary of the terms for knowledge pursued for its own sake — pure or basic science, theoretical science, pure mathematics, exact or first-principles sciences — in contrast to applied science and engineering. Added a page that sets out these terms and adds four qualifications from historians and philosophers: theory relies on idealisation and approximation too (Cartwright), "useless" mathematics becomes useful (Hardy and cryptography), basic and applied research often coincide (Stokes's *Pasteur's Quadrant*), and engineering has its own kinds of knowledge (Vincenti, Simon). It also covers how Japanese universities split *rigaku* and *kōgaku* in 1886.
+
+<!-- -->
+
+それ自体のために追求される知識を指す言葉—純粋科学または基礎科学、理論科学、純粋数学、精密科学や第一原理の科学—を、応用科学や工学と対比させた整理を受けて、ページを加えました。これらの言葉を説明したうえで、歴史家や哲学者による四つの留保を加えています。理論も理想化と近似に頼っていること（カートライト）、「役に立たない」数学が役に立つようになること（ハーディと暗号）、基礎研究と応用研究はしばしば重なること（ストークスの『パスツールの象限』）、そして工学には独自の種類の知識があること（ヴィンセンティ、サイモン）です。また、日本の大学が1886年に理学と工学を分けた経緯も扱っています。
+
+---
+
 ## 2026-10-15 — Anti-intellectualism
 
 Prompted by the suggestion that "anti-intellectualism" was never meant as an insult for people who ignore science, but as a recognition that some people are not persuaded by intellectuals' evidence and logic, and that understanding where they come from matters. Added a page that tests this against Hofstadter's original book, Morimoto Anri's egalitarian reading and the 2015 Japanese debate around Uchida Tatsuru, research on identity-protective cognition and lay knowledge, and writers on resentment such as Hochschild and Sandel. It also sets out how the idea is misused: as a label, as a political weapon against expertise, as relativism, and as manipulation. "How Ideas About Truth Have Changed" now mentions the science-communication research.
