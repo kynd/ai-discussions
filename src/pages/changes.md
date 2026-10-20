@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-10-20 — Complex systems and further resources
+
+Prompted by a request for pages on complex systems, their theoretical background and key theories, and how their models relate to reality — and for further-reading links under every section of every page. Added three essays: "Complex Systems: Origins and Background" (Weaver, cybernetics, chaos, self-organization, the Santa Fe Institute, Japanese contributions from Ueda, Kuramoto, and Kaneko, and the 2021 Nobel Prize); "Key Theories of Complex Systems" (chaos, emergence, synchronization, networks, power laws, adaptive systems, information, resilience); and "Complexity Models and Reality" (map and territory, how-possibly explanations, successes, overreach, economics after 2008, emergence). Every section across the collection now ends with a short list of further resources, each with a one-line description in both languages. Researching them turned up several corrections: Dewey's 1909 lecture title, the *Edwards v. Aguillard* ruling, Woese and Fox's 1977 "archaebacteria" (renamed Archaea in 1990), the dates of the Kōbu Daigakkō, the 1885 separation of engineering at Tokyo, the Watt–Black story, and added nuance on Jenkin, Moore and Spencer, Hansen, and the spandrels metaphor.
+
+<!-- -->
+
+複雑系について、その理論的な背景と主な理論、そしてそのモデルが現実とどう関係するのかを扱うページと、すべてのページのすべての節に関連資料のリンクを加えてほしいという依頼を受けて、三つのエッセイを加えました。「複雑系：その起源と背景」（ウィーバー、サイバネティクス、カオス、自己組織化、サンタフェ研究所、上田・蔵本・金子らの日本の貢献、2021年のノーベル賞）、「複雑系の主な理論」（カオス、創発、同期、ネットワーク、べき乗則、適応系、情報、レジリエンス）、「複雑系のモデルと現実」（地図と土地、「いかにして可能か」の説明、成功例、行き過ぎ、2008年以後の経済学、創発）です。コレクション全体のすべての節の終わりに、二言語の一行の説明を添えた関連資料の短い一覧を置きました。その調査の過程で、いくつかの訂正が見つかりました。デューイの1909年の講演の題、エドワーズ対アギラード事件の判決、ウーズとフォックスによる1977年の「古細菌（アーキバクテリア）」（1990年にアーキアと改名）、工部大学校の年代、1885年の東京での工学の分離、ワットとブラックの逸話です。また、ジェンキン、ムーアとスペンサー、ハンセン、スパンドレルの比喩について留保を加えました。
+
+---
+
 ## 2026-10-20 — Pure and applied science
 
 Prompted by a summary of the terms for knowledge pursued for its own sake — pure or basic science, theoretical science, pure mathematics, exact or first-principles sciences — in contrast to applied science and engineering. Added a page that sets out these terms and adds four qualifications from historians and philosophers: theory relies on idealisation and approximation too (Cartwright), "useless" mathematics becomes useful (Hardy and cryptography), basic and applied research often coincide (Stokes's *Pasteur's Quadrant*), and engineering has its own kinds of knowledge (Vincenti, Simon). It also covers how Japanese universities split *rigaku* and *kōgaku* in 1886.

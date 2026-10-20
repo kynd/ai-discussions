@@ -22,6 +22,14 @@ Three things kept philosophy and the study of nature together for so long. First
 
 哲学と自然の研究がこれほど長く一つであり続けた理由は三つあります。一つ目に、問いが重なっていました。世界は何からできているかを問うことは、そのまま、私たちは何者か、どうすれば知ることができるか、どう生きるべきか、という問いにつながりました。二つ目に、道具が同じでした。注意深い推論、議論、そして感覚を大きく広げたり試したりできる器具のない観察です。三つ目に、知識は権威ある書物—アリストテレス、聖書、クルアーン、儒教の経典—を中心に組み立てられていたため、新しい主張はたいてい注釈の形をとりました。分裂が起きたのは、新しい器具（望遠鏡・顕微鏡・空気ポンプ）、新しい制度（科学協会と学術誌）、そして印刷によって、人々が書物を介さずに互いの結果を直接確かめられるようになったときでした。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.worldhistory.org/review/273/the-territories-of-science-and-religion">Review: The Territories of Science and Religion (World History Encyclopedia)</a> — Review of Peter Harrison&#x27;s history of how &#x27;scientia&#x27; and natural philosophy became modern &#x27;science&#x27;.<span class="ja">ピーター・ハリソンによる、「スキエンティア」と自然哲学が近代の「科学」になるまでの歴史書の書評です。</span></li>
+<li><a href="https://www.christiancentury.org/reviews/2016-01/territories-science-and-religionby-peter-harrison">Review: The Territories of Science and Religion (Christian Century)</a> — A second review of Harrison&#x27;s argument that &#x27;science&#x27; as a separate domain dates only from the nineteenth century.<span class="ja">独立した領域としての「科学」は十九世紀以降のものだというハリソンの議論を扱う、もう一つの書評です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Greek natural philosophy
@@ -32,6 +40,15 @@ The early Greek thinkers of the sixth century BCE, such as Thales and Anaximande
 <!-- -->
 
 紀元前六世紀のタレスやアナクシマンドロスといった初期のギリシアの思想家たちは、あらゆるものは何からできているかを問い、神々に頼らずに答えようとしました。プラトンは、真の知識とは、感覚が示す変化する世界についてではなく、理性がとらえる不変のイデアについてのものだと考えました。アリストテレス（前384〜前322年）は反対の方向に進みました。彼は動物を集めて分類し、気象や天体を研究し、論理学・倫理学・政治学・詩学について書きましたが、それはすべて一つの探究の部分でした。彼は、そうでしかありえない原因についての知である「エピステーメー」と、職人の技能である「テクネー」を区別しました。この区別と、手仕事の地位の低さは、二千年にわたって続きました。のちにエウクレイデスの幾何学とプトレマイオスの天文学（『アルマゲスト』、150年ごろ）は、数学がいかに正確に自然を記述できるかを示しました。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/presocratics/">Presocratic Philosophy (Stanford Encyclopedia of Philosophy)</a> — Patricia Curd&#x27;s introduction to Thales, Anaximander and the other first Greek philosopher-scientists.<span class="ja">パトリシア・カードによる、タレスやアナクシマンドロスら最初のギリシアの哲学者＝科学者への入門です。</span></li>
+<li><a href="https://plato.stanford.edu/entries/episteme-techne/">Episteme and Techne (Stanford Encyclopedia of Philosophy)</a> — How Plato, Aristotle and later thinkers related theoretical knowledge to craft know-how.<span class="ja">プラトン、アリストテレス、それ以降の思想家が理論的な知と職人の技能をどう関係づけたかの解説です。</span></li>
+<li><a href="https://historyofphilosophy.net/podcast/classical-greek/presocratic">History of Philosophy without any gaps: Presocratic Philosophy</a> — Peter Adamson&#x27;s free podcast episodes on the early Greek thinkers, starting with Thales.<span class="ja">ピーター・アダムソンによる、タレスから始まる初期ギリシアの思想家を扱う無料ポッドキャストです。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -44,6 +61,15 @@ From the ninth century, scholars in Baghdad and elsewhere translated and extende
 
 九世紀から、バグダードなどの学者たちはギリシアの著作を翻訳し、発展させました。イブン・スィーナー（アヴィケンナ）は形而上学と『医学典範』（1025年）の両方を書きました。イブン・アル＝ハイサムは『光学の書』（1011〜21年ごろ）で、他の人が再現できるほど詳しく光の実験を記述し、権威を信じるのではなく主張を試すよう読者に促しました。彼は最初の科学者と呼ばれることもありますが、その方法がどこまで近代の実験に似ていたかについては、歴史家のあいだで[議論があります](https://pmc.ncbi.nlm.nih.gov/articles/PMC6074172)。インドでは、ニヤーヤ学派が、知識の正しい手段である「プラマーナ」—知覚、推論、類比、証言—を、哲学の一部として練り上げました。中国では、墨家の経典（前四世紀ごろ）が光学や力学の観察を記録し、士大夫の沈括による『夢渓筆談』（1088年）は磁気から化石までを扱いました。新儒教の朱熹（1130〜1200年）は「格物」、すなわち[「物に格（いた）る」](https://philpapers.org/browse/zhu-xi)ことを説きました。植物から歴史、経典に至るまで、あらゆるもののうちにある理を根気強く学ぶことで、それは自然の知識と同じくらい、道徳的な自己修養を目指すものでした。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/arabic-islamic-natural/">Arabic and Islamic Natural Philosophy and Natural Science (Stanford Encyclopedia of Philosophy)</a> — Jon McGinnis&#x27;s survey of natural philosophy and science in the medieval Islamic world.<span class="ja">ジョン・マクギニスによる、中世イスラーム世界の自然哲学と自然科学の概説です。</span></li>
+<li><a href="https://iep.utm.edu/nyaya/">Nyāya (Internet Encyclopedia of Philosophy)</a> — Matthew Dasti&#x27;s account of the Nyāya school and its theory of the pramāṇas, the sources of knowledge.<span class="ja">マシュー・ダスティによる、ニヤーヤ学派と知識の源泉「プラマーナ」の理論の解説です。</span></li>
+<li><a href="https://plato.stanford.edu/entries/zhu-xi/">Zhu Xi (Stanford Encyclopedia of Philosophy)</a> — Kirill Thompson&#x27;s entry on the Neo-Confucian master, including his teaching on the investigation of things.<span class="ja">キリル・トンプソンによる新儒教の大家・朱熹の項目で、「格物」の教えも扱います。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Medieval Europe: knowledge under theology
@@ -54,6 +80,13 @@ In medieval Europe the universities that formed from the twelfth century, such a
 <!-- -->
 
 中世ヨーロッパでは、ボローニャ、パリ、オックスフォードのように十二世紀から形成された大学が、自由学芸を教え、そのうえで法学・医学・神学の上級学部を置きました。神学は「諸学の女王」と呼ばれました。ラテン語の「スキエンティア」は、あらゆる体系的な知識を意味し、神学もその一つに数えられました。トマス・アクィナスらの思想家は、アリストテレスの自然哲学をキリスト教の教義に組み込もうと努めました。この枠組みのなかにも本物の探究がありました。ロバート・グロステストやロジャー・ベーコンは光学や経験の価値について書き、十四世紀のオックスフォードやパリの学者たちは運動を数学的に分析しました。それでも、自然についての問いは主に、受け入れられた書物からの推論によって決着がつけられていました。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/grosseteste/">Robert Grosseteste (Stanford Encyclopedia of Philosophy)</a> — The Bishop of Lincoln&#x27;s work on light, optics, and scientific demonstration within a theological world.<span class="ja">リンカン司教グロステストの、神学的な世界のなかでの光・光学・科学的論証についての仕事の解説です。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -66,6 +99,15 @@ Between Nicolaus Copernicus's sun-centred astronomy (1543) and Newton's *Princip
 
 ニコラウス・コペルニクスの太陽中心の天文学（1543年）からニュートンの『プリンキピア』（1687年）までのあいだに、ヨーロッパの人々が自然を研究するやり方は変わりました。ガリレオ・ガリレイは1609年に望遠鏡を空に向け、自然という書物は「数学の言葉で書かれている」と論じました。1633年の彼の裁判は、教会の権威にとって何がかかっていたかを示しています。フランシス・ベーコンの[『ノヴム・オルガヌム』](https://en.wikipedia.org/wiki/Novum_Organum)（1620年）は、アリストテレスからではなく、体系的な観察と実験から積み上げる知識を求めました。ルネ・デカルトはあらゆるものを疑うことで確実性を求め、理性の上に知識を組み立て直し、自然を機械として描きました。1660年にロンドンで創設された王立協会は、実験を公開のものにしました。結果は証人の前で示され、1665年からはその『フィロソフィカル・トランザクションズ』に印刷されました。こうした人々は、なお自分を哲学者と見なしていました。ニュートンは錬金術や聖書の年代学にも長い年月を費やし、デカルトの物理学と形而上学は一つの体系でした。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.gutenberg.org/ebooks/45988">Novum Organum, by Francis Bacon (Project Gutenberg)</a> — Free English text of Bacon&#x27;s 1620 call for knowledge built from observation and experiment.<span class="ja">観察と実験から知識を築くことを求めたベーコンの1620年の著作の、無料の英訳テキストです。</span></li>
+<li><a href="https://library.si.edu/digital-library/book/philosophicaltr1roya">Philosophical Transactions v.1–2, 1665–1667 (Smithsonian Libraries)</a> — Digitised first volumes of the Royal Society&#x27;s journal, readable page by page.<span class="ja">王立協会の学術誌の最初期の巻をデジタル化したもので、ページごとに読めます。</span></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4360128/">Celebrating 350 years of Philosophical Transactions (PMC)</a> — Open-access essay on the journal founded by Henry Oldenburg in 1665 and its landmark papers.<span class="ja">1665年にヘンリー・オルデンバーグが創刊した学術誌と、その画期的な論文を振り返るオープンアクセスの論考です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Japan: from Chinese learning to Dutch studies
@@ -77,6 +119,15 @@ In Edo-period Japan, learning about nature came first through Chinese texts and 
 
 江戸時代の日本では、自然についての学びは、まず中国の書物と、「理を窮める」（窮理）という新儒教の考えを通じてもたらされました。十八世紀からは蘭学者たちが、長崎を通じて輸入されたヨーロッパの書物を読みました。1771年、医師の杉田玄白と前野良沢はオランダの解剖書を手に腑分けを見学し、人体が中国の書物ではなく[オランダの図に一致する](https://en.wikipedia.org/wiki/Sugita_Genpaku)ことを確かめました。彼らの翻訳『解体新書』（1774年）は、受け継がれた権威よりも観察を信頼する画期となりました。1868年以後に西洋の学問が本格的に入ってくると、日本の学者たちは、知識の新しい区分を表す言葉をつくらなければなりませんでした。西周は[『百一新論』（1874年）](https://utcp.c.u-tokyo.ac.jp/publications/pdf/UTCPBooklet19_06_Takayanagi.pdf)で「philosophy」の訳語として「哲学」を広めました。こうして日本は、ヨーロッパが二つを分けたばかりのその時期に、哲学と科学をすでに別々の学科として受け取りました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.ndl.go.jp/nichiran/">江戸時代の日蘭交流（国立国会図書館 電子展示会）</a> — National Diet Library online exhibition on Dutch–Japanese exchange, rangaku scholars, and Rangaku Kotohajime.<span class="ja">国立国会図書館の電子展示会。日蘭交流、蘭学者の活躍、『蘭学事始』などを紹介しています。</span></li>
+<li><a href="https://www.ndl.go.jp/jp/event/exhibitions/exhibition2022.html">知識を世界に求めて（国立国会図書館 令和4年度企画展示）</a> — NDL exhibition on how Japan sought knowledge abroad, with digitised items including Kaitai Shinsho.<span class="ja">日本が海外に知識を求めた歩みをたどる国立国会図書館の企画展示。『解体新書』などのデジタル資料を含みます。</span></li>
+<li><a href="https://www.britannica.com/topic/rangaku">Rangaku (Britannica)</a> — Concise overview of &#x27;Dutch learning&#x27; in late Tokugawa Japan and its later influence.<span class="ja">江戸後期の「蘭学」とその後の影響についての簡潔な概説です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Naming the split
@@ -87,3 +138,11 @@ The split took its modern shape in the nineteenth century. At a meeting of the B
 <!-- -->
 
 分裂は十九世紀に近代的な形をとりました。1833年、英国科学振興協会の会合で、ウィリアム・ヒューウェルは物質世界を研究する人々を指す言葉として、「アーティスト」との類比から[「サイエンティスト」](https://www.grammarphobia.com/blog/2012/06/scientist.html)を提案しました。大学は物理学・化学・生物学のために別々の学科、実験室、学位をつくりました。ヒューウェル、ジョン・ハーシェル、ジョン・スチュアート・ミルらは科学の正しい方法をめぐって議論し、十九世紀後半には「科学的方法」が、あらゆる科学に共通する一つの手順として教えられるようになります。これは単純化であり、科学哲学者たちはそれ以来ずっと疑問を投げかけてきました。科学が引き受けなかったものを残された哲学は、しだいに論理・言語・知識・倫理へと向かいました。心理学や社会科学も、続いて分かれていきました。かつての一体性は、物理学で授与される博士号が「哲学博士（PhD）」と呼ばれるといった、いくつかの名前に残っています。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/whewell/">William Whewell (Stanford Encyclopedia of Philosophy)</a> — Laura Snyder&#x27;s entry on the polymath who coined &#x27;scientist&#x27; and wrote on inductive method.<span class="ja">「サイエンティスト」という語をつくり、帰納の方法を論じた博識家ヒューウェルについての、ローラ・スナイダーによる項目です。</span></li>
+<li><a href="https://shc.stanford.edu/stanford-humanities-center/news/rethinking-origins-scientific-method">Rethinking the origins of &quot;the scientific method&quot; (Stanford Humanities Center)</a> — Interview with historian Henry Cowles on how the idea of one scientific method arose in the nineteenth century.<span class="ja">単一の「科学的方法」という考えが十九世紀にどう生まれたかについての、歴史家ヘンリー・カウルズへのインタビューです。</span></li>
+</ul>
+</aside>

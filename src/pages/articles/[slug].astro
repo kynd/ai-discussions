@@ -144,6 +144,23 @@ const updatedStr = fmtDate(doc.data.updated);
   .prose em { font-style: italic; }
   .prose ul, .prose ol { padding-left: 1.5rem; margin-bottom: 1.5rem; }
   .prose li { margin-bottom: 0.5rem; }
+  .prose .resources {
+    margin: -0.5rem 0 1.75rem;
+    padding: 0.7rem 0 0.2rem 0.9rem;
+    border-left: 1px solid var(--border);
+    font-size: 0.8rem;
+    line-height: 1.55;
+    color: var(--fg-muted);
+  }
+  .prose .resources .resources-label {
+    margin: 0 0 0.35rem;
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .prose .resources ul { list-style: none; padding-left: 0; margin: 0 0 0.4rem; }
+  .prose .resources li { margin-bottom: 0.4rem; }
+  .prose .resources .ja { display: block; }
   .prose sup { font-size: 0.7em; vertical-align: super; line-height: 0; color: var(--fg-muted); }
 
   /* Footnotes / references */

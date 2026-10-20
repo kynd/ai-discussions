@@ -22,6 +22,14 @@ Rorty's main point can be put simply. Philosophers have long hoped to find a bed
 
 ローティの要点は、簡単に言うことができます。哲学者たちは長いあいだ、岩盤を見つけたいと願ってきました。人間のどんな視点からも独立して絶対的な意味で真であり、ほかのあらゆるものをそれで測れるような、一つの事実や方法、あるいは物事の記述のしかたです。ローティは、そうした岩盤は見つからないと考えました。私たちは自分の言語や信念の外に出て、それを「ほんとうのありのままの」現実と照らし合わせることが決してできないからです。彼はこの、望まれた外側の立場を[「スカイフック（空からの吊り鉤）」](https://philosophynow.org/issues/106/Recovering_From_Rorty)と呼びました。「神の視点」と呼ぶ人もいます。これは、何も真ではないという意味ではありません。雨が降っているのは本当であり、雨そのものが私たちにそう信じさせます。彼が否定したのは、あらゆる問いを最終的に決着させる、より深い究極の種類の真理を哲学が提供できる、ということです。代わりに私たちがもっているのは、物理学、法、詩、倫理といった多くの語彙であり、それぞれがある目的に役立ちます。私たちは、どこでもない場所から世界と比べることによってではなく、他の人々との会話のなかで信念を試すことによって、信念をよりよいものにしていきます。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.britannica.com/print/article/509588">Richard Rorty (Britannica)</a> — Concise encyclopedia overview of Rorty&#x27;s anti-foundationalism, view of truth, and reformist liberal politics.<span class="ja">ローティの反基礎づけ主義、真理観、改良主義的リベラリズムを簡潔にまとめた百科事典の項目です。</span></li>
+<li><a href="https://www.radicalphilosophy.com/obituary/richard-rorty-1931-2007">Richard Rorty, 1931–2007 (Radical Philosophy)</a> — Obituary essay assessing Rorty&#x27;s main books and why his ideas provoked so much debate.<span class="ja">主著を振り返り、彼の考えがなぜ多くの論争を呼んだのかを評価する追悼文です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Driving forces and connections
@@ -32,6 +40,14 @@ Rorty's work sits where three currents meet. The first is analytic philosophy of
 <!-- -->
 
 ローティの仕事は、三つの流れが合流するところにあります。一つ目は、彼自身が訓練を受けた分析的な言語哲学、とりわけその内部の批判者たち—ウィルフリッド・セラーズ、W・V・O・クワイン、ドナルド・デイヴィドソン—で、彼らは心に直接与えられる事実という考えを疑っていました。二つ目は、ハイデガー、ハンス＝ゲオルク・ガダマー、ジャック・デリダらのヨーロッパの伝統で、彼と同世代のアメリカの哲学者の大半はこれを無視していました。三つ目はウィリアム・ジェイムズとデューイのプラグマティズムで、彼は分析哲学がそれを誤って忘れてしまったと考えていました。三つすべての背後には、ダーウィン的な人間像があります。人間は賢い動物であり、言語は環境とうまく付き合うために彼らが進化させた道具の一つだ、という像です。彼の政治観は、家族の反スターリン主義的な社会主義から来ていました。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/sellars/">Wilfrid Sellars (Stanford Encyclopedia of Philosophy)</a> — Entry on Sellars, whose critique of &#x27;the myth of the given&#x27; Rorty built on.<span class="ja">ローティが拠りどころにした「所与の神話」批判で知られるセラーズについての項目です。</span></li>
+<li><a href="https://plato.stanford.edu/entries/dewey/">John Dewey (Stanford Encyclopedia of Philosophy)</a> — David Hildebrand&#x27;s entry on Dewey, the pragmatist Rorty counted as his main hero.<span class="ja">ローティが最も重んじたプラグマティスト、デューイについてのデイヴィッド・ヒルデブランドによる項目です。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -44,6 +60,14 @@ Rorty was born in New York City on 4 October 1931, the only child of the writers
 
 ローティは1931年10月4日にニューヨークで、ともに反スターリン主義の左派の書き手だったジェイムズ・ローティとウィニフレッド・ラウシェンブッシュのひとり息子として生まれました。母方の祖父は、社会的福音を説いた神学者ウォルター・ラウシェンブッシュです。のちに彼はエッセイ[「トロツキーと野生の蘭」](https://cdclv.unlv.edu/pragmatism/rorty_orchids.html)（1992年）で、「私はトロツキストとして育てられた」と書いています。十五歳でシカゴ大学に入学し、1956年にイェール大学で博士号を取得しました。ウェルズリー大学で教えたのち、[1961年から1982年までプリンストン大学](https://plato.stanford.edu/entries/rorty/)に在籍し、そこでは尊敬される分析哲学者でした。『哲学と自然の鏡』の後、ヴァージニア大学に人文学の教授として移り（1982〜98年）、さらにスタンフォード大学の比較文学科に移りました。この移籍は、哲学は科学よりも文学や批評に近いという彼の見方に合うものでした。2007年に亡くなりました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://stanfordmag.org/contents/an-american-pragmatist">An American Pragmatist (Stanford Magazine)</a> — Stanford Magazine&#x27;s 2007 farewell, covering his career, MacArthur grant, and move to comparative literature.<span class="ja">経歴、マッカーサー賞、比較文学科への移籍にふれた、スタンフォード大学の雑誌による2007年の追悼記事です。</span></li>
+<li><a href="https://prospect.org/2008/08/17/corrupter-youth-d2/">Review of Neil Gross&#x27;s Rorty biography (The American Prospect)</a> — Review of Gross&#x27;s archival biography tracing how Rorty became the philosopher he was.<span class="ja">ローティがどのように哲学者になったかを資料からたどるニール・グロスの伝記の書評です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Against the mirror of nature
@@ -54,6 +78,14 @@ Rorty was born in New York City on 4 October 1931, the only child of the writers
 <!-- -->
 
 『哲学と自然の鏡』（1979年）は、当時の学術的な哲学書のなかでも有数のベストセラーになりました。ローティは、ルネ・デカルト、ジョン・ロック、イマヌエル・カント以来、哲学は心を鏡として、知識を正確な表象として描いてきたと論じました。その描き方では、哲学の仕事は鏡を点検し、どの表象が信頼できるかを言うことになり、そのため哲学は他のあらゆる分野の裁き手になります。ローティは、この企ては失敗しており、手放してよいと考えました。セラーズとクワインに従い、彼は、心にそのまま「与えられる」ものは何もなく、どんな信念も他の信念によってしか正当化できないと論じました。彼は自分の代案を「認識論的行動主義」と呼びました。何かを知っているとは、現実と特別な関係に立つことではなく、共有された実践の基準によって、それを他の人々に正当化できることだ、という考えです。彼は、あらゆるものを確かな基礎の上に置こうとする「体系的」な哲学者と、会話を続けることを目指すデューイ、ウィトゲンシュタイン、ハイデガーのような「啓発的」な哲学者を対比しました。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/rorty/">Richard Rorty (Stanford Encyclopedia of Philosophy)</a> — Detailed scholarly entry centred on his critique of knowledge as mental mirroring.<span class="ja">心が世界を映すという知識観への批判を中心にした、詳しい学術的な項目です。</span></li>
+<li><a href="https://press.princeton.edu/node/58439">Philosophy and the Mirror of Nature: Thirtieth-Anniversary Edition (Princeton UP)</a> — Publisher page for the 2009 reissue with new essays by Michael Williams and David Bromwich.<span class="ja">マイケル・ウィリアムズとデイヴィッド・ブロムウィッチの新稿を加えた30周年記念版の出版社ページです。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -66,6 +98,14 @@ In *Consequences of Pragmatism* (1982) and later essays, Rorty presented himself
 
 『プラグマティズムの帰結』（1982年）とその後の論文で、ローティは自らをジェイムズとデューイの継承者として示しました。プラグマティストにとって「真」とは、うまく働く信念に私たちが贈るほめ言葉であって、言葉と独立した世界のあいだの関係の名前ではない、と彼は論じました。彼はこれを[ダーウィン的な言語観](https://en.wikipedia.org/wiki/Neopragmatism)として描きました。人間は語彙を道具として使う動物であり、ある語彙について問うべきなのは、それが現実と一致しているかではなく、私たちの目的に役立つかどうかだ、という考えです。論文「連帯か客観性か」（1985年）で、彼は人々が自分の生に意味を与える二つのやり方を対比しました。どの共同体の外にもある何かと自分を関係づけるやり方（客観性）と、共同体に属するやり方（連帯）です。彼は連帯を選び、自分の立場を「自文化中心主義的」と呼びました。私たちは自分の共同体の信念から出発するしかなく、できる最善のことはその共同体を広げていくことだ、という考えです。彼はこれを相対主義だとは考えませんでした。彼の理解では、相対主義とは、どの見方も他のどの見方と同じくらいよいという主張だからです。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/pragmatism/">Pragmatism (Stanford Encyclopedia of Philosophy)</a> — Legg and Hookway&#x27;s overview of pragmatism from Peirce and James to neopragmatists like Rorty.<span class="ja">パース、ジェイムズからローティらネオプラグマティストまでを概観する、レッグとフックウェイによる項目です。</span></li>
+<li><a href="https://thaleswell.podbean.com/e/on-richard-rorty-with-chris-voparil/">On Richard Rorty with Chris Voparil (Thales&#x27; Well podcast)</a> — Hour-long interview on Rorty and classical pragmatism, the relativism charge, and solidarity.<span class="ja">ローティと古典的プラグマティズム、相対主義という批判、連帯について語る一時間のインタビューです。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## What he rejected, and what he did not
@@ -76,6 +116,14 @@ Rorty rejected two linked hopes. The first is that philosophy could find a found
 <!-- -->
 
 ローティは、互いに結びついた二つの望みを退けました。一つ目は、哲学が基礎を見つけられるという望みです。ほかのあらゆる信念をそれに照らして点検できるほど確かな真理のことです。二つ目は、ただ一つの正しい語彙、「自然そのものの語彙」があり、原理的にはあらゆるものをそれで記述でき、ほかの語り方はそれへの近似にすぎない、という望みです。彼は、語彙を比べられるのは別の語彙とだけであり、どんな記述からも離れた世界そのものと比べることはできない、と考えました。[「世界は語らない。語るのは私たちだけだ」](https://en.wikipedia.org/wiki/Contingency,_Irony,_and_Solidarity)という言葉がそれを示しています。これは、世界が実在しないとか、人は何でも好きなように信じてよい、という意味ではありません。彼は、世界が私たちとは独立に存在し、私たちに信念をもたせる原因になることを認めていました。雨は、雨が降っているという信念の原因になります。彼が否定したのは、世界が、自分をどの言語で記述すべきかを私たちに告げる、ということです。また彼は「真理は存在しない」とも主張しませんでした。それもまた一つの哲学的なテーゼにすぎないと考えたからです。代わりに彼は、「善い」に一般理論が要らないのと同じく、「真」にも一般理論は要らないと述べました。物理学は自然を予測し制御するための最良の語彙ですが、彼の見方では、だからといって倫理や政治、あるいは一篇の詩を理解するための正しい語彙になるわけではありません。彼は古い問いに反論するのではなく、それを問うのをやめることを提案しました。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.timeshighereducation.com/features/is-the-truth-out-there/100472.article">Is the truth out there? (Times Higher Education)</a> — 1997 feature interview on Rorty&#x27;s view of truth and knowledge as practical coping.<span class="ja">真理観と、知識を実践的な対処とみる考えをめぐる1997年のインタビュー記事です。</span></li>
+<li><a href="https://partiallyexaminedlife.com/tag/richard-rorty/">Richard Rorty episodes (The Partially Examined Life)</a> — Podcast discussions of Pragmatism as Anti-Authoritarianism, on truth, justification, and why he denied being a relativist.<span class="ja">『反権威主義としてのプラグマティズム』を読み、真理・正当化と、彼が相対主義を否定した理由を論じるポッドキャストです。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -88,6 +136,14 @@ In [*Contingency, Irony, and Solidarity*](https://en.wikipedia.org/wiki/Continge
 
 [『偶然性・アイロニー・連帯』](https://en.wikipedia.org/wiki/Contingency,_Irony,_and_Solidarity)（1989年）でローティは、私たちの言語、自己、共同体は偶然的なもの、つまり人間の本性や理性ではなく、歴史と偶然の産物だと論じました。人はそれぞれ「終極の語彙」をもっています。自分の行為や信念を正当化するために使う言葉で、その先にはもう論拠がありません。「アイロニスト」とは、自分の終極の語彙についてこのことを知っており、ほかの語彙に感銘を受けたために、それを疑い続ける人のことです。ローティの理想は「リベラル・アイロニスト」で、リベラルの定義は政治理論家ジュディス・シュクラーから借りています。残酷さこそ私たちがなしうる最悪のことだと考える人、という定義です。彼は生活を二つに分けました。人々が（フリードリヒ・ニーチェやマルセル・プルーストのように）自己創造を追求する私的な領域と、苦しみを減らすことを目指す公的な領域です。彼は、残酷さに気づかせ、「彼ら」と見ていた人々に連帯を広げさせるうえでは、哲学理論よりも小説—彼はジョージ・オーウェルとウラジーミル・ナボコフを論じました—のほうが役に立つと考えました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.philosophizethis.org/podcast/richard-rorty">Episode #142 – Richard Rorty (Philosophize This!)</a> — Accessible podcast on contingency, the &#x27;ironist&#x27;, and liberal values without universal foundations.<span class="ja">偶然性、「アイロニスト」、普遍的な基礎をもたないリベラルな価値をわかりやすく解説するポッドキャストです。</span></li>
+<li><a href="https://eprints.whiterose.ac.uk/189710/1/Shklar_JoP.pdf">Shklar&#x27;s liberalism of fear (White Rose eprint)</a> — Open-access paper on Judith Shklar&#x27;s &#x27;putting cruelty first&#x27;, the idea Rorty borrowed.<span class="ja">ローティが借りたジュディス・シュクラーの「残酷さを第一の悪とする」考えについての公開論文です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Politics and *Achieving Our Country*
@@ -98,6 +154,15 @@ Rorty described himself as a social democrat in the tradition of Dewey and Walt 
 <!-- -->
 
 ローティは自らを、デューイとウォルト・ホイットマンの伝統に立つ社会民主主義者だと述べていました。[『アメリカ　未完のプロジェクト』](https://en.wikipedia.org/wiki/Achieving_Our_Country)（原題 *Achieving Our Country*、1998年）で彼は、労働組合や立法を通じてアメリカをその理想にかなう国にしようとした二十世紀前半の「改良主義左翼」と、ベトナム戦争後に育った学術的な「文化左翼」を対比しました。彼は、女性や少数者、同性愛者へのサディズムに対して文化左翼が実際の成果をあげたことを認めつつ、改革を提案するより理論を語ることを好み、経済的な不平等をなおざりにしたと批判しました。そして、労働者が見捨てられたと感じるようになれば、彼らは「投票すべき強い男を探しはじめる」かもしれないと警告しました。2016年のアメリカ大統領選挙の後、この一節は[広く共有され](https://www.tribes.org/web/2016/11/21/richard-rortys-1998-book-suggested-election-2016-was-coming)、本は一時品切れになりました。ローティ自身の反基礎づけ主義が、彼の恐れた「ポスト真実」の政治を生む一因になったのかどうかについては、今も読者の意見が分かれています。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.slate.com/blogs/the_slatest/2016/11/11/richard_rorty_predicted_election_of_trump_like_figure_election_in_1998.html">Richard Rorty predicted the election of a Trump-like figure in 1998 (Slate)</a> — November 2016 piece that helped the &#x27;strongman&#x27; passage go viral.<span class="ja">「強い男」の一節が広まるきっかけになった2016年11月の記事です。</span></li>
+<li><a href="https://philosophynow.org/issues/43/Richard_Rortys_Pragmatic_Patriotism">Richard Rorty&#x27;s Pragmatic Patriotism (Philosophy Now)</a> — Magazine essay on Rorty&#x27;s case that the left needs national pride to pursue reform.<span class="ja">改革のために左派には国への誇りが必要だというローティの主張を論じる雑誌記事です。</span></li>
+<li><a href="https://harpers.org/archive/2023/01/trumpism-and-the-american-philosophical-tradition">Trumpism and the American Philosophical Tradition (Harper&#x27;s)</a> — 2023 essay asking how the pragmatist tradition Rorty defended relates to Trumpism.<span class="ja">ローティが擁護したプラグマティズムの伝統とトランプ主義の関係を問う2023年のエッセイです。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -110,6 +175,14 @@ Rorty drew criticism from many directions. Hilary Putnam, another leading neopra
 
 ローティは、さまざまな方向から批判を受けました。もう一人の代表的なネオプラグマティストであるヒラリー・パトナムは、ローティの正当化の説明は[文化相対主義](https://ses.library.usyd.edu.au/handle/2123/9008)に崩れてしまうと論じ、二人は真理と正当化をめぐって長年議論を交わしました。ユルゲン・ハーバーマスは、哲学は基礎づけを手放すべきだという点では同意しつつ、真理への主張はどの一つの共同体をも越えて届くと考えました。スーザン・ハークは彼の立場を[「俗流プラグマティズム」](https://dc2.philarchive.org/rec/SAARP)と呼び、彼はチャールズ・サンダース・パースの本来のプラグマティズムを捨ててしまったと論じました。分析哲学者たちはしばしば、彼が自分の頼る著者たちを誤読していると非難し、デイヴィドソン自身も、ローティによる自分の読み方の一部には同意しませんでした。左派からは、ナンシー・フレイザーらが、私的な自己創造と公的な連帯の区別は[うまく両立していない](https://dc2.philarchive.org/rec/LLARRP)うえ、私生活に対する政治的批判の余地をほとんど残さない、と論じました。ローティはこれらの批判者の多くに、論文集『ローティとプラグマティズム』（1995年）や『ローティとその批判者たち』（2000年）で詳しく応答しています。彼に反対した人々の多くも、哲学の目的についての問いを、彼がふたたび避けられないものにしたことは認めています。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://ses.library.usyd.edu.au/handle/2123/18664">Foundationalism, Representationalism, and Truth: The Debate Between Haack and Rorty</a> — Open-access Sydney thesis examining Susan Haack&#x27;s objections and defending Rorty&#x27;s reply.<span class="ja">スーザン・ハークの反論を検討し、ローティの側を擁護するシドニー大学の公開論文です。</span></li>
+<li><a href="https://kar.kent.ac.uk/6274">Larry Ray on Habermas and Rorty (University of Kent repository)</a> — Record of a 2004 article comparing Habermas&#x27;s and Rorty&#x27;s pragmatism and critical theory.<span class="ja">ハーバーマスとローティのプラグマティズムと批判理論を比べた2004年の論文の記録です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Reception in Japan
@@ -120,3 +193,12 @@ Rorty has been widely translated into Japanese. *Philosophy and the Mirror of Na
 <!-- -->
 
 ローティは日本語に広く訳されています。『哲学と自然の鏡』は1993年に哲学者・野家啓一の監訳で刊行され、『偶然性・アイロニー・連帯』は「リベラル・ユートピアの可能性」という副題を添えて出版されました。日本の哲学者たちも彼について多く書いており、たとえば冨田恭彦は[『ローティ　連帯と自己超克の思想』](https://chikumashobo.co.jp/product/9784480016447/)（2016年）という一冊の研究書を著しています。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://kotobank.jp/word/%E3%82%8D%E3%83%BC%E3%81%A6%E3%81%84-3176589">ローティ（コトバンク）</a> — Japanese encyclopedia entries on Rorty, including the impact of the Mirror of Nature.<span class="ja">『哲学と自然の鏡』の反響などにふれた、ローティについての日本語の事典項目です。</span></li>
+<li><a href="https://www.kinokuniya.co.jp/f/dsg-01-9784140887608">朱喜哲『バラバラな世界で共に生きる―リチャード・ローティの哲学』（NHK出版新書）</a> — Japanese introduction expanded from Zhu Xize&#x27;s 2024 NHK &#x27;100 Minutes de Masterpieces&#x27; series on Rorty.<span class="ja">2024年の「100分de名著」ローティ回のテキストを大幅に改稿した、朱喜哲による入門書です。</span></li>
+<li><a href="https://thetv.jp/program/0000813960/584/">100分de名著 ローティ回（ザテレビジョン番組情報）</a> — Listing for an episode of NHK&#x27;s February 2024 four-part series on Contingency, Irony, and Solidarity.<span class="ja">『偶然性・アイロニー・連帯』を全4回で扱った2024年2月のNHK番組の放送回情報です。</span></li>
+</ul>
+</aside>

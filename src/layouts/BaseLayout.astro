@@ -500,7 +500,7 @@ const termTargets = [
         acceptNode(node) {
           const p = node.parentElement;
           if (!p) return NodeFilter.FILTER_REJECT;
-          if (p.closest('a, h1, h2, h3, button, .term-link, .footnotes')) return NodeFilter.FILTER_REJECT;
+          if (p.closest('a, h1, h2, h3, button, .term-link, .footnotes, .resources')) return NodeFilter.FILTER_REJECT;
           if (!node.textContent || !node.textContent.trim()) return NodeFilter.FILTER_REJECT;
           return NodeFilter.FILTER_ACCEPT;
         },

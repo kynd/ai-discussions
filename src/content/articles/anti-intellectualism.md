@@ -22,6 +22,13 @@ The word keeps returning whenever expertise and democracy pull in different dire
 
 この言葉は、専門知と民主主義が別々の方向に引っぱられるたびに戻ってきます。近代社会は、大半の市民が自分では確かめられない推論をする専門家—科学者、経済学者、医師、法律家—に頼っています。一方で民主主義は、すべての市民に等しい一票を与えます。専門家が、自分たちのための助言をする閉じた階層だと見なされたり、その誤りのつけが他の人々に回ると見なされたりすると、「知性」への不信は、権力への不信を表すやり方になります。だからこそ、反知性主義をめぐる議論は、知識だけの問題であることはめったにありません。それは階級、宗教、地域、そして誰が誰の代わりに語るのかの問題でもあります。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.pewresearch.org/science/2024/11/14/public-trust-in-scientists-and-views-on-their-role-in-policymaking/">Public Trust in Scientists (Pew, 2024)</a> — U.S. survey on confidence in scientists, sharp partisan gaps, and views on scientists in policymaking.<span class="ja">科学者への信頼、党派による大きな差、政策への科学者の関与についての米国の調査。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Hofstadter's American tradition
@@ -32,6 +39,14 @@ Hofstadter wrote [*Anti-Intellectualism in American Life*](https://en.wikipedia.
 <!-- -->
 
 ホーフスタッターは、マッカーシズムの時代と1952年の大統領選挙の後に[『アメリカの反知性主義』](https://en.wikipedia.org/wiki/Anti-intellectualism_in_American_Life)（1963年、1964年ピュリッツァー賞）を書きました。その選挙では、知的な民主党候補アドレイ・スティーヴンソンの支持者たちが[「エッグヘッド（インテリ）」](https://en.wikipedia.org/wiki/Egghead)と揶揄されました。彼はこの態度の源を、学識ある神学より心を重んじた福音主義の宗教、理論より成果を重んじたビジネスの実践的な文化、そして優れた判断を主張するあらゆるものを疑う民主主義的な平等主義にたどりました。彼はそれを有害なものと見ましたが、愚かさとは見ませんでした。アメリカ人は「エッグヘッド」への不信と、教育や文化への本物の渇望をあわせもっていると指摘し、知識人自身の傲慢がその反感を育ててきたことも率直に認めました。彼の主題は、証拠そのものの拒絶というより、*知的な権威を主張する人々*への態度でした。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.penguinrandomhouse.com/books/81390/anti-intellectualism-in-american-life-by-richard-hofstadter/ebook">Anti-Intellectualism in American Life (Penguin Random House)</a> — Publisher page for Hofstadter&#x27;s 1963 Pulitzer-winning study.<span class="ja">ホーフスタッターの1963年のピュリッツァー賞受賞作の出版社ページ。</span></li>
+<li><a href="https://ramachandraguha.in/archives/anti-intellectualism-in-american-and-indian-life-the-telegraph.html">Ramachandra Guha: anti-intellectualism in American and Indian life</a> — A historian rereads Hofstadter and compares the pattern with India.<span class="ja">歴史家がホーフスタッターを読み直し、インドの状況と比べる論考。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -44,6 +59,14 @@ The term spread in Japan around 2014–15, mostly as criticism of Prime Minister
 
 この言葉が日本で広まったのは2014〜15年ごろで、主に安倍晋三政権とその支持者への批判としてでした。思想家の内田樹は論集『日本の反知性主義』（2015年）を編み、その寄稿者たちは、知識や議論に耳を傾けることを拒む態度をこの言葉で呼びました。批判者たちは、この言葉が[相手を愚か者と呼ぶ](https://agora-web.jp/?p=16069)ための上品な言い方になってしまったと不満を述べました。同じ年、神学者でアメリカのキリスト教史の研究者である森本あんりは[『反知性主義―アメリカが生んだ「熱病」の正体』](https://www.shinchosha.co.jp/book/603764/)を出版しました。彼は、アメリカの伝統は、ハーヴァードやイェールで養成された学識ある聖職者に挑んだ信仰復興運動から育ったと論じました。その標的は知性そのものではなく、[固定した権威と結びついた知性](https://www.kinokuniya.co.jp/f/dsg-01-9784106037641)であり、その原動力は平等主義でした。彼の読みでは、反知性主義はエリートを抑える健全な力になりえますが、学ぶことへの敵意に変わることもあります。この本はロングセラーとなり、日本の多くの読者のこの言葉の使い方を変えました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://books.bunshun.jp/ud/book/num/9784167924560">Uchida Tatsuru, 反知性主義者の肖像 (Bunshun)</a> — Uchida&#x27;s essays on anti-intellectualism in Japan, from the 2015 debate onward.<span class="ja">2015年の論争以来の、日本の反知性主義をめぐる内田樹の論考集。</span></li>
+<li><a href="https://www.newsweekjapan.jp/articles/-/7133">Newsweek Japan review of Morimoto</a> — Review noting that the term is used differently in Japan and the United States.<span class="ja">この言葉が日本とアメリカで違う意味で使われていることを指摘する書評。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Why evidence often fails to persuade
@@ -54,6 +77,15 @@ For decades, science communication assumed a "deficit model": people reject scie
 <!-- -->
 
 数十年にわたり、科学コミュニケーションは「欠如モデル」を前提にしてきました。人々が科学を拒むのは知識が足りないからであり、だから処方箋は情報を増やすことだ、という考えです。1990年代以降の研究は[これに異を唱えてきました](https://scholars.unh.edu/nh_epscor/180)。法学者ダン・カハンらは、気候変動のように文化的に分断を生む問題では、科学リテラシーや数的能力の高い人ほど、分極化が弱まるのではなく*強まる*ことを見いだしました。ある実験では、皮膚の発疹の治療についてのデータを正しく読んだのと同じ人々が、まったく同じ数字が銃規制についての証拠として示されると、読み違えました。カハンはこれを[アイデンティティ保護的認知](https://papers.ssrn.com/abstract=2973067)と呼びます。ある信念が自分の集団に属している印になってしまうと、反対の証拠を受け入れることには社会的な代償がともなう、という考えです。そのため同じ人が、ある話題では注意深く推論し、別の話題では防衛的に推論することがありえます。この効果は誇張されているという研究者もいますが、政治的な熱を帯びた論争を知識だけで決着させられることはまれだ、という点はいまや広く認められています。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.culturalcognition.net/kahan/">Cultural Cognition Project (Yale Law School)</a> — Dan Kahan&#x27;s research group on how group identity shapes views of risk and science.<span class="ja">集団のアイデンティティがリスクや科学の見方をどう形づくるかを研究するカハンの研究グループ。</span></li>
+<li><a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/abs/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806">Motivated numeracy and enlightened self-government</a> — The skin-rash versus gun-control experiment, published in 2017.<span class="ja">発疹の治療と銃規制を比べた実験を報告した2017年の論文。</span></li>
+<li><a href="https://blogs.scientificamerican.com/guest-blog/it-s-time-for-scientists-to-stop-explaining-so-much/">It&#x27;s time for scientists to stop explaining so much</a> — Scientific American essay on the limits of the deficit model.<span class="ja">欠如モデルの限界を論じたサイエンティフィック・アメリカンの寄稿。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -66,6 +98,14 @@ A second line of research shows that distrust is sometimes earned. After the Che
 
 第二の研究の流れは、不信には根拠がある場合もあることを示しています。1986年のチェルノブイリ事故の後、イギリス政府の科学者たちは、カンブリア地方の羊飼いたちに、土地の放射能汚染は数週間で消えると告げました。自分たちの土壌や放牧のやり方を知っている羊飼いたちはそれを疑いました。規制は何年も続き、科学者たちのモデルは地元の条件に合っていませんでした。社会学者ブライアン・ウィンは、専門家たちが、実際には専門的な地元の知識に基づいていた羊飼いの抵抗を[無知として扱った](https://blogs.ucl.ac.uk/sts-observatory/2009/05/12/when-will-the-sheep-safely-graze)と論じ、人々の信頼は、自分の経験が真剣に受け止められていると感じるかどうかにかかっている、と主張しました。同様の議論は、1980年代のエイズ活動家についてもなされてきました。彼らは研究者たちに、薬の臨床試験のやり方を変えるよう迫りました。こうした場合、「専門家への抵抗」は、何を関連する知識とみなすかを決める場に加えてほしいという要求でもありました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Brian_Wynne">Brian Wynne (Wikipedia)</a> — Overview of Wynne&#x27;s work on expert and lay knowledge.<span class="ja">専門家と素人の知識についてのウィンの仕事の概要。</span></li>
+<li><a href="https://cambridge.org/core/books/misunderstanding-science/misunderstood-misunderstandings-social-identities-and-public-uptake-of-science/C26B83BE46F5C046D51A4B4C1244E544">Misunderstood misunderstandings (Cambridge)</a> — Wynne&#x27;s chapter on the Cumbrian farmers and public trust in science.<span class="ja">カンブリアの羊飼いと科学への信頼を論じたウィンの章。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Understanding where people come from
@@ -77,6 +117,15 @@ Other writers have focused on resentment and recognition. The sociologist Arlie 
 
 ほかの書き手たちは、怨念と承認に焦点を当ててきました。社会学者アーリー・ホックシールドは、『壁の向こうの住人たち』（原題 *Strangers in Their Own Land*、2016年）のために、ルイジアナの保守派の有権者たちと五年間を過ごしました。彼女は、政治的な陣営のあいだにある[「共感の壁」](https://litcharts.com/lit/strangers-in-their-own-land/terms/empathy-wall)と、共有された「ディープ・ストーリー」—辛抱強く列に並んでいるのに、他の人々が割り込んでくるという感覚—を描きました。この物語のせいで、専門家やリベラルの議論は、その不公平の一部のように聞こえていました。哲学者マイケル・サンデルの[『実力も運のうち　能力主義は正義か？』](https://en.wikipedia.org/wiki/The_Tyranny_of_Merit)（2020年）は、能力主義が、学歴のある人々に学位のない人々を見下すことを教え、そこから生まれる屈辱がポピュリズムの怒りを燃え立たせていると論じました。リチャード・ローティは1998年に、労働者の経済的な利害をなおざりにした学術的な左派が、彼らを「強い男」へ向かわせかねないと警告していました。これらの書き手は、怨念を抱く人々が事実について正しいと主張しているわけではありません。社会が学歴のない人々をどう扱うかが、その人々が学歴に裏打ちされた知識を信頼するかどうかを左右する、と論じています。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://newbooksnetwork.com/arlie-russell-hochschild-strangers-in-their-own-land-anger-and-mourning-on-the-american-right-new-press-2016">Hochschild interview (New Books Network)</a> — Podcast interview on her Louisiana fieldwork and the &#x27;deep story&#x27;.<span class="ja">ルイジアナでの調査と「ディープ・ストーリー」についてのポッドキャストのインタビュー。</span></li>
+<li><a href="https://uctv.tv/shows/Strangers-in-Their-Own-Land-Challenges-Climbing-the-Empathy-Wall-32997">Climbing the Empathy Wall (UCTV)</a> — Hochschild&#x27;s lecture on crossing political divides.<span class="ja">政治的な分断を越えることについてのホックシールドの講演。</span></li>
+<li><a href="https://socialconcerns.nd.edu/virtues/newsletter-post/the-tyranny-of-merit-whats-become-of-the-common-good/">The Tyranny of Merit (Notre Dame review)</a> — Review summarising Sandel&#x27;s argument about credentialism.<span class="ja">学歴主義についてのサンデルの議論をまとめた書評。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## How the idea is misused
@@ -87,3 +136,11 @@ Each version of the idea can be bent. **As a label**: calling opponents "anti-in
 <!-- -->
 
 この考えは、どの形でも曲げられえます。**レッテルとして**：相手を「反知性主義」や「反科学」と呼ぶことは、記述を侮辱に変えます。カハンの研究は、科学的な主張を一方の陣営のアイデンティティの印にしてしまうことが、まさに嘆かれている分極化を深めることを示唆しています。**政治的な武器として**：政治家は、エリートへの健全な不信を持ち出して、都合が悪いときにはいつでも専門知を退けることができます。2016年のブレグジットの運動で、マイケル・ゴーヴは人々は[「専門家にはもううんざりしている」](https://fullfact.org/blog/2016/sep/has-public-really-had-enough-experts/)と述べましたが、世論調査では、大半のイギリス人がなお国家統計局のような機関を信頼していました。**相対主義として**：「人々がどこから来ているかを理解する」ことは、あらゆる信念を同じくらい根拠のあるものとして扱うことや、メディアにおける「偽りのバランス」へと滑り落ちることがあります。カンブリアの羊飼いたちは自分たちの土地については正しかったものの、だからといって素人の主張がすべて正しくなるわけではありません。**操作として**：「相手のいるところで出会う」ことは、相手の話を聞くのではなく、フレーミングやメッセージで相手を誘導する技術になりえます。それは、治そうとしていたはずの見下しを繰り返すことになります。より慎重な立場は、二つのことを同時に保ちます。証拠と専門知は重要であり、ある主張は他の主張よりはるかによく裏づけられている、ということ。けれども信頼は、学歴によって要求されるものではなく、敬意と参加、そして正しかったという実績を通じて築かれる、ということです。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://academic.oup.com/book/55947">The Death of Expertise (Oxford)</a> — Tom Nichols&#x27;s argument that hostility to expertise is growing — the opposite emphasis.<span class="ja">専門知への敵意が強まっているとするトム・ニコルズの議論。逆の側からの視点。</span></li>
+<li><a href="https://www.project-syndicate.org/commentary/brexit-voters-ignoring-experts-by-jean-pisani-ferry-2016-07">Brexit voters ignoring experts (Project Syndicate)</a> — Economist Jean Pisani-Ferry on why expert warnings failed to persuade in 2016.<span class="ja">2016年に専門家の警告がなぜ人を動かさなかったかを論じたピサニ＝フェリーの論考。</span></li>
+</ul>
+</aside>

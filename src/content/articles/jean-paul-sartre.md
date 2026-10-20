@@ -22,6 +22,13 @@ Sartre's philosophy grew from German phenomenology, which he studied in Berlin i
 
 サルトルの哲学は、彼が1933〜34年にベルリンで学んだドイツの現象学から育ちました。経験をそれが現れるとおりに正確に記述するエトムント・フッサールの方法と、人間の存在についてのマルティン・ハイデガーの分析です。彼はこれに、哲学者が小説や戯曲も書くというフランスの伝統を結びつけました。彼の考えに重みを与えたのは戦争でした。1940年の敗北、捕虜生活、そして占領は、ひとつの世代全体にとって、選択・共犯・責任をめぐる問いを具体的なものにしました。1945年以後は、冷戦、ヨーロッパの帝国の崩壊、そしてアルジェリアとベトナムの戦争が、階級や植民地支配によって状況を形づくられた人々にとって自由とは何を意味するのか、という問いへと彼を向かわせました。その問いが、彼のマルクス主義への転回を推し進めました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.openculture.com/2015/11/get-to-know-socrates-camus-kierkegaard-sartre-other-great-philosophers-download-episodes-from-the-bbcs-intelligent-radio-show-in-our-time.html">Get to know the great philosophers with In Our Time (Open Culture)</a> — Guide to BBC In Our Time philosophy episodes, including Sartre, existentialism, and Camus.<span class="ja">サルトル、実存主義、カミュの回を含む、BBC「In Our Time」の哲学回の案内です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Life
@@ -32,6 +39,13 @@ Sartre was born in Paris on 21 June 1905. His father, a naval officer, died when
 <!-- -->
 
 サルトルは1905年6月21日にパリで生まれました。海軍士官だった父は彼が幼いころに亡くなり、彼は主に母方の祖父シャルル・シュヴァイツァー—アルベルト・シュヴァイツァーの親族です—の家で育ちました。その子ども時代は、のちに自伝『言葉』（1963〜64年）で皮肉をこめて語られます。高等師範学校で彼はレイモン・アロン、モーリス・メルロ＝ポンティ、シモーヌ・ド・ボーヴォワールと出会いました。1929年、彼は[哲学の教授資格試験に首席で合格](https://www.nobelprize.org/prizes/literature/1964/sartre/biographical/)し、ボーヴォワールが二位でした。二人はこのころから生涯にわたるパートナー関係を始めます。それは意図して開かれた関係であり、結婚にはなりませんでした。1930年代、彼は地方の高校で哲学を教えました。1939年に召集され、1940年に捕らえられて約九か月を捕虜として過ごします。占領下のパリに戻ると、「知識人のレジスタンス」に加わりました。歴史家は、それが主に書くことであり、[実際の役割は小さかった](https://www.lrb.co.uk/v07/n02/john-sturrock/private-sartre)と指摘しています。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://newcriterion.com/article/the-war-according-to-sartre/">The War According to Sartre (The New Criterion)</a> — Critical essay on Sartre&#x27;s wartime record and later accounts of it.<span class="ja">サルトルの戦時中の行動と、のちの語られ方を論じた批判的な論考。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -44,6 +58,14 @@ In "Existentialism Is a Humanism", Sartre explained his slogan with a paper-knif
 
 「実存主義はヒューマニズムである」でサルトルは、ペーパーナイフを例に自分の標語を説明しました。職人は目的を念頭に置いてそれを作るので、ペーパーナイフでは本質が存在に先立ちます。もし人間を設計した神がいないなら、あらかじめ与えられた人間の本性もない、と彼は論じました。人はまず存在し、そのあとで選択を通じて何者かになります。ここから彼の最も有名な主張、私たちは[「自由の刑に処されている」](https://pressbooks.cuny.edu/philosophyashorthistory3/chapter/__unknown__-3/)という主張が出てきます。私たちは自由であることを選んだわけではありませんが、選ぶことから逃れられず、選ぶのを拒むことさえ一つの選択です。自由には不安がともないます。私たちの選択が正しいことを、外側の何ものも保証してくれないからです。サルトルはまた、自分のために選ぶとき、私たちは人間とはどうあるべきかという像を差し出している、と考えました。そのため自由は、他者に対する責任もともないます。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm">Existentialism Is a Humanism (full text, Marxists Internet Archive)</a> — Full English text of the 1945 lecture in Philip Mairet&#x27;s translation.<span class="ja">1945年の講演の英訳全文（フィリップ・メレ訳）です。</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Existentialism_Is_a_Humanism">Existentialism Is a Humanism (Wikipedia)</a> — Background on the lecture&#x27;s occasion, publication, argument, and Sartre&#x27;s later reservations.<span class="ja">講演の経緯、刊行、論旨、そしてサルトル自身ののちの留保についての解説です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## *Being and Nothingness*: consciousness, bad faith, and the look
@@ -54,6 +76,14 @@ In "Existentialism Is a Humanism", Sartre explained his slogan with a paper-knif
 <!-- -->
 
 『存在と無』（1943年）は二種類の存在を区別します。事物は「即自」（アン・ソワ）として存在し、ただそれであるところのものです。意識は「対自」（プール・ソワ）として存在し、決してただそれであるところのものではありません。いつでも一歩退き、問い、別のありかたを思い描けるからです。このすき間が、題にある「無」です。[自己欺瞞](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))（モーヴェーズ・フォワ）とは、自分を事物として扱うことで、この自由から逃れようとすることです。サルトルの例は、カフェのギャルソンです。その身ぶりはどこか給仕らしすぎて、自分は給仕でしかないと信じるために、給仕を演じているかのようです。この本はまた「まなざし」を分析します。他者が私を見るとき、私はその人の世界のなかの対象になり、自分が何者であるかを自分で決められなくなります。『出口なし』はこれを劇にしました。死んだ三人が一つの部屋に永遠に閉じこめられ、互いに裁き合い、そこから「地獄とは他人のことだ」という台詞が生まれます。サルトルはのちに、この台詞はあらゆる人間関係が悪いという意味ではなく、他者の判断が私たちに重くのしかかるという意味だと説明しました。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/sartre/">Jean-Paul Sartre (Stanford Encyclopedia of Philosophy)</a> — Scholarly overview of his ontology, psychology, ethics, politics, and literature.<span class="ja">存在論、心理学、倫理、政治参加、文学までを扱う学術的な概説です。</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Bad_faith_(existentialism)">Bad faith (existentialism) (Wikipedia)</a> — Explains mauvaise foi with Sartre&#x27;s examples, including the café waiter.<span class="ja">カフェのギャルソンなどサルトルの例を使って自己欺瞞を説明する項目です。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -66,6 +96,14 @@ Sartre wrote philosophy, fiction, drama, criticism, and journalism, and treated 
 
 サルトルは哲学・小説・戯曲・批評・ジャーナリズムを書き、それらを一つの企てとして扱いました。『嘔吐』（1938年）の主人公アントワーヌ・ロカンタンは、事物がただ理由もなく存在していることに圧倒されます。マロニエの木の根は、そこにある理由のない世界の像になります。1945年、サルトルとボーヴォワールは雑誌『レ・タン・モデルヌ』を創刊しました。『文学とは何か』（1947年）で彼は、散文の書き手は常に「アンガジェ（参加）」している、と論じました。書くことは世界をあらわにし、それによって読者にその世界を変えるよう促すからです。彼はシャルル・ボードレール、ジャン・ジュネ（『聖ジュネ』1952年）、ギュスターヴ・フローベール（『家の馬鹿息子』1971〜72年）といった作家についての長い研究も書きました。実存主義の考えを女性の状況に当てはめたボーヴォワールの『第二の性』（1949年）—「人は女に生まれるのではない、女になるのだ」—も同じ交友圏から生まれ、サルトルのどの著作にも劣らない影響を与えてきました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://metacast.app/podcast/in-our-time/onrTqoxY/sartre/NQrJqbu5">Sartre (BBC In Our Time, 2004)</a> — Melvyn Bragg, Jonathan Rée, Benedict O&#x27;Donohoe, and Christina Howells on how his novels and plays express his ideas.<span class="ja">メルヴィン・ブラッグらが、小説や戯曲がどのように彼の思想を表しているかを語るBBCの番組です。</span></li>
+<li><a href="https://www.marxists.org/reference/archive/sartre/">Jean-Paul Sartre reference archive (Marxists Internet Archive)</a> — Free collection of Sartre texts in English translation, with links to further works.<span class="ja">サルトルの英訳テキストを無料で集めたアーカイブです。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Politics: communism, Camus, and Marxism
@@ -76,6 +114,13 @@ In the early 1950s Sartre moved close to the French Communist Party without join
 <!-- -->
 
 1950年代前半、サルトルは入党はしないままフランス共産党に接近し、労働者階級は党を通じてしか守れないと論じました。1952年、『レ・タン・モデルヌ』は、革命の暴力とソ連の共産主義を批判したカミュの『反抗的人間』に[厳しい書評](https://www.eurekastreet.com.au/article/the-end-of-a-friendship)を載せました。サルトルの応答によって二人の友情は終わり、同じような決裂がメルロ＝ポンティとのあいだでも起きました。1954年のソ連訪問の後、サルトルは新聞『リベラシオン』に、ソ連には批判の自由が完全にあると語り、この発言は彼を批判する根拠として広く引かれてきました。1956年、彼は[ソ連のハンガリー侵攻を非難](https://www.history.com/this-day-in-history/november-9/sartre-renounces-communists)し、党と決別します。[『弁証法的理性批判』](https://en.wikipedia.org/wiki/Critique_of_Dialectical_Reason)（1960年）で彼はマルクス主義を「乗り越え不可能な現代の哲学」と呼び、それを個人の行為と「実践的惰性態」—過去の人間の行為が固まって構造となり、のちの行為を縛るあり方—を軸に組み立て直そうとしました。高等師範学校の同期だったレイモン・アロンは彼の最も粘り強い批判者になり、後世の多くの歴史家は、共産主義についてはアロンの見方のほうがよく持ちこたえたと評価しています。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://lh.journals.yorku.ca/index.php/lh/article/download/5660/4853">Review on the Sartre–Camus quarrel (Left History)</a> — Scholarly review placing the 1952 quarrel in its Cold War context.<span class="ja">1952年の論争を冷戦の文脈に置いて論じる学術誌の書評です。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -88,6 +133,14 @@ Sartre opposed the French war in Algeria. He supported Algerian independence, si
 
 サルトルはアルジェリアでのフランスの戦争に反対しました。アルジェリア独立を支持し、1960年には兵役拒否の権利を擁護する「121人宣言」に署名し、1961年と1962年には、フランス領アルジェリアの支持者によって彼の住まいが爆破されました。フランツ・ファノン『地に呪われたる者』（1961年）への[彼の序文](https://www.historynewsnetwork.org/article/what-are-frantz-fanons-lessons-for-today)は、この本に広い読者をもたらしましたが、反植民地の暴力を擁護するその調子はファノン自身の本文よりもさらに激しく、今も論争の的です。1964年、彼は作家は自らを制度に変えてはならないと述べて、[ノーベル賞を辞退](https://www.nobelprize.org/prizes/literature/1964/sartre/biographical/)しました。1967年には、ベトナムでのアメリカの戦争犯罪を裁く[ラッセル法廷](https://en.wikipedia.org/wiki/Russell_Tribunal)で議長を務めました。1968年5月の後は若い毛沢東主義者たちに名前を貸し、1970年には発禁となった彼らの新聞『人民の大義』の編集長を引き受け、1973年には日刊紙『リベラシオン』の創刊に加わりました。晩年にはほとんど目が見えなくなり、1980年に秘書ベニ・レヴィとの対談に応じましたが、そこでの彼は多くの古い立場を和らげているように見えました。ボーヴォワールと彼の周囲の人々は、レヴィが[衰えた人物に自分の見解を押しつけた](https://en.wikipedia.org/wiki/Benny_L%C3%A9vy)と抗議しました。サルトルは1980年4月15日に亡くなり、[最大5万人](https://prospectmagazine.co.uk/magazine/jeanpaulsartre)がパリを進む葬列に付き従いました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/1964_Nobel_Prize_in_Literature">1964 Nobel Prize in Literature (Wikipedia)</a> — How the prize was decided, Sartre&#x27;s letter declining it, and the Academy&#x27;s response.<span class="ja">選考の経緯、サルトルの辞退の手紙、アカデミーの対応をまとめた項目です。</span></li>
+<li><a href="https://www.history.co.uk/this-day-in-history/22-october/sartre-wins-and-declines-nobel-prize">Sartre wins and declines Nobel Prize (History UK)</a> — Brief account of 22 October 1964 and his reasons for refusing official honours.<span class="ja">1964年10月22日の出来事と、公的な栄誉を断った理由の短い解説です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Critics and legacy
@@ -99,6 +152,13 @@ From the 1960s, structuralism challenged Sartre's focus on the free individual. 
 
 1960年代以降、構造主義は、自由な個人に焦点を当てるサルトルの考えに挑みました。クロード・レヴィ＝ストロースは[『野生の思考』](https://en.wikipedia.org/wiki/The_Savage_Mind)（1962年）で、サルトルの歴史哲学そのものが、近代西洋の歴史意識を特権化する自文化中心的なものだと論じました。1966年、ミシェル・フーコーは彼を「十九世紀の人間」と呼びました。哲学よりも政治を批判する人々もいます。ソ連の共産主義に対する長い甘さと、暴力を正当化しようとする姿勢です。それでも彼の考えは流行を越えて残りました。自由・本来性・自己欺瞞についての実存主義の説明は、心理療法や神学、フェミニズムの思想を形づくり、他者のまなざしが私たちのアイデンティティを固定するという彼の分析は、ボーヴォワールやファノンに始まる、人種とジェンダーについてののちの研究を先取りしていました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://prospectmagazine.co.uk/magazine/jeanpaulsartre">Jean-Paul Sartre (Prospect)</a> — Magazine reassessment of Sartre&#x27;s reputation, politics, and lasting influence.<span class="ja">サルトルの評判、政治、そして残った影響を見直す雑誌記事です。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Sartre in Japan
@@ -109,3 +169,11 @@ Postwar Japan read Sartre intensely. His works were translated from the late 194
 <!-- -->
 
 戦後の日本は、サルトルを熱心に読みました。1940年代後半から作品が翻訳され、人文書院から全集が刊行され、実存主義は学生や作家のあいだで流行になりました。敗戦後の個人の選択と責任という問いは、日本で強い共鳴を呼びました。小説家の大江健三郎は東京大学でフランス文学を学び、その初期の小説はしばしば実存主義的で、サルトルの影響を受けたものとして読まれます。1966年9月、サルトルとボーヴォワールは慶應義塾大学と人文書院の招きで[一か月を日本で過ごし](https://pen-online.com/culture/when-sartre-and-beauvoir-came-to-japan/)、大勢の聴衆の前で講演しました。研究者は、1966年を日本におけるサルトル受容の頂点と見ています。1970年代から80年代にかけて構造主義やその後のフランス思想が伝わると、フランスと同じく日本でも彼の地位は下がりました。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.keio.ac.jp/en/about/public-relations/mita-hyoron/foreign-visitors/201601-1">Sartre and Beauvoir at Keio (Keio University)</a> — Keio University&#x27;s account of the 1966 visit it hosted.<span class="ja">1966年の来日を招いた慶應義塾大学による記事。</span></li>
+<li><a href="https://asiatheque.com/en/book/28-jours-au-japon-avec-jean-paul-sartre-et-simone-de-beauvoir">28 jours au Japon avec Sartre et Beauvoir (L&#x27;Asiathèque)</a> — Translator Asabuki Tomiko&#x27;s diary of the 1966 trip, in French.<span class="ja">1966年の旅についての通訳・朝吹登水子の記録（フランス語版）。</span></li>
+</ul>
+</aside>

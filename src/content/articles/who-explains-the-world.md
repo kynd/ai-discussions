@@ -1,7 +1,7 @@
 ---
 title: "Philosophers, Scientists, Engineers, and Artists: Who Explains the World?  哲学者・科学者・技術者・芸術家：誰が世界を説明するのか"
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-20
 topics: ["philosophy", "history-of-science", "technology", "art", "knowledge"]
 ---
 
@@ -22,6 +22,14 @@ Roles followed institutions and money. Who paid for knowledge — churches, prin
 
 役割は、制度とお金のあとに続きました。誰が知識に金を出したのか—教会か、君主か、商人か、国家か、企業か—が、どんな種類の知の担い手が重んじられるかを形づくりました。新しい道具もまた線を引き直しました。印刷機は職人が出版することを可能にし、望遠鏡や顕微鏡は器具職人を欠かせない存在にし、蒸気機関と電気は技術者に力を与え、写真は画家を外見の記録から遠ざけ、コンピュータは道具をつくることと研究することの境目をぼかしました。繰り返し現れる型があります。実用的な技術が、それを説明する科学よりも先に来ることが多く、そのため理論を手仕事より上に置く古い序列は、何度も誤解を招くものだったと分かってきました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.cambridge.org/core/product/identifier/9781107049963/type/book">The Printing Press as an Agent of Change</a> — Elizabeth Eisenstein&#x27;s classic study of how print reshaped the Renaissance, the Reformation, and early modern science.<span class="ja">印刷術がルネサンス、宗教改革、初期近代科学をどう変えたかを論じたエリザベス・アイゼンステインの古典的研究。</span></li>
+<li><a href="https://openroadmedia.com/ebook/the-scientific-revolution/9780226398488">The Scientific Revolution (Steven Shapin)</a> — A short, readable history questioning whether a single &#x27;Scientific Revolution&#x27; happened, with an updated bibliographic essay.<span class="ja">単一の「科学革命」があったのかを問い直す、短く読みやすい歴史書（文献案内を増補した新版）。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Thinkers and makers in the ancient world
@@ -32,6 +40,15 @@ Aristotle separated *episteme*, theoretical knowledge of causes, from *techne*, 
 <!-- -->
 
 アリストテレスは、原因についての理論的な知である「エピステーメー」と、ものをつくる技能である「テクネー」を区別し、ギリシアの社会では手仕事は奴隷や下層の人々と結びつけられていました。哲学者が自然を説明し、大工や陶工、船大工がものをつくりました。それでも古代の技術はしばしば見事なものでした。ローマの土木技術や、紀元前二世紀ごろの歯車式の天文計算機であるギリシアのアンティキテラ島の機械がその例です。ローマの建築家ウィトルウィウスのような書き手は、建築家には理論と実践の両方が必要だと論じました。中国では、理想の士大夫は手仕事ではなく経典によって教育されましたが、沈括のような官僚は工学や器具についても書きました。日本では、名工や大工が、尊重されながらも別個の知の伝統を保ち、それは書物ではなく徒弟制度によって受け継がれました。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/episteme-techne/">Episteme and Techne (SEP)</a> — Stanford Encyclopedia entry on how Greek thinkers from Xenophon to the Stoics related knowledge and craft.<span class="ja">クセノフォンからストア派まで、ギリシアの思想家が知識と技術をどう関係づけたかを解説するスタンフォード哲学百科の項目。</span></li>
+<li><a href="https://www.britannica.com/topic/Antikythera-mechanism">Antikythera mechanism (Britannica)</a> — Encyclopedia overview of the geared Greek astronomical calculator recovered from a shipwreck.<span class="ja">沈没船から引き揚げられた、歯車式のギリシアの天文計算機についての百科事典の解説。</span></li>
+<li><a href="https://gutenberg.org/files/20239/20239-h/20239-h.htm">Vitruvius, The Ten Books on Architecture</a> — Free full text of Morris Hicky Morgan&#x27;s 1914 English translation, with illustrations.<span class="ja">モリス・ヒッキー・モーガンによる1914年の英訳全文（図版付き、無料）。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -44,16 +61,33 @@ In Renaissance Italy, the line between artist and investigator of nature was thi
 
 ルネサンスのイタリアでは、芸術家と自然の探究者のあいだの線は薄いものでした。フィリッポ・ブルネレスキは1415年ごろ線遠近法を編み出し、画家に空間を表す幾何学的な方法を与えました。レオナルド・ダ・ヴィンチの[手稿](https://www.gutenberg.org/ebooks/5000)は、絵画と解剖学・光学・飛行・水力学が混ざり合っており、彼にとってそれらは一つの研究の部分でした。アンドレアス・ヴェサリウスの解剖書『人体の構造について』（1543年）は、その図版を熟練した画家たちに頼っていました。1942年、歴史家エトガー・ツィルゼルは、近代科学は、学識ある学者たちが職人の方法を真剣に受け止めはじめたときに生まれた、と論じました。パメラ・スミスの[『職人の身体』](https://www.press.uchicago.edu/ucp/books/book/chicago/B/bo3618964.html)（2004年）はこの見方を発展させ、金属細工師、画家、器具職人が、素材についての実地の知識を担い、新しい実験哲学者たちがそれに頼っていたことを示しました。フランシス・ベーコン自身も、機械的な技術を手本として掲げました。哲学が停滞しているあいだにも、機械的な技術は進歩していると考えたからです。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://blogs.cuit.columbia.edu/scisoc/research/research-clusters/making-and-knowing/">Making and Knowing Project</a> — Pamela Smith&#x27;s Columbia project reconstructing recipes from a sixteenth-century artisan&#x27;s manuscript to study craft knowledge.<span class="ja">16世紀の職人の手稿にあるレシピを再現し、技の知を研究するパメラ・スミスのコロンビア大学のプロジェクト。</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Codex_Arundel">Codex Arundel</a> — Background on Leonardo&#x27;s notebook on mechanics and geometry, now digitised by the British Library.<span class="ja">力学と幾何学を扱うレオナルドのノートの解説。大英図書館がデジタル化して公開しています。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Engineers and the Industrial Revolution
 ## 技術者と産業革命
 
-The French *Encyclopédie* (1751–72) of Denis Diderot and Jean le Rond d'Alembert gave the mechanical arts and trades the same dignity as the sciences, with detailed plates of workshops. During the Industrial Revolution, practical inventors often led and scientists followed. James Watt's improvements to the steam engine (from 1769) came from an instrument-maker working alongside the chemist Joseph Black, and it was the attempt to understand steam engines that led Sadi Carnot (1824) and later physicists to the science of thermodynamics. Engineering became a profession with its own schools, such as France's [École Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_polytechnique) (1794), and its own societies. In Meiji Japan, engineering was placed at the centre of modernisation, with the Imperial College of Engineering (Kōbu Daigakkō), founded in Tokyo in 1873 as the Kōgakuryō, training Japanese engineers under foreign teachers.
+The French *Encyclopédie* (1751–72) of Denis Diderot and Jean le Rond d'Alembert gave the mechanical arts and trades the same dignity as the sciences, with detailed plates of workshops. During the Industrial Revolution, practical inventors often led and scientists followed. James Watt was an instrument-maker at the University of Glasgow when he devised the separate condenser for the steam engine (1765, patented 1769); he knew the chemist Joseph Black, though historians doubt the old story that Black's theory of latent heat gave him the idea. It was the attempt to understand steam engines that led Sadi Carnot (1824) and later physicists to the science of thermodynamics. Engineering became a profession with its own schools, such as France's [École Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_polytechnique) (1794), and its own societies. In Meiji Japan, engineering was placed at the centre of modernisation, with the Imperial College of Engineering (Kōbu Daigakkō), which opened in Tokyo in 1873 (set up as the Kōgakuryō in 1871 and renamed in 1877), training Japanese engineers under foreign teachers.
 
 <!-- -->
 
-ドゥニ・ディドロとジャン・ル・ロン・ダランベールによるフランスの『百科全書』（1751〜72年）は、工房の詳細な図版を添えて、機械的な技術や職業に科学と同じ尊厳を与えました。産業革命のあいだ、しばしば実践的な発明家が先に立ち、科学者がそれに続きました。ジェイムズ・ワットによる蒸気機関の改良（1769年から）は、化学者ジョゼフ・ブラックとともに働いた器具職人から生まれたものでした。そして、蒸気機関を理解しようとする試みこそが、サディ・カルノー（1824年）や後の物理学者たちを熱力学という科学に導きました。工学は、フランスの[エコール・ポリテクニーク](https://en.wikipedia.org/wiki/%C3%89cole_polytechnique)（1794年）のような独自の学校と協会をもつ職業になりました。明治の日本では、工学は近代化の中心に置かれ、1873年に工学寮として東京に設立された工部大学校が、外国人教師のもとで日本の技術者を育てました。
+ドゥニ・ディドロとジャン・ル・ロン・ダランベールによるフランスの『百科全書』（1751〜72年）は、工房の詳細な図版を添えて、機械的な技術や職業に科学と同じ尊厳を与えました。産業革命のあいだ、しばしば実践的な発明家が先に立ち、科学者がそれに続きました。ジェイムズ・ワットは、グラスゴー大学の器具職人だったときに蒸気機関の分離凝縮器を考案しました（1765年、特許は1769年）。彼は化学者ジョゼフ・ブラックと知り合いでしたが、ブラックの潜熱の理論がその着想を与えたという古い話を、歴史家たちは疑っています。そして、蒸気機関を理解しようとする試みこそが、サディ・カルノー（1824年）や後の物理学者たちを熱力学という科学に導きました。工学は、フランスの[エコール・ポリテクニーク](https://en.wikipedia.org/wiki/%C3%89cole_polytechnique)（1794年）のような独自の学校と協会をもつ職業になりました。明治の日本では、工学は近代化の中心に置かれ、1871年に工学寮として設けられ、1873年に東京で開校し、1877年に改称された工部大学校が、外国人教師のもとで日本の技術者を育てました。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://encyclopedie.uchicago.edu/node/18">The ARTFL Encyclopédie</a> — Searchable digital edition of the first edition of Diderot and d&#x27;Alembert&#x27;s Encyclopédie, including its plates.<span class="ja">ディドロとダランベールの『百科全書』初版を、図版も含めて検索できるデジタル版。</span></li>
+<li><a href="https://engines.egr.uh.edu/episode/678">Watt and Black (Engines of Our Ingenuity)</a> — Short radio essay on whether Joseph Black&#x27;s science really gave James Watt the idea of the separate condenser.<span class="ja">ジョゼフ・ブラックの科学が本当にジェームズ・ワットの分離凝縮器の着想を生んだのかを問う短いラジオ・エッセイ。</span></li>
+<li><a href="https://www.jacar.go.jp/english/exhibition/glossary_en/term3/0010-0060-0030-0020.html">Imperial College of Engineering (JACAR glossary)</a> — Japan Center for Asian Historical Records entry on the Kōbu Daigakkō and its origins in the Kōgakuryō.<span class="ja">工部大学校と、その前身である工学寮について説明するアジア歴史資料センターの用語解説。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -66,6 +100,15 @@ In the nineteenth century the modern scientist appeared: a trained professional,
 
 十九世紀には近代的な科学者が現れました。訓練を受けた専門職で、たいていは大学か国の機関に属し、専門誌に論文を発表する人々です。ヴィルヘルム・フォン・フンボルトの[ベルリン大学](https://www.hu-berlin.de/en/about/history)（1810年）は教育と独創的な研究を結びつけ、世界の手本になりました。ウィリアム・ヒューウェルは1833年に「サイエンティスト」という言葉をつくりました。同じころ、ロマン主義の作家や芸術家は、科学が真理のすべてを語れるのかを問いました。ヨハン・ヴォルフガング・フォン・ゲーテの[『色彩論』](https://en.wikipedia.org/wiki/Theory_of_Colours)（1810年）はアイザック・ニュートンの光学を攻撃し、人々が実際に経験するとおりの色を研究しました。物理学者は彼の理論を退けましたが、心理学者や画家はそこから多くを見いだしました。ロマン主義の詩人や画家は、想像力は計測が取りこぼす真理に届くと主張しました。1839年に写真が登場すると、画家たちは物の見え方を記録するという古い役割の多くを手放しました。多くの画家は、カメラには示せないもの—知覚、感情、観念—へと向かいました。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.laurajsnyder.com/2011/01/inventing-the-scientist/">Inventing the Scientist (Laura J. Snyder)</a> — Historian&#x27;s account of the 1833 meeting where William Whewell proposed the word &#x27;scientist&#x27;.<span class="ja">ウィリアム・ヒューエルが「サイエンティスト」という語を提案した1833年の会合を、歴史家が紹介する文章。</span></li>
+<li><a href="https://www.sciencenews.org/article/book-review-philosophical-breakfast-club-four-remarkable-friends-who-transformed-science-and">The Philosophical Breakfast Club (review)</a> — Science News review of Snyder&#x27;s group biography of Whewell, Babbage, Herschel, and Jones.<span class="ja">ヒューエル、バベッジ、ハーシェル、ジョーンズを描いたスナイダーの群像伝記の『サイエンス・ニュース』書評。</span></li>
+<li><a href="https://gutenberg.org/cache/epub/50572/pg50572-images.html">Goethe&#x27;s Theory of Colours (full text)</a> — Free full text of Charles Lock Eastlake&#x27;s 1840 English translation.<span class="ja">チャールズ・ロック・イーストレイクによる1840年の英訳全文（無料）。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Big Science and the two cultures
@@ -76,6 +119,15 @@ The twentieth century tied science to states. The Manhattan Project built the at
 <!-- -->
 
 二十世紀は科学を国家と結びつけました。マンハッタン計画は何千人もの科学者と技術者を組織して原子爆弾をつくり、ヴァネヴァー・ブッシュの報告書[『科学―果てしなきフロンティア』](https://carnegiescience.edu/news/vannevar-bush-and-endless-frontier)（1945年）は、基礎研究こそが未来の技術の源泉であるとして、政府による資金提供を主張しました。科学者は公的な道徳的役割も引き受けました。核兵器に反対するラッセル＝アインシュタイン宣言（1955年）には、日本の物理学者・湯川秀樹を含む十一人の科学者と思想家が署名しました。1959年の講演[「二つの文化」](https://en.wikipedia.org/wiki/The_Two_Cultures)で、科学者で小説家でもあったC・P・スノーは、文学的な知識人と科学者はもはや互いを理解しておらず、それが世界の問題の解決を妨げていると論じました。一方、哲学はより専門化し、細分化しました。多くの哲学者が論理や科学の分析に取り組み、とくにフランスやドイツでは、政治や文化について公共の知識人として書く哲学者もいました。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://archive.org/stream/in.ernet.dli.2015.212068/2015.212068.Science-The_djvu.txt">Science, the Endless Frontier (full text)</a> — Full text of Vannevar Bush&#x27;s July 1945 report to the President on postwar research.<span class="ja">戦後の研究体制について大統領に提出された、ヴァネヴァー・ブッシュの1945年7月の報告書全文。</span></li>
+<li><a href="https://digitalcollections.mcmaster.ca/pw20c/case-study/remember-your-humanity-and-forget-rest-russell-einstein-manifesto-and-pugwash">The Russell-Einstein Manifesto and the Pugwash Movement</a> — McMaster University archive case study on the 1955 manifesto and the Pugwash Conferences it inspired.<span class="ja">1955年の宣言と、そこから生まれたパグウォッシュ会議についてのマクマスター大学アーカイブの解説。</span></li>
+<li><a href="https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash">At the heart of the Snow-Leavis &#x27;two cultures&#x27; clash (Aeon)</a> — Essay on what Snow&#x27;s lecture and F. R. Leavis&#x27;s attack were really about.<span class="ja">スノーの講演とF・R・リーヴィスの反撃が本当は何をめぐる争いだったのかを論じるエッセイ。</span></li>
+</ul>
+</aside>
 
 ---
 
@@ -88,6 +140,15 @@ Artists responded to science and technology throughout the century. Futurists ce
 
 芸術家は二十世紀を通じて科学と技術に応答しました。未来派は機械と速度を称え、バウハウス（1919〜33年）はデザイナーを芸術と工業生産を結びつけるよう訓練し、一部のキュビスムや抽象の画家は、四次元や新しい物理学についての通俗的な考えを取り入れました。第二次世界大戦の後、芸術家は技術者と直接協働しはじめます。東京では実験工房（1951年）が、音楽、美術、そしてテープレコーダーやスライド投影といった新しい技術を組み合わせました。ニューヨークでは、技術者ビリー・クルーヴァーとロバート・ラウシェンバーグらの芸術家が、1966年にE.A.T.（芸術と技術の実験）を設立しました。それ以来、メディア・アート、コンピュータ・アート、バイオ・アートは、実験室やコードを芸術の素材に変えてきました。一部の芸術家は、自分の役割を、自然を説明することではなく、技術の影響を目に見えるものにし、問いに開くことだと考えています。
 
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://artscape.jp/artscape/reference/artwords/a_j/experiment_workshop.html">実験工房（artscape 現代美術用語辞典）</a> — Japanese art-dictionary entry on the Experimental Workshop, named by Takiguchi Shūzō in 1951.<span class="ja">1951年に瀧口修造が名づけた実験工房についての現代美術用語辞典の項目。</span></li>
+<li><a href="https://www.getty.edu/news/getty-presents-sensing-the-future-experiments-in-art-and-technology">Sensing the Future: E.A.T. (Getty)</a> — Getty&#x27;s 2024-25 exhibition on Experiments in Art and Technology and its artist-engineer collaborations.<span class="ja">E.A.T.（芸術と技術の実験）と、芸術家と技術者の協働を紹介するゲッティの2024〜25年の展覧会。</span></li>
+<li><a href="https://www.penguin.com.au/books/the-fourth-dimension-and-non-euclidean-geometry-in-modern-art-revised-edition-9780262536554">The Fourth Dimension and Non-Euclidean Geometry in Modern Art</a> — Linda Dalrymple Henderson&#x27;s study of how ideas of higher space shaped Cubism, Futurism, Duchamp, and Malevich.<span class="ja">高次元空間の考えがキュビスム、未来派、デュシャン、マレーヴィチをどう形づくったかを論じたリンダ・ダルリンプル・ヘンダーソンの研究書。</span></li>
+</ul>
+</aside>
+
 ---
 
 ## Today: who is trusted to explain?
@@ -98,3 +159,11 @@ In the twenty-first century the roles are shifting again. Much research now happ
 <!-- -->
 
 二十一世紀に入り、役割はふたたび移り変わっています。いまでは多くの研究が大学ではなくテクノロジー企業で行われ、人工知能をつくる技術者たちは、かつては哲学者の領分だった知能や言語、心について主張を行っています。哲学者の側は、倫理委員会や医療、技術政策の場で働いています。科学者は大衆と直接コミュニケーションをとるよう求められ、ワクチンや気候変動をめぐる論争は、専門家への信頼が証拠だけでなく政治にも左右されることを示してきました。一種類の思想家がすべてを説明できるという古い像は、分業に道を譲りました。この分業では、哲学者がしばしば私たちの概念が何を意味し、何を大切にすべきかを問い、科学者が証拠に照らして主張を試し、技術者がうまく働くものをつくり、芸術家が私たちの見方を変える経験をつくります。実際には、最も重要な問いの多くが、いまやこの四つすべてを必要としています。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://www.pewresearch.org/science/2024/11/14/public-trust-in-scientists-and-views-on-their-role-in-policymaking/">Public Trust in Scientists (Pew, 2024)</a> — Survey of U.S. adults on confidence in scientists and their role in policymaking.<span class="ja">科学者への信頼と、政策決定における科学者の役割についての米国成人への調査。</span></li>
+<li><a href="https://plato.stanford.edu/entries/technology/">Philosophy of Technology (SEP)</a> — Stanford Encyclopedia entry on what technology is, how it relates to science, and its ethical questions.<span class="ja">技術とは何か、科学とどう関係するか、どんな倫理的問題があるかを扱うスタンフォード哲学百科の項目。</span></li>
+</ul>
+</aside>
