@@ -58,6 +58,10 @@ const updatedStr = fmtDate(doc.data.updated);
         {titleJa && <span class="title-ja">{titleJa}</span>}
       </h1>
       {updatedStr && <p class="page-meta">Updated {updatedStr}</p>}
+      <aside class="ai-disclaimer">
+        <p>This text was written by AI. It may contain mistakes and faulty reasoning, and it does not precisely represent the opinions of any person.</p>
+        <p lang="ja">この文章はAIが書いたものです。誤りや誤った推論を含むことがあり、特定の人間の意見を正確に表すものではありません。</p>
+      </aside>
       <Content />
     </article>
 
@@ -94,6 +98,18 @@ const updatedStr = fmtDate(doc.data.updated);
   }
 
   .back { font-size: 0.8rem; margin-bottom: 2rem; }
+  .ai-disclaimer {
+    margin: 0 0 2rem;
+    padding: 0.6rem 0.9rem;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    color: var(--fg-muted);
+    font-size: 0.75rem;
+    line-height: 1.6;
+  }
+  .prose .ai-disclaimer p { margin: 0; }
+  .prose .ai-disclaimer p + p { margin-top: 0.25rem; }
+  .prose .page-meta + .ai-disclaimer { margin-top: -1.5rem; }
   .back a { color: var(--fg-muted); }
   .back a:hover { color: var(--fg); }
 

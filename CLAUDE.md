@@ -182,6 +182,8 @@ Same visual language as the sister site `kynd/art-history`. Reuse the tokens in 
 `--border #e8e8e8`, `--link rgb(49,113,222)`; Lora (serif) ↔ Sora (sans) via the font toggle;
 Noto Serif/Sans JP for Japanese; 18px / 1.7. Minimal: thin 1px borders, generous whitespace,
 no shadows/cards. Titles split EN/JA on the first CJK character.
+Every article page shows a small bilingual AI-authorship disclaimer under the title (in
+`src/pages/articles/[slug].astro`, class `.ai-disclaimer`); keep it when editing the layout.
 
 ### 7. After editing content — reindex
 
