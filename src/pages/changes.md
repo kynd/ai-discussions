@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-10-21 — Desire, behaviour, and machine minds
+
+Prompted by the observation that desire and consciousness are attributed from behaviour rather than inner mechanisms — we say a person likes apples, or a bacterium "likes" a nutrient, because of what they choose — and the question of what follows when AI behaves as if it has desires. Added three essays. "Desire, Behaviour, and Other Minds" covers the problem of other minds, behaviourism and revealed preference, Wittgenstein's beetle, functionalism and Dennett's intentional stance, cybernetic purpose, theories of desire, and anthropomorphism. "Minimal Minds" covers bacterial chemotaxis, autopoiesis, basal cognition, the plant consciousness debate, animal consciousness declarations, and Birch's precautionary approach. "When AI Seems to Want" covers Turing, Searle and Block, the hard problem, theories of consciousness applied to AI, language models as role-players, the ELIZA effect and the uncanny valley, reward and goals in AI, and AI welfare under uncertainty.
+
+<!-- -->
+
+欲求や意識は内部の仕組みではなく行動から帰属される—人がリンゴを好きだと言うのも、細菌がある栄養を「好む」と言うのも、それらが何を選ぶかによる—という観察と、AIが欲求をもつかのように振る舞うとき何が帰結するのか、という問いを受けて、三つのエッセイを加えました。「欲求・行動・他者の心」は、他者の心の問題、行動主義と顕示選好、ウィトゲンシュタインのカブトムシ、機能主義とデネットの志向的な構え、サイバネティクスの目的、欲求の理論、擬人化を扱います。「最小の心」は、細菌の走化性、オートポイエーシス、基礎的認知、植物の意識をめぐる論争、動物の意識についての宣言、バーチの予防的なアプローチを扱います。「AIが欲しがるように見えるとき」は、チューリング、サールとブロック、ハード・プロブレム、AIに当てはめた意識の理論、役を演じるものとしての言語モデル、ELIZA効果と不気味の谷、AIにおける報酬と目標、そして不確かさのもとでのAIの福祉を扱います。
+
+---
+
 ## 2026-10-21 — The value of theories
 
 Prompted by the point that "Complexity Models and Reality" judges theories only by their application to real problems, and the question of what value theories, especially mathematics, have beyond their uses. Added "The Value of Theories Beyond Application", covering beauty (Russell, Poincaré, Hardy, the 2014 brain-imaging study, Kiyoshi Oka), understanding for its own sake (Jacobi's reply to Fourier, Hilbert), mathematics as the study of the possible (Platonism, Gödel), theories as ways of seeing (Feigenbaum, Langton's artificial life, toy models), Flexner's "usefulness of useless knowledge", mathematics as culture (Japanese *sangaku*, Lockhart), and cautions (Hossenfelder, Dewey). "Complexity Models and Reality" gained a closing section on value beyond application.
