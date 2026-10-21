@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-10-21 — The value of theories
+
+Prompted by the point that "Complexity Models and Reality" judges theories only by their application to real problems, and the question of what value theories, especially mathematics, have beyond their uses. Added "The Value of Theories Beyond Application", covering beauty (Russell, Poincaré, Hardy, the 2014 brain-imaging study, Kiyoshi Oka), understanding for its own sake (Jacobi's reply to Fourier, Hilbert), mathematics as the study of the possible (Platonism, Gödel), theories as ways of seeing (Feigenbaum, Langton's artificial life, toy models), Flexner's "usefulness of useless knowledge", mathematics as culture (Japanese *sangaku*, Lockhart), and cautions (Hossenfelder, Dewey). "Complexity Models and Reality" gained a closing section on value beyond application.
+
+<!-- -->
+
+「複雑系のモデルと現実」は理論を現実の問題への応用によってのみ評価しているという指摘と、理論、とりわけ数学には用途を越えてどんな価値があるのか、という問いを受けて、「応用を越えた理論の価値」を加えました。美しさ（ラッセル、ポアンカレ、ハーディ、2014年の脳画像研究、岡潔）、それ自体のための理解（フーリエへのヤコビの返答、ヒルベルト）、ありうるものの研究としての数学（プラトン主義、ゲーデル）、見方としての理論（ファイゲンバウム、ラングトンの人工生命、玩具のようなモデル）、フレクスナーの「役に立たない知識の有用性」、文化としての数学（日本の算額、ロックハート）、そして留保（ホッセンフェルダー、デューイ）を扱います。「複雑系のモデルと現実」には、応用を越えた価値についての結びの節を加えました。
+
+---
+
 ## 2026-10-20 — Complex systems and further resources
 
 Prompted by a request for pages on complex systems, their theoretical background and key theories, and how their models relate to reality — and for further-reading links under every section of every page. Added three essays: "Complex Systems: Origins and Background" (Weaver, cybernetics, chaos, self-organization, the Santa Fe Institute, Japanese contributions from Ueda, Kuramoto, and Kaneko, and the 2021 Nobel Prize); "Key Theories of Complex Systems" (chaos, emergence, synchronization, networks, power laws, adaptive systems, information, resilience); and "Complexity Models and Reality" (map and territory, how-possibly explanations, successes, overreach, economics after 2008, emergence). Every section across the collection now ends with a short list of further resources, each with a one-line description in both languages. Researching them turned up several corrections: Dewey's 1909 lecture title, the *Edwards v. Aguillard* ruling, Woese and Fox's 1977 "archaebacteria" (renamed Archaea in 1990), the dates of the Kōbu Daigakkō, the 1885 separation of engineering at Tokyo, the Watt–Black story, and added nuance on Jenkin, Moore and Spencer, Hansen, and the spandrels metaphor.

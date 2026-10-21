@@ -1,7 +1,7 @@
 ---
 title: "Complexity Models and Reality  複雑系のモデルと現実"
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-21
 topics: ["complex-systems", "philosophy-of-science", "models", "prediction"]
 ---
 
@@ -145,5 +145,23 @@ Behind these debates lies a philosophical question: are the patterns that comple
 <li><a href="https://plato.stanford.edu/entries/properties-emergent/">Emergent Properties (SEP)</a> — Survey of weak and strong emergence and their philosophical stakes.<span class="ja">弱い創発と強い創発、その哲学的な意味の概説です。</span></li>
 <li><a href="https://plato.stanford.edu/entries/scientific-reduction/">Scientific Reduction (SEP)</a> — What it means to reduce one level of description to another.<span class="ja">ある記述の階層を別の階層へ還元するとはどういうことかの解説です。</span></li>
 <li><a href="https://doi.org/10.1126/science.177.4047.393">Anderson, More Is Different (1972)</a> — The original Science article on broken symmetry and levels of organisation.<span class="ja">対称性の破れと組織化の階層を論じた『サイエンス』誌の原論文です。</span></li>
+</ul>
+</aside>
+
+---
+
+## Value beyond application
+## 応用を越えた価値
+
+Judging models only by how well they fit real cases leaves out another kind of value. Many theorists prize complexity models for what they reveal in themselves: that very different systems share the same route to chaos, that a few local rules can generate a flock or a city's segregation, or that life on Earth is one example within a wider space of "life as it could be", in Christopher Langton's phrase. Mathematicians have long made a similar claim about their own subject, valuing theories for their beauty, for the understanding they give, and for the possibilities they map, not only for their uses. On this view, a complexity model that predicts nothing can still be worth having if it changes what we can imagine and sharpens the questions we ask of the world.
+
+<!-- -->
+
+モデルを、現実の事例にどれだけよく当てはまるかだけで評価すると、別の種類の価値が抜け落ちます。多くの理論家は、複雑系のモデルを、それ自体が明らかにするもののゆえに尊んでいます。まったく異なるシステムが同じ道筋でカオスに至ること、少数の局所的な規則が鳥の群れや都市の分断を生みうること、そしてクリストファー・ラングトンの言葉を借りれば、地球上の生命は「ありうる生命」のより広い空間のなかの一例にすぎないこと、などです。数学者たちも、自分たちの分野について同じような主張を長く行ってきました。理論を、その用途だけでなく、その美しさ、それが与える理解、それが描き出す可能性のゆえに重んじる、という主張です。この見方に立てば、何も予測しない複雑系のモデルでも、私たちが想像できることを変え、世界に向ける問いを研ぎ澄ますのであれば、もつ価値があります。
+
+<aside class="resources">
+<p class="resources-label">Further resources · 関連資料</p>
+<ul>
+<li><a href="https://kk.org/outofcontrol/ch17-f.html">Kevin Kelly, Out of Control (chapter on artificial life)</a> — Account of Langton and the early artificial-life movement.<span class="ja">ラングトンと初期の人工生命運動についての記述。</span></li>
 </ul>
 </aside>
