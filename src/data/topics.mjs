@@ -11,5 +11,7 @@ export const TOPICS = [
   { label: 'Technology', query: 'technology, machines, computers, and their effects on society' },
   { label: 'Ideas & Philosophy', query: 'philosophy, ideas, and ways of thinking' },
   { label: 'Society & Culture', query: 'society, culture, politics, and everyday life' },
+  { label: 'Music', query: 'music, sound, listening, and musical traditions' },
+  { label: 'Mathematics', query: 'mathematics, abstraction, proof, and mathematical ideas' },
   { label: 'Japan', query: 'Japan, its history, culture, and art' },
 ];
