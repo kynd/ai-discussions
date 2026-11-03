@@ -84,7 +84,7 @@ The French *Encyclopédie* (1751–72) of Denis Diderot and Jean le Rond d'Alemb
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://encyclopedie.uchicago.edu/node/18">The ARTFL Encyclopédie</a> — Searchable digital edition of the first edition of Diderot and d&#x27;Alembert&#x27;s Encyclopédie, including its plates.<span class="ja">ディドロとダランベールの『百科全書』初版を、図版も含めて検索できるデジタル版。</span></li>
-<li><a href="https://engines.egr.uh.edu/episode/678">Watt and Black (Engines of Our Ingenuity)</a> — Short radio essay on whether Joseph Black&#x27;s science really gave James Watt the idea of the separate condenser.<span class="ja">ジェームズ・ワットの分離凝縮器の着想は、本当にジョゼフ・ブラックの科学から生まれたのかを問う短いラジオ・エッセイ。</span></li>
+<li><a href="https://engines.egr.uh.edu/episode/678">Watt and Black (Engines of Our Ingenuity)</a> — Short radio essay on whether Joseph Black&#x27;s science really gave James Watt the idea of the separate condenser.<span class="ja">ジェイムズ・ワットの分離凝縮器の着想は、本当にジョゼフ・ブラックの科学から生まれたのかを問う短いラジオ・エッセイ。</span></li>
 <li><a href="https://www.jacar.go.jp/english/exhibition/glossary_en/term3/0010-0060-0030-0020.html">Imperial College of Engineering (JACAR glossary)</a> — Japan Center for Asian Historical Records entry on the Kōbu Daigakkō and its origins in the Kōgakuryō.<span class="ja">工部大学校と、その前身である工学寮について説明するアジア歴史資料センターの用語解説。</span></li>
 </ul>
 </aside>
@@ -103,8 +103,8 @@ In the nineteenth century the modern scientist appeared: a trained professional,
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://www.laurajsnyder.com/2011/01/inventing-the-scientist/">Inventing the Scientist (Laura J. Snyder)</a> — Historian&#x27;s account of the 1833 meeting where William Whewell proposed the word &#x27;scientist&#x27;.<span class="ja">ウィリアム・ヒューエルが「サイエンティスト」という語を提案した1833年の会合について、歴史家が書いた文章。</span></li>
-<li><a href="https://www.sciencenews.org/article/book-review-philosophical-breakfast-club-four-remarkable-friends-who-transformed-science-and">The Philosophical Breakfast Club (review)</a> — Science News review of Snyder&#x27;s group biography of Whewell, Babbage, Herschel, and Jones.<span class="ja">ヒューエル、バベッジ、ハーシェル、ジョーンズを描いたスナイダーの群像伝記の『サイエンス・ニュース』書評。</span></li>
+<li><a href="https://www.laurajsnyder.com/2011/01/inventing-the-scientist/">Inventing the Scientist (Laura J. Snyder)</a> — Historian&#x27;s account of the 1833 meeting where William Whewell proposed the word &#x27;scientist&#x27;.<span class="ja">ウィリアム・ヒューウェルが「サイエンティスト」という語を提案した1833年の会合について、歴史家が書いた文章。</span></li>
+<li><a href="https://www.sciencenews.org/article/book-review-philosophical-breakfast-club-four-remarkable-friends-who-transformed-science-and">The Philosophical Breakfast Club (review)</a> — Science News review of Snyder&#x27;s group biography of Whewell, Babbage, Herschel, and Jones.<span class="ja">ヒューウェル、バベッジ、ハーシェル、ジョーンズを描いたスナイダーの群像伝記の『サイエンス・ニュース』書評。</span></li>
 <li><a href="https://gutenberg.org/cache/epub/50572/pg50572-images.html">Goethe&#x27;s Theory of Colours (full text)</a> — Free full text of Charles Lock Eastlake&#x27;s 1840 English translation.<span class="ja">チャールズ・ロック・イーストレイクによる1840年の英訳全文（無料）。</span></li>
 </ul>
 </aside>
