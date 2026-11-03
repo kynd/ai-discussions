@@ -9,7 +9,7 @@ Theories are often judged by what they let us do, but mathematicians and scienti
 
 <!-- -->
 
-理論はしばしば、それによって何ができるかで評価されますが、数学者や科学者は長いあいだ、その価値はそれだけにとどまらないと論じてきました。理論をその美しさゆえに尊ぶ人々がいます。アンリ・ポアンカレは、科学者が自然を研究するのはそれが役に立つからではなく、それが喜びを与えてくれるからだと書きました。2014年の脳画像研究は、数学者が美しいと判断する数式が、美しい美術や音楽と同じ脳の領域を活性化させることを見いだしました。理解をそれ自体のために重んじる人々もいます。科学の目的は「人間精神の名誉」であるというフーリエへのカール・ヤコビの返答や、ダフィット・ヒルベルトの「我々は知らねばならない。我々は知るであろう」（1930年）がその例です。数学は現実にあるものだけでなく、ありうるものを探り、複雑系科学のような理論的なモデルは、何も予測しないときでさえ、私たちの世界の見方を変えます。エイブラハム・フレクスナーの論考「役に立たない知識の有用性」（1939年）は、好奇心に駆られた仕事こそが、長い目で見れば最も役に立つことが多いと付け加えました。批判者たちは美しさが人を誤らせうると警告し、ジョン・デューイのようなプラグマティストは、何かをそれ自体のために重んじることと、それがもたらすもののために重んじることのあいだの鋭い線引きに疑問を投げかけました。
+理論はよく、それを使って何ができるかで評価されます。しかし数学者や科学者は昔から、理論の価値はそれだけではないと論じてきました。美しさゆえに理論を大切にする人がいます。アンリ・ポアンカレは、科学者が自然を研究するのは役に立つからではなく、喜びを与えてくれるからだと書きました。2014年の脳画像研究では、数学者が美しいと感じる数式が、美しい美術や音楽と同じ脳の領域を活性化させることがわかっています。理解そのものを重んじる人もいます。科学の目的は「人間精神の名誉」だというフーリエへのカール・ヤコビの返答や、ダフィット・ヒルベルトの「我々は知らねばならない。我々は知るであろう」（1930年）という言葉がその例です。数学は現実にあるものだけでなく、ありうるものを探ります。複雑系科学のような理論的なモデルは、何も予測しないときでさえ、私たちの世界の見方を変えます。エイブラハム・フレクスナーは論考「役に立たない知識の有用性」（1939年）で、好奇心から始まった仕事こそ、長い目で見ると最も役に立つことが多いと付け加えました。一方で、美しさは人を誤らせることがあると警告する批判者もいます。ジョン・デューイのようなプラグマティストは、何かをそれ自体のために重んじることと、それがもたらすもののために重んじることを、はっきり分けられるのかと疑問を投げかけました。
 
 ---
 
@@ -20,12 +20,12 @@ The question of what theories are "for" sharpened as research came to depend on 
 
 <!-- -->
 
-理論は何の「ため」にあるのかという問いは、研究が公的な資金に頼るようになるにつれて鋭くなりました。十九世紀には、数学者たちは、科学は工学や国家に奉仕すべきだと考える人々に対して、純粋な研究を擁護しました。二十世紀には、政府が、技術や防衛で見返りがあるという約束のもとで基礎研究に資金を出し、研究者たちはその用途によって仕事を正当化するよう迫られました。同時に数学者や物理学者は、自分たちの経験をまったく違う言葉—美、驚き、理解、遊び—で語り続けてきました。公的な正当化と個人的な動機という、この二つの語り方のあいだの緊張が、以下のすべての議論を貫いています。
+理論は何の「ため」にあるのかという問いは、研究が公的な資金に頼るようになるにつれて切実になりました。十九世紀の数学者は、科学は工学や国家に奉仕すべきだと考える人々に対して、純粋な研究を擁護しています。二十世紀になると、政府は技術や防衛で見返りがあると見込んで基礎研究に資金を出すようになり、研究者は仕事の意義を用途で説明するよう迫られました。その一方で数学者や物理学者は、自分たちの経験をまったく別の言葉—美、驚き、理解、遊び—で語り続けてきました。公的な正当化と個人的な動機という二つの語り方のあいだの緊張は、以下のどの議論にも通じています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://issues.org/venkatesh/">RIP: The Basic/Applied Research Dichotomy (Issues in Science and Technology)</a> — Argues the old split between basic and applied research no longer fits how science works.<span class="ja">基礎研究と応用研究の古い区分は、もはや科学の実態に合わないと論じる記事。</span></li>
+<li><a href="https://issues.org/venkatesh/">RIP: The Basic/Applied Research Dichotomy (Issues in Science and Technology)</a> — Argues the old split between basic and applied research no longer fits how science works.<span class="ja">基礎研究と応用研究という古い区分は、もはや科学の実際の進み方に合わないと論じる記事。</span></li>
 </ul>
 </aside>
 
@@ -38,12 +38,12 @@ Many mathematicians describe beauty as central to their work. Bertrand Russell w
 
 <!-- -->
 
-多くの数学者は、美しさを自分の仕事の中心にあるものとして語ります。バートランド・ラッセルは「数学の研究」（1907年）で、数学は「真理だけでなく、至高の美—冷たく厳しい美—をもっている」と書きました。ポアンカレは『科学と方法』（1908年）で、自分の言う美しさは外見の美しさではなく、「部分の調和のとれた秩序から来る、より内密な美しさ」だと述べました。G・H・ハーディの『ある数学者の生涯と弁明』（1940年）は、有用性よりも美しさこそが、よい数学の本当の試金石だと論じました。2014年、神経科学者セミール・ゼキと数学者マイケル・アティヤらは、数式を見ている十五人の数学者の脳を調べ、報告された美しさに応じて[内側眼窩前頭皮質の活動](https://discovery.ucl.ac.uk/id/eprint/1422447/)が高まることを見いだしました。美術の美しさに対するのと同じ反応です。日本では、数学者の岡潔が[『春宵十話』](https://www.kadokawa.co.jp/product/321402000019/)（1963年）で、数学の中心は情緒にあると書き、数学の発見を芸術になぞらえました。
+多くの数学者は、美しさを自分の仕事の中心にあるものとして語ります。バートランド・ラッセルは「数学の研究」（1907年）で、数学は「真理だけでなく、至高の美—冷たく厳しい美—をもっている」と書きました。ポアンカレは『科学と方法』（1908年）で、自分の言う美しさとは見かけの美しさではなく、「部分の調和のとれた秩序から来る、より内面的な美しさ」だと述べています。G・H・ハーディは『ある数学者の生涯と弁明』（1940年）で、よい数学を見分ける本当の基準は、有用性よりも美しさだと論じました。2014年には、神経科学者セミール・ゼキと数学者マイケル・アティヤらが、数式を見ている十五人の数学者の脳を調べました。すると、本人が感じた美しさに応じて[内側眼窩前頭皮質の活動](https://discovery.ucl.ac.uk/id/eprint/1422447/)が高まっていました。美術の美しさに対する反応と同じです。日本では数学者の岡潔が[『春宵十話』](https://www.kadokawa.co.jp/product/321402000019/)（1963年）で、数学の中心は情緒にあると書き、数学の発見を芸術になぞらえています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://gutenberg.org/files/25447/25447-h/25447-h.htm">Russell, Mysticism and Logic (Project Gutenberg)</a> — Full text, including "The Study of Mathematics" and its passage on beauty.<span class="ja">数学の美しさについての一節を含む「数学の研究」を収めた全文。</span></li>
+<li><a href="https://gutenberg.org/files/25447/25447-h/25447-h.htm">Russell, Mysticism and Logic (Project Gutenberg)</a> — Full text, including "The Study of Mathematics" and its passage on beauty.<span class="ja">数学の美しさに触れた一節を含む「数学の研究」を収めた本の全文。</span></li>
 <li><a href="https://www.frontiersin.org/articles/10.3389/fnhum.2014.00068/pdf">Zeki et al., The experience of mathematical beauty (2014)</a> — Open-access paper on the brain-imaging study of mathematicians.<span class="ja">数学者の脳画像研究を報告した、無料で読める論文。</span></li>
 <li><a href="https://chikumashobo.co.jp/product/9784480510884/">岡潔の数学エッセイ (筑摩書房)</a> — Japanese edition of Oka's essays on mathematics and the mind.<span class="ja">数学と心についての岡潔のエッセイの日本語版。</span></li>
 </ul>
@@ -58,12 +58,12 @@ Aristotle opened his *Metaphysics* with the claim that all human beings by natur
 
 <!-- -->
 
-アリストテレスは『形而上学』を、すべての人間は生まれつき知ることを欲する、という主張で始めました。多くの科学者も、理解をそれ自体よいものとして扱ってきました。1830年、ジョゼフ・フーリエは、自然現象を説明し公共の利益に役立つとして数学を称えました。カール・ヤコビはアドリアン＝マリ・ルジャンドルへの手紙で、フーリエは科学の唯一の目的が[「人間精神の名誉」](https://todayinsci.com/J/Jacobi_Karl/JacobiKarl-Quotations.htm)であることを知っているべきだったと応じ、数についての問いは世界の体系についての問いと同じだけの価値がある、と述べました。一世紀後の1930年、ケーニヒスベルクでの講演でヒルベルトは、知りえないことがあるという古い主張を退け、のちに墓碑に刻まれた言葉で締めくくりました。[「我々は知らねばならない。我々は知るであろう」](https://www.cs.auckland.ac.nz/~cristian/talks/more/incompl_talk/HilbertRadio.pdf)。この見方に立てば、理論が価値をもつのは、誰かがその答えを使えるかどうかにかかわらず、物事がなぜそうなっているのかを示すからです。
+アリストテレスは『形而上学』を、すべての人間は生まれつき知ることを欲する、という主張で始めました。多くの科学者も、理解をそれ自体よいものとみなしてきました。1830年、ジョゼフ・フーリエは、自然現象を説明し、公共の利益に役立つとして数学を称えました。これに対しカール・ヤコビはアドリアン＝マリ・ルジャンドルへの手紙で、科学の唯一の目的が[「人間精神の名誉」](https://todayinsci.com/J/Jacobi_Karl/JacobiKarl-Quotations.htm)であることを、フーリエは知っているべきだったと書いています。数についての問いには、世界の体系についての問いと同じだけの価値がある、とも述べました。それから一世紀後の1930年、ヒルベルトはケーニヒスベルクでの講演で、知りえないことがあるという古い主張を退け、のちに墓碑に刻まれる言葉で話を締めくくりました。[「我々は知らねばならない。我々は知るであろう」](https://www.cs.auckland.ac.nz/~cristian/talks/more/incompl_talk/HilbertRadio.pdf)。この見方に立てば、理論に価値があるのは、物事がなぜそうなっているのかを示すからです。誰かがその答えを使えるかどうかは問いません。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge">The century-long search for the limits to knowledge (Aeon)</a> — Essay on Hilbert's "we must know" and what came after.<span class="ja">ヒルベルトの「我々は知らねばならない」と、その後に起きたことについての論考。</span></li>
+<li><a href="https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge">The century-long search for the limits to knowledge (Aeon)</a> — Essay on Hilbert's "we must know" and what came after.<span class="ja">ヒルベルトの「我々は知らねばならない」と、その後の展開をたどる論考。</span></li>
 <li><a href="https://www.maa.org/node/334042">Hilbert's radio address (MAA Convergence)</a> — Translation and history of the 1930 broadcast, with the surviving recording.<span class="ja">1930年の放送の翻訳と歴史。現存する録音も紹介しています。</span></li>
 </ul>
 </aside>
@@ -77,7 +77,7 @@ Mathematics differs from natural science because its results are proved, not obs
 
 <!-- -->
 
-数学が自然科学と違うのは、その結果が観察されるのではなく証明されるからであり、その多くは物理的な世界に対応物をもたないかもしれない構造を記述しています。これが何を意味するのかについて、哲学者たちの意見は分かれます。クルト・ゲーデルを含むプラトン主義者は、数学的な対象は私たちから独立に存在し、発見されると考えました。[形式主義者などの立場](https://philpapers.org/sep/platonism-mathematics/)は、数学を、選ばれた規則から何が導かれるかの研究として扱います。いずれにしても、数学は現実の世界よりもはるかに大きな、可能性の空間を描きます。最も重んじられている成果のいくつかは、応用ではなく限界についてのものです。ゲーデルの不完全性定理（1931年）は、算術を表せるほど豊かな無矛盾の形式体系には、証明できない真の命題が含まれることを示しました。これは証明そのものの性質についての発見です。こうした成果が価値をもつのは、何が知りうるのか、何が知りえないのかを教えてくれるからであり、それはどんな実験にも確かめられません。
+数学が自然科学と違うのは、結果が観察ではなく証明によって得られる点です。しかもその多くは、物理的な世界に対応するものがないかもしれない構造を扱っています。これが何を意味するのかについて、哲学者の意見は分かれます。クルト・ゲーデルを含むプラトン主義者は、数学的な対象は私たちとは独立に存在し、発見されるものだと考えました。[形式主義者などの立場](https://philpapers.org/sep/platonism-mathematics/)では、数学は、選んだ規則から何が導かれるかを調べる学問とされます。どちらにしても、数学が描き出す可能性の空間は、現実の世界よりはるかに大きなものです。最も重んじられてきた成果のなかには、応用ではなく限界にかかわるものもあります。ゲーデルの不完全性定理（1931年）は、算術を表せるほど豊かな無矛盾の形式体系には、その体系では証明できない真の命題が含まれることを示しました。証明そのものの性質についての発見です。こうした成果に価値があるのは、何を知りうるのか、何を知りえないのかを教えてくれるからで、それはどんな実験でも確かめられません。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
@@ -96,13 +96,13 @@ Theoretical science, including complexity science, often earns its value by chan
 
 <!-- -->
 
-複雑系科学を含む理論科学は、予測することよりも、私たちが気づくものを変えることによって価値を得ることが多くあります。まったく異なるシステムが同じ数値定数をともなってカオスに近づくというミッチェル・ファイゲンバウムの発見は、応用がどうであれ、それらのあいだの隠れた親縁関係を明らかにしました。1987年にロスアラモスで最初の人工生命のワークショップを組織したクリストファー・ラングトンは、この分野の目的を[「ありうる生命」](https://kk.org/outofcontrol/ch17-f.html)の研究と表現し、地球上の生命を、ありうる生命システムのより広い空間のなかに位置づけました。ライフゲームやトマス・シェリングの分居モデルのような玩具のようなモデルは、創発、フィードバック、転換点といった概念を明確にし、それが現実の都市や市場、生態系についての人々の考え方を形づくります。そうしたモデルは、どの具体的な事例にも一致しないときでさえ、ある現象がありうることを示し、その理由を説明し、他の人々が検証へと進む問いを研ぎ澄ますことができます。そうした種類の理解は、予測への一歩としてだけでなく、それ自体として重んじられています。
+複雑系科学を含む理論科学は、予測よりも、私たちが何に気づくかを変えることで価値を生むことが少なくありません。ミッチェル・ファイゲンバウムは、まったく異なるシステムが同じ数値定数に従ってカオスに近づくことを発見しました。応用がどうであれ、この発見はそれらのシステムのあいだに隠れた類縁関係があることを明らかにしています。クリストファー・ラングトンは1987年、ロスアラモスで最初の人工生命のワークショップを開きました。この分野の目的を[「ありうる生命」](https://kk.org/outofcontrol/ch17-f.html)の研究と表現し、地球上の生命を、ありうる生命システムのより広い空間のなかに位置づけています。ライフゲームやトマス・シェリングの分居モデルのような簡単な模型は、創発、フィードバック、転換点といった概念をはっきりさせます。その概念が、現実の都市や市場、生態系についての人々の考え方を形づくっていきます。こうしたモデルは、どの具体的な事例にも当てはまらないときでも、ある現象が起こりうることを示し、その理由を説明し、ほかの人が検証に進むための問いを研ぎ澄ませます。この種の理解は、予測への一歩としてだけでなく、それ自体として重んじられています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://www.routledge.com/Artificial-Life-Proceedings-Of-An-Interdisciplinary-Workshop-On-The-Sy/Langton/p/book/9780367002909">Langton (ed.), Artificial Life (Routledge)</a> — Proceedings of the 1987 Los Alamos workshop that founded artificial life.<span class="ja">人工生命という分野を生んだ1987年のロスアラモスのワークショップの論文集。</span></li>
-<li><a href="https://ncase.me/crowds/">The Wisdom and/or Madness of Crowds (Nicky Case)</a> — Interactive explainer showing how network models change how we see social behaviour.<span class="ja">ネットワークのモデルが社会的な振る舞いの見方をどう変えるかを示す、対話型の解説。</span></li>
+<li><a href="https://ncase.me/crowds/">The Wisdom and/or Madness of Crowds (Nicky Case)</a> — Interactive explainer showing how network models change how we see social behaviour.<span class="ja">ネットワークのモデルによって、社会的な振る舞いの見え方がどう変わるかを示す対話型の解説。</span></li>
 </ul>
 </aside>
 
@@ -115,13 +115,13 @@ A different defence of pure theory admits that usefulness matters but says it ca
 
 <!-- -->
 
-純粋な理論の、別の種類の擁護は、有用性が大切であることを認めつつ、それは計画できないと言います。プリンストン高等研究所の初代所長エイブラハム・フレクスナーは「役に立たない知識の有用性」（1939年）で、最も偉大な発見は好奇心に従った研究者たちから生まれてきたと論じ、電磁気についての仕事が、それを目指したわけでもないのにラジオを可能にした、ジェイムズ・クラーク・マクスウェルやハインリヒ・ヘルツらの例を挙げました。物理学者ロベルト・ダイクラーフは、[2017年の新版](https://www.ias.edu/ideas/usefulness-trailer)でこの主張をあらためて論じました。ハーディ自身の例は、皮肉なかたちでこれを裏づけています。彼は数論が役に立たないことを誇りにしていましたが、数論は現代の暗号の基礎になりました。この議論はなお理論を最終的な応用によって測っているため、多くの数学者は、美しさや理解についての主張の代わりにではなく、それと並べてこの議論を用います。
+純粋な理論を擁護するもうひとつの議論は、有用性が大切だと認めたうえで、それは計画できないと主張します。プリンストン高等研究所の初代所長エイブラハム・フレクスナーは「役に立たない知識の有用性」（1939年）で、最も偉大な発見は、好奇心に従った研究者から生まれてきたと論じました。例に挙げたのはジェイムズ・クラーク・マクスウェルやハインリヒ・ヘルツらです。その電磁気の研究は、ラジオを目指したわけではないのに、ラジオを可能にしました。物理学者ロベルト・ダイクラーフは[2017年の新版](https://www.ias.edu/ideas/usefulness-trailer)で、この主張をあらためて論じています。ハーディ自身の例は、皮肉なかたちでこれを裏づけます。ハーディは数論が役に立たないことを誇りにしていましたが、数論はのちに現代の暗号の基礎になりました。ただ、この議論も結局は理論を最終的な応用で測っています。そのため多くの数学者は、美しさや理解をめぐる主張の代わりとしてではなく、それと並べてこの議論を使います。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://www.caut.ca/bulletin/book-review-the-usefulness-of-useless-knowledge/">Review of The Usefulness of Useless Knowledge (CAUT Bulletin)</a> — Review of the 2017 edition and its case for curiosity-driven research.<span class="ja">2017年版と、好奇心に駆られた研究の擁護についての書評。</span></li>
-<li><a href="https://old.maa.org/press/periodicals/convergence/the-theorem-that-won-the-war">The theorem that won the war (MAA Convergence)</a> — How abstract mathematics turned out to matter in wartime codebreaking.<span class="ja">抽象的な数学が、戦時の暗号解読で重要になった経緯。</span></li>
+<li><a href="https://www.caut.ca/bulletin/book-review-the-usefulness-of-useless-knowledge/">Review of The Usefulness of Useless Knowledge (CAUT Bulletin)</a> — Review of the 2017 edition and its case for curiosity-driven research.<span class="ja">2017年版と、そこで展開される好奇心主導の研究の擁護を取り上げた書評。</span></li>
+<li><a href="https://old.maa.org/press/periodicals/convergence/the-theorem-that-won-the-war">The theorem that won the war (MAA Convergence)</a> — How abstract mathematics turned out to matter in wartime codebreaking.<span class="ja">抽象的な数学が、戦時の暗号解読で重要になった経緯を紹介する記事。</span></li>
 </ul>
 </aside>
 
@@ -134,13 +134,13 @@ Mathematics has also been valued as a shared human practice, like music or poetr
 
 <!-- -->
 
-数学はまた、音楽や詩のように、人間が共有する営みとしても重んじられてきました。江戸時代の日本では、和算の担い手たちが、算額と呼ばれる木の額を神社や寺に掲げ、幾何の問題とその解法を、奉納として、また公開の挑戦として示しました。そこには実用的な目的は想定されていませんでした。教師ポール・ロックハートは「ある数学者の嘆き」（2002年執筆、2009年刊行）で、数学は絵画や詩と並ぶ[「芸術の一形式」](https://en.wikipedia.org/wiki/A_Mathematician%27s_Lament)であり、学校は手順と応用だけを教えることでそれを壊していると論じました。この見方に立てば、理論の価値の一部は、それをつくり理解するという営みそのものにあり、一部は、人々が楽しみ、議論し、受け継いでいける共有の文化にそれが加えるものにあります。
+数学はまた、音楽や詩のように、人々が共有する営みとしても大切にされてきました。江戸時代の日本では、和算家たちが、算額と呼ばれる木の額を神社や寺に掲げました。幾何の問題とその解法を、奉納として、また公開の挑戦として示したもので、実用的な目的はとくに想定されていません。教師のポール・ロックハートは「ある数学者の嘆き」（2002年執筆、2009年刊行）で、数学は絵画や詩と並ぶ[「芸術の一形式」](https://en.wikipedia.org/wiki/A_Mathematician%27s_Lament)だと論じました。学校は手順と応用ばかりを教えることで、その芸術を壊している、という主張です。この見方に立てば、理論の価値は、ひとつにはそれをつくり、理解するという営みそのものにあります。もうひとつは、人々が楽しみ、議論し、受け継いでいける共有の文化に、その理論が付け加えるものにあります。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://www.blpress.org/books/a-mathematicians-lament/">A Mathematician's Lament (Bellevue Literary Press)</a> — Publisher page for Lockhart's book on mathematics as art.<span class="ja">数学を芸術として論じたロックハートの本の出版社ページ。</span></li>
-<li><a href="https://blogs.ams.org/blogonmathblogs/2018/10/08/math-games-that-make-you-think/">Math games that make you think (AMS Blog on Math Blogs)</a> — A guide to playful mathematics explored for its own sake.<span class="ja">それ自体のために楽しまれる、遊びとしての数学への案内。</span></li>
+<li><a href="https://blogs.ams.org/blogonmathblogs/2018/10/08/math-games-that-make-you-think/">Math games that make you think (AMS Blog on Math Blogs)</a> — A guide to playful mathematics explored for its own sake.<span class="ja">それ自体を楽しむための、遊びとしての数学への案内。</span></li>
 </ul>
 </aside>
 
@@ -153,7 +153,7 @@ These defences have limits. The physicist Sabine Hossenfelder's [*Lost in Math*]
 
 <!-- -->
 
-こうした擁護には限界もあります。物理学者ザビーネ・ホッセンフェルダーの[『数学に魅せられて、科学を見失う』（原題 *Lost in Math*）](https://specialsales.hbgusa.com/titles/sabine-hossenfelder/lost-in-math/9780465094264/)（2018年）は、美しさと自然さの追求が理論物理学を誤った方向に導き、実験に裏づけられない優雅な理論を生んできたと論じました。これに対して、美しさはのちに確かめられた発見も導いてきた、と応じる人々もいます。「純粋な」知識への訴えは、純粋と応用の区分の歴史を研究する人々が示してきたように、地位や資金を求める主張として働くこともあります。ジョン・デューイは『評価の理論』（1939年）で、それ自体として価値をもつものと手段として価値をもつものの鋭い区分に疑問を呈し、実践のなかでは目的と手段は互いを形づくると論じました。リチャード・ローティに近いプラグマティズムの読み方に立てば、美しさ、理解、有用性は、互いに競い合う種類の価値ではなく、理論が人間の目的に役立つさまざまなやり方です。その目的には、世界を理解しようとし、それを楽しむという目的も含まれます。
+こうした擁護にも限界はあります。物理学者ザビーネ・ホッセンフェルダーは[『数学に魅せられて、科学を見失う』（原題 *Lost in Math*）](https://specialsales.hbgusa.com/titles/sabine-hossenfelder/lost-in-math/9780465094264/)（2018年）で、美しさや自然さを追い求めた結果、理論物理学は道を誤り、実験に裏づけられない優雅な理論を生んできたと論じました。これに対し、美しさはのちに確かめられた発見も導いてきた、と反論する人もいます。また、純粋と応用の区分の歴史を研究する人々が示してきたように、「純粋な」知識を掲げることが、地位や資金を求める主張として働く場合もあります。ジョン・デューイは『評価の理論』（1939年）で、それ自体として価値をもつものと手段として価値をもつものをはっきり分けることに疑問を示し、実践のなかでは目的と手段が互いを形づくると論じました。リチャード・ローティに近いプラグマティズムの読み方に立てば、美しさ、理解、有用性は、互いに競い合う別々の価値ではありません。どれも、理論が人間の目的に役立つさまざまな仕方です。その目的には、世界を理解しようとすること、そしてそれを楽しむことも含まれます。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
