@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-11-03 — Merleau-Ponty and Sartre
+
+Prompted by a request about Merleau-Ponty and Sartre. Added two essays. "Maurice Merleau-Ponty" covers his life, the body as the subject of perception (body schema, motor intentionality, the Schneider case and phantom limbs), his essays on Cézanne and painting, his political shift from *Humanism and Terror* to *Adventures of the Dialectic*, the late idea of flesh and the chiasm, his influence on cognitive science, architecture and feminist philosophy, and his reception in Japan. "Merleau-Ponty and Sartre" covers their friendship and co-editorship of *Les Temps modernes*, their disagreements over consciousness and the body, absolute and situated freedom, and the look and coexistence, and the political break of 1953–55. The Sartre essay now links to the fuller account of the break.
+
+<!-- -->
+
+メルロ＝ポンティとサルトルについての問いを受けて、二つのエッセイを加えました。「モーリス・メルロ＝ポンティ」は、生涯、知覚の主体としての身体（身体図式、運動志向性、シュナイダーの症例と幻肢）、セザンヌと絵画についての論考、『ヒューマニズムとテロル』から『弁証法の冒険』への政治的な転回、晩年の「肉」とキアスムの考え、認知科学・建築・フェミニズム哲学への影響、そして日本での受容を扱います。「メルロ＝ポンティとサルトル」は、二人の友情と『レ・タン・モデルヌ』の共同編集、意識と身体、絶対的な自由と状況のなかの自由、まなざしと共存をめぐる意見の違い、そして1953〜55年の政治的な決裂を扱います。サルトルのエッセイからは、決裂についてのくわしい説明へリンクしました。
+
+---
+
 ## 2026-11-02 — Abstraction
 
 Prompted by the question "what is abstraction?", with three starting points offered for research rather than as conclusions: whether calling music abstract misses that sound is itself the real thing (and that rhythm feels natural while much taste is learned); mathematical abstraction as extracting what different things share; and abstract art's rejection of the picture as a window, which turned attention to materials and made Minimalism and Gutai in a sense the most concrete art. Added five essays. "What Is Abstraction?" covers the words abstract, 抽象 and 捨象, Aristotle and Aquinas, the Locke–Berkeley–Hume dispute, Buddhist apoha, Gongsun Long and Nishida, cognitive science, computing and AI. "Abstraction in Mathematics" runs from al-Khwarizmi, the Nine Chapters and Seki Takakazu through non-Euclidean geometry, Hilbert, Noether, Bourbaki and category theory, with constructivism, the New Math and its Japanese counterpart, and cognitive accounts. "Music and Abstraction" separates three senses of "abstract" and covers absolute music, musique concrète, Cage and Takemitsu, and research on which parts of musical experience are shared and which are learned. "Abstraction in Visual Art" covers the window and the flat surface, Worringer, early abstraction, concrete art, Minimalism, Gutai, Mono-ha, and whether "abstract" fits non-Western traditions. "When the Abstract Becomes Concrete" gathers the reversals, from Hegel and Whitehead to concrete art and concrete music.
