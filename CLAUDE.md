@@ -59,6 +59,15 @@ decisions; this file (CLAUDE.md) covers the mechanical/format rules below.
 **avoid the heavy explanatory ending 〜のです** (write 「変えました」 not 「変えたのです」). Use a
 **single** dash 「—」, never a doubled 「——」.
 
+**Natural Japanese and English (from `style.md`, "Natural Japanese"):** write Japanese as if composed in
+Japanese, not translated — no translationese (「〜することができます」「〜の一つです」「〜において」, English
+word order such as 「いくつかの混同が繰り返し現れます」 → 「よく見られる混同がいくつかあります」), drop
+obvious subjects and 彼/それ, vary sentence endings (no more than two identical endings in a row; occasional
+体言止め), use natural collocations instead of literal idioms, write formal nouns and auxiliary verbs in
+kana (こと・もの・とき・〜という・〜していく), and split long pre-noun modifiers. In English, avoid stock
+announcing frames ("Several X recur", "The pattern suggests") and repeated sentence shapes. Reread every
+paragraph aloud before committing.
+
 ### 0b. Log substantial content changes
 
 After any **large** change to essay content — adding or removing essays, substantial rewrites,

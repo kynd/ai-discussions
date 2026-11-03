@@ -166,17 +166,42 @@ The Japanese version mirrors the English in meaning and tone but reads naturally
 
 ---
 
+## Natural Japanese
+## 自然な日本語
+
+The Japanese text should read as if it had been written in Japanese, not translated from English. The register is plain polite prose (です・ます) for a general reader. Rewrite the sentence rather than mapping English structure word by word. The rules below are listed in Japanese, since they concern Japanese wording.
+
+<!-- -->
+
+日本語の文章は、英語からの翻訳ではなく、はじめから日本語で書かれたように読めるものにします。文体は一般の読者に向けた素直な敬体（です・ます）です。英語の構文を語ごとに置き換えるのではなく、文ごと組み立て直します。具体的には、次のルールに従います。
+
+1. **翻訳調を避ける。** 「〜することができます」「〜の一つです」「〜という点に留意してください」「〜において」「〜に関して」などの冗長な言い回しを避け、動詞を直接使うか、自然な結びにします（「理解することができます」→「理解できます」、「重要な概念の一つです」→「重要な概念です」）。英語の数量や主語をそのまま前に出す構文も組み替えます（「いくつかの混同が繰り返し現れます」→「よく見られる混同がいくつかあります」）。無生物主語の構文（「この研究は〜を示しています」）が続きすぎるときは、「〜からは〜がわかります」のように言い換えます。
+2. **主語と代名詞を省く。** 「私」「彼」「彼ら」「それは」などは、文脈で明らかなかぎり省きます。人名は初出のあとは姓で呼び、「彼」を連発しません。
+3. **文末に変化をつける。** 同じ文末（〜です、〜でした、〜ました）を三回以上続けないようにし、「〜ています」「〜でしょう」「〜とされます」などを織りまぜます。体言止めは要約や列挙でときおり使う程度にとどめます。ただし「〜のです」で変化をつけることはしません。
+4. **語と比喩を日本語に置き換える。** 英語の慣用句や比喩は逐語訳せず、日本語として自然な語の結びつき（コロケーション）に置き換えます（「重要な役割を果たす」を連発しない、「〜の扉を開く」のような直訳的比喩を避ける、など）。
+5. **漢字とかなのバランス。** 形式名詞や補助動詞（こと、もの、とき、ところ、ほう、〜という、〜してみる、〜していく、〜てくる）はひらがなで書きます。「事」「物」「時」「所」「様に」「出来る」「又」などは、実質的な意味で使う場合を除いてかなにします。
+6. **長い連体修飾を分ける。** 名詞の前に長い修飾句を積み重ねず、二つの文に分けるか、「〜で、〜」と後ろに回します。
+7. **読み返す。** 書いたあとで声に出して読み、引っかかる箇所、意味が一度で取れない箇所を書き直します。
+
+English follows the same spirit: write the sentence a careful writer would write, not a template. Avoid stock frames that announce rather than say ("Several confusions recur", "The pattern suggests", "It is worth noting that"), chains of abstract nouns as subjects, and the same sentence shape repeated through a paragraph. Lead with the concrete subject and the claim.
+
+<!-- -->
+
+英語も同じ考え方に従います。型どおりの文ではなく、注意深い書き手が書く文を書きます。中身を言う代わりに予告するだけの決まった枠組み（「よく見られる混同がいくつかある」「このパターンが示唆するのは」「注目に値するのは」）、抽象名詞を主語に連ねる書き方、段落のなかで同じ形の文を繰り返すことを避けます。具体的な主語と主張から書き始めます。
+
+---
+
 ## What we avoid
 ## 避けること
 
 Hype and cliché ("revolutionary", "genius", "changed everything"), unearned superlatives, vague abstraction, heavy hedging, and breaking ideas into bullet points where connected prose would serve the reader better.
+
+<!-- -->
+
+誇張と決まり文句（「革命的」「天才」「すべてを変えた」）、根拠のない最上級、曖昧な抽象、過剰なぼかし、そして、つながった文章のほうが読者に役立つ場面での箇条書きへの分解を避けます。
 
 We are also wary of two habits that creep in easily. The first is **overstatement**: dramatic verbs and flat declarations about complex history ("the camera exposed a redundancy," "abstraction slammed the window shut," "the obituary was a lie"). Where historians would hedge, we hedge — "many painters," "helped push," "said as much about the market as about the work." The second is **decorative phrasing that carries no information**: lines that sound good but leave the reader with nothing concrete ("a surface where we watch ourselves see," "the friction of a made thing"). A metaphor is welcome when it does real work and is named as a metaphor; if a sentence cannot survive the question "what does this actually claim?", we rewrite it plainly.
 
 <!-- -->
 
 私たちはまた、忍び込みやすい二つの癖にも注意します。ひとつは**誇張**です。複雑な歴史についての、芝居がかった動詞や平板な断定（「カメラは冗長さを露わにした」「抽象は窓を完全に閉ざした」「その死亡記事は嘘だった」）を避けます。歴史家が留保をつけるところでは、私たちも留保をつけます—「多くの画家が」「後押しした」「作品についてと同じくらい市場について語っていた」のように。もうひとつは、**情報を運ばない装飾的な言い回し**です。響きはよくても、読者に具体的なものを何も残さない文（「私たちが自らの見ることを見つめる表面」「手で作られた物の摩擦」）を避けます。比喩は、それが実際に働き、比喩として示されているときには歓迎します。「この文は実際に何を主張しているのか」という問いに耐えられない文は、平明に書き直します。
-
-<!-- -->
-
-誇張と決まり文句（「革命的」「天才」「すべてを変えた」）、根拠のない最上級、曖昧な抽象、過剰なぼかし、そして、つながった文章のほうが読者に役立つ場面での箇条書きへの分解を避けます。
