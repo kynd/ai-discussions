@@ -9,24 +9,24 @@ The people we now call philosophers, scientists, engineers, and artists were not
 
 <!-- -->
 
-いま私たちが哲学者・科学者・技術者・芸術家と呼ぶ人々は、いつも別々だったわけではありません。古代ギリシアでは、哲学者が世界を説明し、職人がものをつくり、手仕事の地位は低いものでした。ルネサンスのヨーロッパでは、レオナルド・ダ・ヴィンチのような芸術家＝技術者が、自分の芸術の一部として解剖学・光学・機械を研究しました。いまでは歴史家たちが、職人の実地の知識が科学革命を可能にする助けになったと論じています。十九世紀には職業としての科学者、技術者、研究大学が現れ、一方でロマン主義の芸術家は別の種類の真理を主張しました。二十世紀には科学が国家や戦争と結びついた「ビッグ・サイエンス」となり、C・P・スノーは自然科学と人文学が「二つの文化」になってしまったと警告し、芸術家は技術者と直接協働しはじめました。今日、テクノロジー企業と人工知能が、誰が知識を生み出し、誰が世界を説明する者として信頼されるのかを、ふたたび変えつつあります。
+いま私たちが哲学者・科学者・技術者・芸術家と呼ぶ人々は、昔から別々の存在だったわけではありません。古代ギリシアでは、世界を説明するのは哲学者で、ものをつくるのは職人でした。手仕事の地位は低いものとされていました。ルネサンスのヨーロッパでは、レオナルド・ダ・ヴィンチのような芸術家であり技術者でもある人々が、芸術の一部として解剖学・光学・機械を研究しています。いまでは、職人の実地の知識が科学革命を可能にする一因になった、と歴史家たちが論じています。十九世紀になると、職業としての科学者や技術者、研究大学が現れました。一方でロマン主義の芸術家は、別の種類の真理を掲げます。二十世紀には、科学は国家や戦争と結びついた「ビッグ・サイエンス」になりました。C・P・スノーは、自然科学と人文学が「二つの文化」に分かれてしまったと警告し、芸術家は技術者と直接手を組みはじめます。そして今日、テクノロジー企業と人工知能が、誰が知識を生み出し、誰が世界を説明する者として信頼されるのかを、ふたたび変えつつあります。
 
 ---
 
 ## Driving forces and connections
 ## 推進力とつながり
 
-Roles followed institutions and money. Who paid for knowledge — churches, princes, merchants, states, or companies — shaped what kind of knower was valued. New tools also redrew the lines. The printing press let craftsmen publish; the telescope and microscope made instrument-makers essential; the steam engine and electricity made engineers powerful; photography pushed painters away from recording appearances; and computers blurred the line between making tools and doing research. A recurring pattern is that practical technology often came before the science that explained it, so the old ranking of theory above craft repeatedly turned out to be misleading.
+Roles followed institutions and money. Who paid for knowledge — churches, princes, merchants, states, or companies — shaped what kind of knower was valued. New tools also redrew the lines. The printing press let craftsmen publish; the telescope and microscope made instrument-makers essential; the steam engine and electricity made engineers powerful; photography pushed painters away from recording appearances; and computers blurred the line between making tools and doing research. Practical technology often came before the science that explained it, so the old ranking of theory above craft repeatedly turned out to be misleading.
 
 <!-- -->
 
-役割は、制度とお金のあとに続きました。誰が知識に金を出したのか—教会か、君主か、商人か、国家か、企業か—が、どんな種類の知の担い手が重んじられるかを形づくりました。新しい道具もまた線を引き直しました。印刷機は職人が出版することを可能にし、望遠鏡や顕微鏡は器具職人を欠かせない存在にし、蒸気機関と電気は技術者に力を与え、写真は画家を外見の記録から遠ざけ、コンピュータは道具をつくることと研究することの境目をぼかしました。繰り返し現れる型があります。実用的な技術が、それを説明する科学よりも先に来ることが多く、そのため理論を手仕事より上に置く古い序列は、何度も誤解を招くものだったと分かってきました。
+役割は、制度とお金の流れに沿って決まってきました。教会、君主、商人、国家、企業のうち誰が知識に資金を出したかによって、どんな知の担い手が重んじられるかが変わります。新しい道具も、境界を引き直しました。印刷機のおかげで職人も本を出せるようになり、望遠鏡や顕微鏡によって器具職人は欠かせない存在になりました。蒸気機関と電気は技術者に力を与え、写真は画家を外見の記録という仕事から遠ざけ、コンピュータは道具をつくることと研究することの境目をあいまいにしています。実用的な技術は、それを説明する科学より先に生まれることが多くありました。そのため、理論を手仕事より上に置く古い序列は、何度も実態に合わないことがわかってきました。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://www.cambridge.org/core/product/identifier/9781107049963/type/book">The Printing Press as an Agent of Change</a> — Elizabeth Eisenstein&#x27;s classic study of how print reshaped the Renaissance, the Reformation, and early modern science.<span class="ja">印刷術がルネサンス、宗教改革、初期近代科学をどう変えたかを論じたエリザベス・アイゼンステインの古典的研究。</span></li>
-<li><a href="https://openroadmedia.com/ebook/the-scientific-revolution/9780226398488">The Scientific Revolution (Steven Shapin)</a> — A short, readable history questioning whether a single &#x27;Scientific Revolution&#x27; happened, with an updated bibliographic essay.<span class="ja">単一の「科学革命」があったのかを問い直す、短く読みやすい歴史書（文献案内を増補した新版）。</span></li>
+<li><a href="https://openroadmedia.com/ebook/the-scientific-revolution/9780226398488">The Scientific Revolution (Steven Shapin)</a> — A short, readable history questioning whether a single &#x27;Scientific Revolution&#x27; happened, with an updated bibliographic essay.<span class="ja">「科学革命」というひとつの出来事が本当にあったのかを問い直す、短く読みやすい歴史書（文献案内を増補した新版）。</span></li>
 </ul>
 </aside>
 
@@ -39,7 +39,7 @@ Aristotle separated *episteme*, theoretical knowledge of causes, from *techne*, 
 
 <!-- -->
 
-アリストテレスは、原因についての理論的な知である「エピステーメー」と、ものをつくる技能である「テクネー」を区別し、ギリシアの社会では手仕事は奴隷や下層の人々と結びつけられていました。哲学者が自然を説明し、大工や陶工、船大工がものをつくりました。それでも古代の技術はしばしば見事なものでした。ローマの土木技術や、紀元前二世紀ごろの歯車式の天文計算機であるギリシアのアンティキテラ島の機械がその例です。ローマの建築家ウィトルウィウスのような書き手は、建築家には理論と実践の両方が必要だと論じました。中国では、理想の士大夫は手仕事ではなく経典によって教育されましたが、沈括のような官僚は工学や器具についても書きました。日本では、名工や大工が、尊重されながらも別個の知の伝統を保ち、それは書物ではなく徒弟制度によって受け継がれました。
+アリストテレスは、原因についての理論的な知である「エピステーメー」と、ものをつくる技能である「テクネー」を区別しました。ギリシアの社会では、手仕事は奴隷や下層の人々の仕事とみなされていました。自然を説明するのは哲学者で、ものをつくるのは大工や陶工、船大工です。それでも、古代の技術はしばしば見事なものでした。ローマの土木技術や、紀元前二世紀ごろにつくられた歯車式の天文計算機、ギリシアのアンティキテラ島の機械がその例です。ローマの建築家ウィトルウィウスのように、建築家には理論と実践の両方が必要だと説いた書き手もいます。中国では、理想とされた士大夫は手仕事ではなく経典で教育を受けましたが、沈括のように工学や器具について書いた官僚もいました。日本では、名工や大工が尊重されながらも、独自の知の伝統を保っていました。その知は書物ではなく、徒弟制度を通じて受け継がれてきました。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
@@ -59,13 +59,13 @@ In Renaissance Italy, the line between artist and investigator of nature was thi
 
 <!-- -->
 
-ルネサンスのイタリアでは、芸術家と自然の探究者のあいだの線は薄いものでした。フィリッポ・ブルネレスキは1415年ごろ線遠近法を編み出し、画家に空間を表す幾何学的な方法を与えました。レオナルド・ダ・ヴィンチの[手稿](https://www.gutenberg.org/ebooks/5000)は、絵画と解剖学・光学・飛行・水力学が混ざり合っており、彼にとってそれらは一つの研究の部分でした。アンドレアス・ヴェサリウスの解剖書『人体の構造について』（1543年）は、その図版を熟練した画家たちに頼っていました。1942年、歴史家エトガー・ツィルゼルは、近代科学は、学識ある学者たちが職人の方法を真剣に受け止めはじめたときに生まれた、と論じました。パメラ・スミスの[『職人の身体』](https://www.press.uchicago.edu/ucp/books/book/chicago/B/bo3618964.html)（2004年）はこの見方を発展させ、金属細工師、画家、器具職人が、素材についての実地の知識を担い、新しい実験哲学者たちがそれに頼っていたことを示しました。フランシス・ベーコン自身も、機械的な技術を手本として掲げました。哲学が停滞しているあいだにも、機械的な技術は進歩していると考えたからです。
+ルネサンスのイタリアでは、芸術家と自然の探究者の境目はあいまいでした。フィリッポ・ブルネレスキは1415年ごろに線遠近法を編み出し、空間を幾何学的に表す方法を画家にもたらしました。レオナルド・ダ・ヴィンチの[手稿](https://www.gutenberg.org/ebooks/5000)では、絵画と解剖学・光学・飛行・水力学が入りまじっています。レオナルドにとって、これらはひとつの研究の一部でした。アンドレアス・ヴェサリウスの解剖書『人体の構造について』（1543年）も、図版は熟練した画家たちの手によるものです。1942年、歴史家エトガー・ツィルゼルは、学識ある学者が職人の方法を真剣に受け止めはじめたときに近代科学が生まれた、と論じました。パメラ・スミスの[『職人の身体』](https://www.press.uchicago.edu/ucp/books/book/chicago/B/bo3618964.html)（2004年）は、この見方をさらに発展させています。スミスによれば、金属細工師や画家、器具職人は素材について実地の知識をもち、新しい実験哲学者たちはその知識に頼っていました。フランシス・ベーコン自身も、機械的な技術を手本として掲げています。哲学が足踏みしているあいだにも、機械的な技術は進歩していると考えたからです。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://blogs.cuit.columbia.edu/scisoc/research/research-clusters/making-and-knowing/">Making and Knowing Project</a> — Pamela Smith&#x27;s Columbia project reconstructing recipes from a sixteenth-century artisan&#x27;s manuscript to study craft knowledge.<span class="ja">16世紀の職人の手稿にあるレシピを再現し、技の知を研究するパメラ・スミスのコロンビア大学のプロジェクト。</span></li>
-<li><a href="https://en.wikipedia.org/wiki/Codex_Arundel">Codex Arundel</a> — Background on Leonardo&#x27;s notebook on mechanics and geometry, now digitised by the British Library.<span class="ja">力学と幾何学を扱うレオナルドのノートの解説。大英図書館がデジタル化して公開しています。</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Codex_Arundel">Codex Arundel</a> — Background on Leonardo&#x27;s notebook on mechanics and geometry, now digitised by the British Library.<span class="ja">力学と幾何学を扱うレオナルドのノートの解説。大英図書館がデジタル化しています。</span></li>
 </ul>
 </aside>
 
@@ -78,13 +78,13 @@ The French *Encyclopédie* (1751–72) of Denis Diderot and Jean le Rond d'Alemb
 
 <!-- -->
 
-ドゥニ・ディドロとジャン・ル・ロン・ダランベールによるフランスの『百科全書』（1751〜72年）は、工房の詳細な図版を添えて、機械的な技術や職業に科学と同じ尊厳を与えました。産業革命のあいだ、しばしば実践的な発明家が先に立ち、科学者がそれに続きました。ジェイムズ・ワットは、グラスゴー大学の器具職人だったときに蒸気機関の分離凝縮器を考案しました（1765年、特許は1769年）。彼は化学者ジョゼフ・ブラックと知り合いでしたが、ブラックの潜熱の理論がその着想を与えたという古い話を、歴史家たちは疑っています。そして、蒸気機関を理解しようとする試みこそが、サディ・カルノー（1824年）や後の物理学者たちを熱力学という科学に導きました。工学は、フランスの[エコール・ポリテクニーク](https://en.wikipedia.org/wiki/%C3%89cole_polytechnique)（1794年）のような独自の学校と協会をもつ職業になりました。明治の日本では、工学は近代化の中心に置かれ、1871年に工学寮として設けられ、1873年に東京で開校し、1877年に改称された工部大学校が、外国人教師のもとで日本の技術者を育てました。
+ドゥニ・ディドロとジャン・ル・ロン・ダランベールによるフランスの『百科全書』（1751〜72年）は、工房の詳しい図版を添えて、機械的な技術や職業を科学と同じように重んじました。産業革命の時代には、実践的な発明家が先を行き、科学者があとを追うことがよくありました。ジェイムズ・ワットが蒸気機関の分離凝縮器を考案したのは、グラスゴー大学で器具職人をしていたときです（1765年、特許は1769年）。ワットは化学者ジョゼフ・ブラックと知り合いでした。ただ、ブラックの潜熱の理論から着想を得たという昔からの話には、歴史家たちが疑問を示しています。蒸気機関を理解しようとする試みこそが、サディ・カルノー（1824年）やのちの物理学者たちを熱力学という科学へ導きました。工学は、フランスの[エコール・ポリテクニーク](https://en.wikipedia.org/wiki/%C3%89cole_polytechnique)（1794年）のような専門の学校や、独自の協会をもつ職業になっていきます。明治の日本では、工学は近代化の中心に置かれました。工部大学校は1871年に工学寮として設けられ、1873年に東京で開校し、1877年に改称された学校で、外国人教師のもとで日本の技術者を育てました。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://encyclopedie.uchicago.edu/node/18">The ARTFL Encyclopédie</a> — Searchable digital edition of the first edition of Diderot and d&#x27;Alembert&#x27;s Encyclopédie, including its plates.<span class="ja">ディドロとダランベールの『百科全書』初版を、図版も含めて検索できるデジタル版。</span></li>
-<li><a href="https://engines.egr.uh.edu/episode/678">Watt and Black (Engines of Our Ingenuity)</a> — Short radio essay on whether Joseph Black&#x27;s science really gave James Watt the idea of the separate condenser.<span class="ja">ジョゼフ・ブラックの科学が本当にジェームズ・ワットの分離凝縮器の着想を生んだのかを問う短いラジオ・エッセイ。</span></li>
+<li><a href="https://engines.egr.uh.edu/episode/678">Watt and Black (Engines of Our Ingenuity)</a> — Short radio essay on whether Joseph Black&#x27;s science really gave James Watt the idea of the separate condenser.<span class="ja">ジェームズ・ワットの分離凝縮器の着想は、本当にジョゼフ・ブラックの科学から生まれたのかを問う短いラジオ・エッセイ。</span></li>
 <li><a href="https://www.jacar.go.jp/english/exhibition/glossary_en/term3/0010-0060-0030-0020.html">Imperial College of Engineering (JACAR glossary)</a> — Japan Center for Asian Historical Records entry on the Kōbu Daigakkō and its origins in the Kōgakuryō.<span class="ja">工部大学校と、その前身である工学寮について説明するアジア歴史資料センターの用語解説。</span></li>
 </ul>
 </aside>
@@ -98,12 +98,12 @@ In the nineteenth century the modern scientist appeared: a trained professional,
 
 <!-- -->
 
-十九世紀には近代的な科学者が現れました。訓練を受けた専門職で、たいていは大学か国の機関に属し、専門誌に論文を発表する人々です。ヴィルヘルム・フォン・フンボルトの[ベルリン大学](https://www.hu-berlin.de/en/about/history)（1810年）は教育と独創的な研究を結びつけ、世界の手本になりました。ウィリアム・ヒューウェルは1833年に「サイエンティスト」という言葉をつくりました。同じころ、ロマン主義の作家や芸術家は、科学が真理のすべてを語れるのかを問いました。ヨハン・ヴォルフガング・フォン・ゲーテの[『色彩論』](https://en.wikipedia.org/wiki/Theory_of_Colours)（1810年）はアイザック・ニュートンの光学を攻撃し、人々が実際に経験するとおりの色を研究しました。物理学者は彼の理論を退けましたが、心理学者や画家はそこから多くを見いだしました。ロマン主義の詩人や画家は、想像力は計測が取りこぼす真理に届くと主張しました。1839年に写真が登場すると、画家たちは物の見え方を記録するという古い役割の多くを手放しました。多くの画家は、カメラには示せないもの—知覚、感情、観念—へと向かいました。
+十九世紀には、近代的な科学者が現れます。専門の訓練を受け、たいていは大学か国の機関に属し、専門誌に論文を発表する人々です。ヴィルヘルム・フォン・フンボルトの[ベルリン大学](https://www.hu-berlin.de/en/about/history)（1810年）は教育と独創的な研究を結びつけ、世界の手本になりました。1833年には、ウィリアム・ヒューウェルが「サイエンティスト」という言葉をつくっています。同じころ、ロマン主義の作家や芸術家は、科学に真理のすべてが語れるのかと問いかけました。ヨハン・ヴォルフガング・フォン・ゲーテの[『色彩論』](https://en.wikipedia.org/wiki/Theory_of_Colours)（1810年）は、アイザック・ニュートンの光学を激しく批判し、人が実際に経験するとおりの色を研究したものです。物理学者はこの理論を退けましたが、心理学者や画家はそこから多くを得ました。ロマン主義の詩人や画家は、計測では取りこぼされる真理にも想像力なら届くと主張しています。1839年に写真が登場すると、画家たちは物の見え方を記録するという古い役割の多くを手放しました。多くの画家は、カメラには写せないもの—知覚、感情、観念—へと向かいます。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://www.laurajsnyder.com/2011/01/inventing-the-scientist/">Inventing the Scientist (Laura J. Snyder)</a> — Historian&#x27;s account of the 1833 meeting where William Whewell proposed the word &#x27;scientist&#x27;.<span class="ja">ウィリアム・ヒューエルが「サイエンティスト」という語を提案した1833年の会合を、歴史家が紹介する文章。</span></li>
+<li><a href="https://www.laurajsnyder.com/2011/01/inventing-the-scientist/">Inventing the Scientist (Laura J. Snyder)</a> — Historian&#x27;s account of the 1833 meeting where William Whewell proposed the word &#x27;scientist&#x27;.<span class="ja">ウィリアム・ヒューエルが「サイエンティスト」という語を提案した1833年の会合について、歴史家が書いた文章。</span></li>
 <li><a href="https://www.sciencenews.org/article/book-review-philosophical-breakfast-club-four-remarkable-friends-who-transformed-science-and">The Philosophical Breakfast Club (review)</a> — Science News review of Snyder&#x27;s group biography of Whewell, Babbage, Herschel, and Jones.<span class="ja">ヒューエル、バベッジ、ハーシェル、ジョーンズを描いたスナイダーの群像伝記の『サイエンス・ニュース』書評。</span></li>
 <li><a href="https://gutenberg.org/cache/epub/50572/pg50572-images.html">Goethe&#x27;s Theory of Colours (full text)</a> — Free full text of Charles Lock Eastlake&#x27;s 1840 English translation.<span class="ja">チャールズ・ロック・イーストレイクによる1840年の英訳全文（無料）。</span></li>
 </ul>
@@ -118,14 +118,14 @@ The twentieth century tied science to states. The Manhattan Project built the at
 
 <!-- -->
 
-二十世紀は科学を国家と結びつけました。マンハッタン計画は何千人もの科学者と技術者を組織して原子爆弾をつくり、ヴァネヴァー・ブッシュの報告書[『科学―果てしなきフロンティア』](https://carnegiescience.edu/news/vannevar-bush-and-endless-frontier)（1945年）は、基礎研究こそが未来の技術の源泉であるとして、政府による資金提供を主張しました。科学者は公的な道徳的役割も引き受けました。核兵器に反対するラッセル＝アインシュタイン宣言（1955年）には、日本の物理学者・湯川秀樹を含む十一人の科学者と思想家が署名しました。1959年の講演[「二つの文化」](https://en.wikipedia.org/wiki/The_Two_Cultures)で、科学者で小説家でもあったC・P・スノーは、文学的な知識人と科学者はもはや互いを理解しておらず、それが世界の問題の解決を妨げていると論じました。一方、哲学はより専門化し、細分化しました。多くの哲学者が論理や科学の分析に取り組み、とくにフランスやドイツでは、政治や文化について公共の知識人として書く哲学者もいました。
+二十世紀には、科学が国家と結びつきました。マンハッタン計画は何千人もの科学者と技術者を組織して原子爆弾をつくりました。ヴァネヴァー・ブッシュの報告書[『科学―果てしなきフロンティア』](https://carnegiescience.edu/news/vannevar-bush-and-endless-frontier)（1945年）は、基礎研究こそ未来の技術の源泉だとして、政府が資金を出すよう主張しています。科学者は、社会に対する道徳的な役割も担うようになりました。核兵器に反対するラッセル＝アインシュタイン宣言（1955年）には、日本の物理学者・湯川秀樹を含む十一人の科学者と思想家が署名しています。1959年の講演[「二つの文化」](https://en.wikipedia.org/wiki/The_Two_Cultures)で、科学者で小説家でもあったC・P・スノーは、文学的な知識人と科学者がもはや互いを理解しておらず、それが世界の問題の解決を妨げていると論じました。一方、哲学はより職業化し、専門分化していきます。多くの哲学者は論理や科学の分析に取り組みましたが、とくにフランスやドイツでは、公共の知識人として政治や文化について書く哲学者もいました。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://archive.org/stream/in.ernet.dli.2015.212068/2015.212068.Science-The_djvu.txt">Science, the Endless Frontier (full text)</a> — Full text of Vannevar Bush&#x27;s July 1945 report to the President on postwar research.<span class="ja">戦後の研究体制について大統領に提出された、ヴァネヴァー・ブッシュの1945年7月の報告書全文。</span></li>
 <li><a href="https://digitalcollections.mcmaster.ca/pw20c/case-study/remember-your-humanity-and-forget-rest-russell-einstein-manifesto-and-pugwash">The Russell-Einstein Manifesto and the Pugwash Movement</a> — McMaster University archive case study on the 1955 manifesto and the Pugwash Conferences it inspired.<span class="ja">1955年の宣言と、そこから生まれたパグウォッシュ会議についてのマクマスター大学アーカイブの解説。</span></li>
-<li><a href="https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash">At the heart of the Snow-Leavis &#x27;two cultures&#x27; clash (Aeon)</a> — Essay on what Snow&#x27;s lecture and F. R. Leavis&#x27;s attack were really about.<span class="ja">スノーの講演とF・R・リーヴィスの反撃が本当は何をめぐる争いだったのかを論じるエッセイ。</span></li>
+<li><a href="https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash">At the heart of the Snow-Leavis &#x27;two cultures&#x27; clash (Aeon)</a> — Essay on what Snow&#x27;s lecture and F. R. Leavis&#x27;s attack were really about.<span class="ja">スノーの講演とF・R・リーヴィスの反撃は、実のところ何をめぐる争いだったのかを論じるエッセイ。</span></li>
 </ul>
 </aside>
 
@@ -138,14 +138,14 @@ Artists responded to science and technology throughout the century. Futurists ce
 
 <!-- -->
 
-芸術家は二十世紀を通じて科学と技術に応答しました。未来派は機械と速度を称え、バウハウス（1919〜33年）はデザイナーを芸術と工業生産を結びつけるよう訓練し、一部のキュビスムや抽象の画家は、四次元や新しい物理学についての通俗的な考えを取り入れました。第二次世界大戦の後、芸術家は技術者と直接協働しはじめます。東京では実験工房（1951年）が、音楽、美術、そしてテープレコーダーやスライド投影といった新しい技術を組み合わせました。ニューヨークでは、技術者ビリー・クルーヴァーとロバート・ラウシェンバーグらの芸術家が、1966年にE.A.T.（芸術と技術の実験）を設立しました。それ以来、メディア・アート、コンピュータ・アート、バイオ・アートは、実験室やコードを芸術の素材に変えてきました。一部の芸術家は、自分の役割を、自然を説明することではなく、技術の影響を目に見えるものにし、問いに開くことだと考えています。
+芸術家は二十世紀を通じて、科学と技術に応答してきました。未来派は機械と速度を称えました。バウハウス（1919〜33年）は、芸術と工業生産を結びつけるデザイナーを育てています。キュビスムや抽象の画家のなかには、四次元や新しい物理学をめぐる通俗的な考えを取り入れた人もいました。第二次世界大戦後、芸術家は技術者と直接協働しはじめます。東京では実験工房（1951年）が、音楽と美術に、テープレコーダーやスライド投影といった新しい技術を組み合わせました。ニューヨークでは1966年、技術者ビリー・クルーヴァーと、ロバート・ラウシェンバーグらの芸術家がE.A.T.（芸術と技術の実験）を設立しています。それ以来、メディア・アート、コンピュータ・アート、バイオ・アートは、実験室やコードを芸術の素材に変えてきました。自分の役割は自然を説明することではなく、技術がもたらす影響を目に見えるようにし、問い直せるようにすることだ、と考える芸術家もいます。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://artscape.jp/artscape/reference/artwords/a_j/experiment_workshop.html">実験工房（artscape 現代美術用語辞典）</a> — Japanese art-dictionary entry on the Experimental Workshop, named by Takiguchi Shūzō in 1951.<span class="ja">1951年に瀧口修造が名づけた実験工房についての現代美術用語辞典の項目。</span></li>
 <li><a href="https://www.getty.edu/news/getty-presents-sensing-the-future-experiments-in-art-and-technology">Sensing the Future: E.A.T. (Getty)</a> — Getty&#x27;s 2024-25 exhibition on Experiments in Art and Technology and its artist-engineer collaborations.<span class="ja">E.A.T.（芸術と技術の実験）と、芸術家と技術者の協働を紹介するゲッティの2024〜25年の展覧会。</span></li>
-<li><a href="https://www.penguin.com.au/books/the-fourth-dimension-and-non-euclidean-geometry-in-modern-art-revised-edition-9780262536554">The Fourth Dimension and Non-Euclidean Geometry in Modern Art</a> — Linda Dalrymple Henderson&#x27;s study of how ideas of higher space shaped Cubism, Futurism, Duchamp, and Malevich.<span class="ja">高次元空間の考えがキュビスム、未来派、デュシャン、マレーヴィチをどう形づくったかを論じたリンダ・ダルリンプル・ヘンダーソンの研究書。</span></li>
+<li><a href="https://www.penguin.com.au/books/the-fourth-dimension-and-non-euclidean-geometry-in-modern-art-revised-edition-9780262536554">The Fourth Dimension and Non-Euclidean Geometry in Modern Art</a> — Linda Dalrymple Henderson&#x27;s study of how ideas of higher space shaped Cubism, Futurism, Duchamp, and Malevich.<span class="ja">高次元空間という考えがキュビスム、未来派、デュシャン、マレーヴィチに与えた影響を論じた、リンダ・ダルリンプル・ヘンダーソンの研究書。</span></li>
 </ul>
 </aside>
 
@@ -158,7 +158,7 @@ In the twenty-first century the roles are shifting again. Much research now happ
 
 <!-- -->
 
-二十一世紀に入り、役割はふたたび移り変わっています。いまでは多くの研究が大学ではなくテクノロジー企業で行われ、人工知能をつくる技術者たちは、かつては哲学者の領分だった知能や言語、心について主張を行っています。哲学者の側は、倫理委員会や医療、技術政策の場で働いています。科学者は大衆と直接コミュニケーションをとるよう求められ、ワクチンや気候変動をめぐる論争は、専門家への信頼が証拠だけでなく政治にも左右されることを示してきました。一種類の思想家がすべてを説明できるという古い像は、分業に道を譲りました。この分業では、哲学者がしばしば私たちの概念が何を意味し、何を大切にすべきかを問い、科学者が証拠に照らして主張を試し、技術者がうまく働くものをつくり、芸術家が私たちの見方を変える経験をつくります。実際には、最も重要な問いの多くが、いまやこの四つすべてを必要としています。
+二十一世紀に入り、役割はふたたび移り変わっています。いまでは多くの研究が大学ではなくテクノロジー企業で行われ、人工知能をつくる技術者たちが、かつては哲学者の領分だった知能や言語、心について発言しています。哲学者のほうは、倫理委員会や医療、技術政策の場で働くようになりました。科学者は一般の人々に直接語りかけるよう求められています。ワクチンや気候変動をめぐる論争からは、専門家への信頼が証拠だけでなく政治にも左右されることがわかりました。ひとつの種類の思想家がすべてを説明できるという古い像は、分業に取って代わられました。この分業では、哲学者は概念が何を意味し、何を大切にすべきかを問うことが多く、科学者は証拠に照らして主張を確かめます。技術者はうまく働くものをつくり、芸術家は私たちの見方を変える経験をつくり出します。実際には、いま最も重要な問いの多くが、この四者すべての力を必要としています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>

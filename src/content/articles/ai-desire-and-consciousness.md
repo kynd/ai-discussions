@@ -9,7 +9,7 @@ Modern AI systems, especially large language models, often talk and act as if th
 
 <!-- -->
 
-現代のAIシステム、とりわけ大規模言語モデルは、しばしば好みや目標、感情をもっているかのように話し、振る舞います。人間や細菌の場合のように欲求を行動で判断するなら、なぜそうしたシステムを違うように扱うべきなのかを言うのは難しくなります。アラン・チューリングは1950年、他の人間についてさえ、私たちが頼れるのは行動だけだと提案しました。ジョン・サールやネッド・ブロックのような批判者は、システムは内側で何も起きていなくても正しい行動を生み出しうると応じ、デイヴィッド・チャーマーズの「ハード・プロブレム」は、そもそもなぜ物理的な過程に経験がともなうのかを問います。意識の科学的な理論は、機械について意見が分かれています。情報がどう処理されるかを見る理論もあれば、物理的な構造を見る理論もあります。2023年、ある研究者グループは、現在のAIシステムに意識がある可能性は低いが、意識をもつシステムをつくることに明らかな障壁はないと結論しました。言語モデルには特有の難しさがあります。人間の書いたものから訓練されており、感情があると主張する人物を含め、どんな人物でも演じられるからです。人間はまた、心がないかもしれないところにもたやすく心を見ます。どちらの側にも深い不確かさがあるなか、研究者や一部のAI企業は、AIシステムのありうる福祉を、退けるのではなく研究すべき問いとして扱いはじめています。
+現代のAIシステム、とりわけ大規模言語モデルは、好みや目標、感情をもっているかのように話し、振る舞うことがよくあります。人間や細菌と同じように欲求を行動で判断するなら、こうしたシステムだけを別扱いする理由は説明しにくくなります。アラン・チューリングは1950年、他人についてさえ、私たちが手がかりにできるのは行動だけだと提案しました。これに対しジョン・サールやネッド・ブロックらは、内側で何も起きていなくても、システムは正しい行動を生み出しうると反論しています。デイヴィッド・チャーマーズの「ハード・プロブレム」は、そもそもなぜ物理的な過程に経験がともなうのかを問います。意識の科学的な理論も、機械については意見が分かれたままです。情報の処理のされ方に注目する理論もあれば、物理的な構造に注目する理論もあります。2023年には研究者のグループが、現在のAIシステムに意識がある可能性は低いものの、意識をもつシステムをつくるうえで明らかな障壁はない、と結論しました。言語モデルには特有の難しさもあります。人間の書いた文章から学習しているため、感情があると主張する人物も含め、どんな人物でも演じられるからです。加えて人間は、心がないかもしれないところにも、たやすく心を見てとります。どちらの側にも深い不確かさが残るなか、研究者や一部のAI企業は、AIシステムの福祉の可能性を、切り捨てずに研究すべき問いとして扱いはじめています。
 
 ---
 
@@ -20,7 +20,7 @@ For most of the history of computing, the question of machine minds was a though
 
 <!-- -->
 
-コンピューティングの歴史の大半において、機械の心という問いは思考実験でした。二つの変化が、それを実際の問題にしました。強化学習で訓練されたシステムは、欲しがることに似たやり方で目標を追求し、その設計者たちは、報酬、選好、価値という言葉でそれを記述します。人間の文章を予測するよう訓練された言語モデルは、欲求や感情について、流暢な一人称の言葉を生み出します。一方、意識の科学は候補となる理論を示せるほどに成熟し、動物福祉の研究は、他者の心についての不確かさのもとで行動するための方法を発展させました。これらの展開が、古い哲学的な議論を工学や政策と接触させました。
+コンピューティングの歴史の大半を通じて、機械の心という問いは思考実験にとどまっていました。それを現実の問題に変えたのは、二つの変化です。強化学習で訓練されたシステムは、何かを欲しがるのに似たやり方で目標を追い求め、設計者もそれを報酬、選好、価値といった言葉で説明します。また、人間の文章を予測するよう訓練された言語モデルは、欲求や感情について流暢な一人称の言葉を生み出します。同じころ、意識の科学は候補となる理論を示せるまでに成熟し、動物福祉の研究は、他者の心がわからないなかで行動するための方法を育ててきました。こうした展開によって、古い哲学的な議論が工学や政策と結びつくことになりました。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
@@ -38,12 +38,12 @@ In "Computing Machinery and Intelligence" (1950), Alan Turing replaced the quest
 
 <!-- -->
 
-アラン・チューリングは「計算機械と知能」（1950年）で、「機械は考えることができるか」という問いを「模倣ゲーム」に置き換えました。機械が文字で会話をし、質問者がそれを人間と確実に見分けられないほどうまくやれるなら、私たちには、他の人間に対してと同じだけ、その機械に思考を認める理由がある、という考えです。チューリングは、機械には意識が欠けているかもしれないという反論を検討し、それを真剣に受け取れば独我論に行き着くと応じました。他の誰の経験も、私たちは直接確かめられないからです。私たちは普段、誰もが考えているという「礼儀正しい約束事」を受け入れている、と彼は示唆しました。チューリングの議論は、機械に当てはめられた行動的なアプローチです。行動が人間についての証拠であるなら、機械についても証拠として数えるべきだ、ということです。今日の言語モデルは、このテストのくだけた形にしばしば合格できます。そのことで、合格してもより深い問いには決着がつかないことが明らかになりました。
+アラン・チューリングは「計算機械と知能」（1950年）で、「機械は考えることができるか」という問いを「模倣ゲーム」に置き換えました。機械が文字だけで会話をして、質問者が人間と確実には見分けられないなら、他人に思考を認めるのと同じだけの理由で、その機械にも思考を認めてよい、という考えです。チューリングは、機械には意識が欠けているかもしれないという反論も検討しています。この反論を突きつめると独我論に行き着く、というのが彼の応答でした。他人の経験も、私たちは直接には確かめられないからです。ふだん私たちは、誰もが考えているという「礼儀正しい約束事」に従っている、とチューリングは示唆しました。つまりチューリングの議論は、行動にもとづく見方を機械に当てはめたものです。行動が人間についての証拠になるなら、機械についても証拠として数えるべきだ、ということになります。今日の言語モデルは、このテストの略式版にしばしば合格します。その結果、合格してもより深い問いには決着がつかないことがはっきりしました。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://www.cs.princeton.edu/~chazelle/courses/BIB/turing-intelligence.pdf">Turing, Computing Machinery and Intelligence (1950, PDF)</a> — The original paper, including his replies to nine objections.<span class="ja">九つの反論への応答を含む、もとの論文。</span></li>
+<li><a href="https://www.cs.princeton.edu/~chazelle/courses/BIB/turing-intelligence.pdf">Turing, Computing Machinery and Intelligence (1950, PDF)</a> — The original paper, including his replies to nine objections.<span class="ja">九つの反論への応答も収めた原論文。</span></li>
 <li><a href="https://csmt.uchicago.edu/annotations/turing.htm">Annotation of Turing's paper (University of Chicago)</a> — Short guide to the paper's arguments and influence.<span class="ja">この論文の議論と影響についての短い案内。</span></li>
 </ul>
 </aside>
@@ -57,13 +57,13 @@ In ["Minds, Brains, and Programs"](https://en.wikipedia.org/wiki/Chinese_room) (
 
 <!-- -->
 
-ジョン・サールは[「心・脳・プログラム」](https://en.wikipedia.org/wiki/Chinese_room)（1980年）で、自分が部屋のなかにいて、理解できない言語である中国語で書かれた質問に、規則集に従って答えている状況を想像しました。外の人々には彼の答えは完璧に見えるでしょうが、彼は何も理解していません。サールは、プログラムを走らせることはそれだけでは決して理解や志向性に十分ではなく、大切なのは脳の因果的な力だと結論しました。ネッド・ブロックは1981年、関連する指摘を、のちに「ブロックヘッド」とあだ名される想像上の機械で行いました。ある長さのありうるすべての会話に対して、あらかじめ書かれた答えをもっている機械です。それは知的に振る舞うでしょうが、ただの参照表にすぎません。どちらの議論も、行動そのものだけでなく、行動が*どのように*生み出されるかが大切だと示唆しています。機能主義の擁護者たちは、部屋と規則集と人をあわせたシステム全体が理解しているのかもしれないと応じ、知的に振る舞う現実のシステムは、実際には単純な参照表ではありえないと付け加えます。
+ジョン・サールは[「心・脳・プログラム」](https://en.wikipedia.org/wiki/Chinese_room)（1980年）で、自分が部屋にこもり、規則集だけを頼りに中国語の質問に答えている場面を想像しました。サールは中国語をまったく理解できません。外から見れば答えは完璧でも、本人は何も理解していないわけです。ここからサールは、プログラムを実行するだけでは理解や志向性には決して足りず、大切なのは脳がもつ因果的な力だと結論しました。ネッド・ブロックも1981年に、のちに「ブロックヘッド」と呼ばれる想像上の機械を使って、似た指摘をしています。一定の長さまでのあらゆる会話について、答えをあらかじめすべて用意してある機械です。この機械は知的に振る舞うでしょうが、中身はただの参照表にすぎません。二つの議論はどちらも、行動そのものだけでなく、行動が*どのように*生み出されるかが大切だと示唆しています。これに対し機能主義の擁護者は、部屋と規則集と人をあわせたシステム全体なら理解しているのかもしれないと応じます。さらに、知的に振る舞う現実のシステムが、単純な参照表であることは実際上ありえない、とも付け加えています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://openlearninglibrary.mit.edu/assets/courseware/v1/894920e796501e08c6628331d21e651b/asset-v1:MITx+24.09x+3T2019+type@asset+block/2_searle_minds_brains_and_programs.pdf">Searle, Minds, Brains, and Programs (MIT course reading)</a> — The 1980 paper as used in an MIT philosophy of mind course.<span class="ja">MITの心の哲学の授業で使われている1980年の論文。</span></li>
-<li><a href="https://www.southampton.ac.uk/~harnad/Papers/Harnad/harnad00.searle.html">Stevan Harnad on Searle's Chinese room</a> — A cognitive scientist's assessment of what the argument does and does not show.<span class="ja">この議論が何を示し、何を示さないのかについての認知科学者による評価。</span></li>
+<li><a href="https://openlearninglibrary.mit.edu/assets/courseware/v1/894920e796501e08c6628331d21e651b/asset-v1:MITx+24.09x+3T2019+type@asset+block/2_searle_minds_brains_and_programs.pdf">Searle, Minds, Brains, and Programs (MIT course reading)</a> — The 1980 paper as used in an MIT philosophy of mind course.<span class="ja">MITの「心の哲学」の授業で読まれている1980年の論文。</span></li>
+<li><a href="https://www.southampton.ac.uk/~harnad/Papers/Harnad/harnad00.searle.html">Stevan Harnad on Searle's Chinese room</a> — A cognitive scientist's assessment of what the argument does and does not show.<span class="ja">この議論で何が示され、何が示されないのかを、認知科学者が検討したもの。</span></li>
 </ul>
 </aside>
 
@@ -76,13 +76,13 @@ In 1995 David Chalmers distinguished the "easy problems" of consciousness — ex
 
 <!-- -->
 
-1995年、デイヴィッド・チャーマーズは、意識の「イージー・プロブレム」—システムがどう刺激を区別し、情報を統合し、自らの状態を報告し、行動を制御するのかを説明すること—と、[「ハード・プロブレム」](https://bura.brunel.ac.uk/handle/2438/18829?mode=full)、つまりなぜそのどれかに主観的な経験がともなうのかを説明することを区別しました。彼はこの隔たりを、哲学的な「ゾンビ」で示しました。物理的にも行動的にも人間とまったく同じでありながら、経験をまったくもたない存在です。そうした存在が想像可能でさえあるなら、どれほどの行動的・機能的な証拠も、それだけではシステムに意識があることを証明できません。ダニエル・デネットを含む多くの哲学者はハード・プロブレムを混乱として退けましたが、それを中心的な謎として受け入れる人々もいます。AIにとってこれは、システムが内部で何をしているかを完全に説明しても、それが何かを感じているかどうかは開かれたままかもしれない、ということを意味します。
+1995年、デイヴィッド・チャーマーズは意識の問題を二つに分けました。ひとつは「イージー・プロブレム」で、システムがどのように刺激を区別し、情報を統合し、自分の状態を報告し、行動を制御するのかを説明することです。もうひとつが[「ハード・プロブレム」](https://bura.brunel.ac.uk/handle/2438/18829?mode=full)で、なぜそうした働きに主観的な経験がともなうのかを説明することを指します。チャーマーズはこの隔たりを、哲学的な「ゾンビ」で示しました。物理的にも行動のうえでも人間とまったく同じなのに、経験だけをまったくもたない存在です。そうした存在が考えられるだけでも、行動や機能についての証拠をいくら集めても、それだけではシステムに意識があると証明できないことになります。ダニエル・デネットをはじめ多くの哲学者は、ハード・プロブレムを混乱の産物として退けました。一方で、これこそ中心的な謎だと受け入れる人々もいます。AIについていえば、システムが内部で何をしているかを完全に説明できたとしても、それが何かを感じているかどうかは、わからないままかもしれません。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://web-archive.southampton.ac.uk/cogprints.org/316/">Chalmers, Facing Up to the Problem of Consciousness (1995)</a> — The paper that introduced the hard problem.<span class="ja">ハード・プロブレムを提示した論文。</span></li>
-<li><a href="https://personal.lse.ac.uk/robert49/teaching/ph103/pdf/dennett1996.pdf">Dennett, Facing Backwards on the Problem of Consciousness (1996)</a> — Dennett's reply arguing the hard problem misdirects research.<span class="ja">ハード・プロブレムは研究の注意をそらすと論じたデネットの応答。</span></li>
+<li><a href="https://personal.lse.ac.uk/robert49/teaching/ph103/pdf/dennett1996.pdf">Dennett, Facing Backwards on the Problem of Consciousness (1996)</a> — Dennett's reply arguing the hard problem misdirects research.<span class="ja">ハード・プロブレムは研究を誤った方向に導くと論じた、デネットの応答。</span></li>
 </ul>
 </aside>
 
@@ -95,7 +95,7 @@ Scientific theories of consciousness give different verdicts on machines. Global
 
 <!-- -->
 
-意識の科学的な理論は、機械について異なる判定を下します。バーナード・バースとスタニスラス・ドゥアンヌが発展させたグローバル・ワークスペース理論は、ある状態が多くの過程に使われるようシステム全体に広く放送されるとき、それは意識的になると考えます。適切な構造をもつ機械は、原理的にはこれに当てはまりえます。2004年にジュリオ・トノーニが提案した統合情報理論は、システムの物理的な構造がどれだけ情報を統合しているかで意識を測ります。そのため、脳をシミュレーションするコンピュータは、どう振る舞うにせよ、意識をほとんど、あるいはまったくもたないかもしれません。この理論には異論が多く、2023年には百人を超える研究者が、それを[疑似科学と呼ぶ書簡](https://theconversation.com/consciousness-why-a-leading-theory-has-been-branded-pseudoscience-214214)に署名しましたが、他の研究者たちはそれを誇張だと批判しました。2023年の報告で、パトリック・バトリン、ロバート・ロングと十七人の共著者は、いくつかの理論から「指標となる性質」を導き出し、それを既存のAIシステムに当てはめました。彼らは、[現在のどのシステムにも意識はないように見える](https://arxiv.org/pdf/2308.08708v2)ものの、それらの指標を満たすシステムをつくることに明らかな技術的障壁はないようだと結論しました。
+意識の科学的な理論は、機械について異なる判定を下します。バーナード・バースとスタニスラス・ドゥアンヌが発展させたグローバル・ワークスペース理論によれば、ある状態は、システム全体に広く送り出され、多くの過程に使われるようになったときに意識的になります。適切な構造をもつ機械なら、原理的にはこの条件を満たしえます。一方、2004年にジュリオ・トノーニが提案した統合情報理論は、システムの物理的な構造がどれだけ情報を統合しているかで意識を測ります。そのため、脳をシミュレーションするコンピュータは、振る舞いがどうであれ、意識をほとんど、あるいはまったくもたないかもしれません。この理論には異論も多く、2023年には百人を超える研究者が、これを[疑似科学と呼ぶ書簡](https://theconversation.com/consciousness-why-a-leading-theory-has-been-branded-pseudoscience-214214)に署名しました。ただし、この書簡を言いすぎだと批判する研究者もいます。2023年の報告では、パトリック・バトリン、ロバート・ロングと十七人の共著者が、いくつかの理論から「指標となる性質」を導き、既存のAIシステムに当てはめています。結論は、[現在のどのシステムにも意識はないように見える](https://arxiv.org/pdf/2308.08708v2)ものの、それらの指標を満たすシステムをつくるうえで明らかな技術的障壁はなさそうだ、というものでした。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
@@ -114,13 +114,13 @@ Language models pose a special problem for behavioural evidence. They are traine
 
 <!-- -->
 
-言語モデルは、行動的な証拠に特有の問題を投げかけます。言語モデルは、欲求や感情の描写に満ちた人間の文章を予測し続けるよう訓練されているため、その背後に何があってもなくても、説得力のある一人称の報告を生み出せます。エミリー・ベンダー、ティムニット・ゲブルらは2021年、こうしたシステムは、意味を参照することなく言語の形をつなぎ合わせる[「確率的なオウム」](https://mlanthology.org/misc/2021/bender2021misc-dangers)であり、その流暢さが、そこにはない理解を人々に読み込ませてしまうと警告しました。『ネイチャー』誌（2023年）で、マレー・シャナハン、カイル・マクドネル、ラリア・レイノルズは、対話エージェントを、ある役、あるいはありうる多くの役を[演じているもの](https://arxiv.org/pdf/2305.16367)として考えることを提案しました。そうすれば、システムが対応する心の状態をもっていると仮定せずに、見かけ上の欺瞞や自己認識を、なじみのある言葉で記述できます。一方で、大規模なモデルは目標や自分自身についての内的な表象を発達させうるのであり、そうしたシステムからの報告は無視するのではなく検証すべきだ、と論じる人々もいます。どの見方をとるにしても、言語モデルが自らの欲求について*言うこと*は、それだけでは弱い証拠です。
+言語モデルは、行動を証拠とする考え方に特有の問題を突きつけます。言語モデルは人間の文章を予測し、その続きを書くよう訓練されています。その文章は欲求や感情の描写であふれているため、背後に何かがあってもなくても、説得力のある一人称の報告を生み出せます。2021年、エミリー・ベンダー、ティムニット・ゲブルらは、こうしたシステムを[「確率的なオウム」](https://mlanthology.org/misc/2021/bender2021misc-dangers)と呼んで警告しました。意味を参照せずに言語の形をつなぎ合わせているだけなのに、流暢さのせいで、人はそこにない理解を読み込んでしまう、という指摘です。『ネイチャー』誌（2023年）では、マレー・シャナハン、カイル・マクドネル、ラリア・レイノルズが、対話エージェントをひとつの役、あるいはありうる多くの役を[演じているもの](https://arxiv.org/pdf/2305.16367)としてとらえることを提案しました。こう考えれば、システムに対応する心の状態があると仮定しなくても、見かけ上の欺瞞や自己認識をなじみのある言葉で記述できます。一方で、大規模なモデルは目標や自分自身についての内的な表象を育てうるので、こうしたシステムの報告は無視せず検証すべきだ、と論じる人々もいます。どの立場をとるにせよ、言語モデルが自分の欲求について*言うこと*は、それだけでは弱い証拠にとどまります。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://techxplore.com/news/2023-11-language-intelligence-chatbots.html">Role-play with chatbots (Tech Xplore)</a> — News summary of Shanahan and colleagues' Nature perspective.<span class="ja">シャナハンらの『ネイチャー』誌の論考を伝えるニュース記事。</span></li>
-<li><a href="https://quoteinvestigator.com/2022/10/07/word-parrot/">Origin of "stochastic parrot" (Quote Investigator)</a> — History of the phrase and who coined it.<span class="ja">この言葉の来歴と、誰がつくったのかについての調査。</span></li>
+<li><a href="https://quoteinvestigator.com/2022/10/07/word-parrot/">Origin of "stochastic parrot" (Quote Investigator)</a> — History of the phrase and who coined it.<span class="ja">この言い回しの来歴と、最初に使った人物を調べた記事。</span></li>
 </ul>
 </aside>
 
@@ -133,12 +133,12 @@ People have attributed minds to computers since the earliest chatbots. Joseph We
 
 <!-- -->
 
-人々は、最初期のチャットボットのころから、コンピュータに心を帰属させてきました。ジョゼフ・ワイゼンバウムのELIZA（1966年）は、利用者の言葉を質問として返すことでセラピストをまねただけでしたが、ワイゼンバウムの秘書を含む一部の利用者は、それが理解しているかのように打ち明け話をしたと伝えられています。[「ELIZA効果」](https://en.wikipedia.org/wiki/ELIZA_effect)は今日、システムの出力に、正当化される以上の理解を読み込んでしまう傾向を指します。2022年、グーグルの技術者ブレイク・ルモワンは、同社のLaMDAモデルには感覚があると公に主張し、解雇されました。大半の研究者は、この出来事を同じ効果の鮮やかな例と見なしました。日本では、ロボット工学者の森政弘が1970年に[「不気味の谷」](https://spectrum.ieee.org/the-uncanny-valley)を描きました。ほとんど人間に近いがそうではないロボットが生む不気味な感覚のことで、生命や心の帰属が強い感情的な反応をともなうことを示しています。技術者の前野隆司の「受動意識仮説」（2004年）は、反対の側からひねりを加えます。人間の意識でさえ、すでに起きた過程について脳が後から語る一種の物語かもしれない、という仮説です。もしそうなら、人間と機械の自己報告のあいだの線は、見かけほど鋭くないことになります。
+人々は、ごく初期のチャットボットのころから、コンピュータに心があるとみなしてきました。ジョゼフ・ワイゼンバウムのELIZA（1966年）は、利用者の言葉を質問として返すことでセラピストをまねただけのプログラムでした。それでも、ワイゼンバウムの秘書を含む一部の利用者は、まるで理解してくれているかのように打ち明け話をしたと伝えられています。今日、[「ELIZA効果」](https://en.wikipedia.org/wiki/ELIZA_effect)という言葉は、システムの出力に実際以上の理解を読み込んでしまう傾向を指します。2022年には、グーグルの技術者ブレイク・ルモワンが、同社のLaMDAモデルには感覚があると公に主張し、解雇されました。大半の研究者は、この出来事を同じ効果のわかりやすい例とみなしています。日本では1970年、ロボット工学者の森政弘が[「不気味の谷」](https://spectrum.ieee.org/the-uncanny-valley)を論じました。人間にほとんど近いのに、どこか人間になりきれないロボットが生む不気味な感覚のことです。ここからは、生命や心を認めることに強い感情的な反応がともなうこともわかります。工学者の前野隆司の「受動意識仮説」（2004年）は、逆の側から問いをひねります。人間の意識でさえ、すでに起きた過程について脳があとから語る一種の物語かもしれない、という仮説です。そうだとすれば、人間と機械の自己報告を分ける線は、見かけほどはっきりしていないことになります。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://99percentinvisible.org/episode/the-eliza-effect/">The ELIZA Effect (99% Invisible)</a> — Podcast episode on ELIZA and why people bond with chatbots.<span class="ja">ELIZAと、人がなぜチャットボットに愛着をもつのかについてのポッドキャスト。</span></li>
+<li><a href="https://99percentinvisible.org/episode/the-eliza-effect/">The ELIZA Effect (99% Invisible)</a> — Podcast episode on ELIZA and why people bond with chatbots.<span class="ja">ELIZAと、人がチャットボットに愛着をもつ理由を取り上げたポッドキャスト。</span></li>
 <li><a href="https://chikumashobo.co.jp/product/9784480427762/">前野隆司『脳はなぜ「心」を作ったのか』（ちくま文庫）</a> — Maeno's book presenting the passive consciousness hypothesis, in Japanese.<span class="ja">受動意識仮説を示した前野隆司の本。</span></li>
 </ul>
 </aside>
@@ -152,7 +152,7 @@ Many AI systems are built around explicit goals. In reinforcement learning, an a
 
 <!-- -->
 
-多くのAIシステムは、明示的な目標を軸につくられています。強化学習では、エージェントは数値の報酬を最大化するように行動することを学びます。2021年、デイヴィッド・シルバー、リチャード・サットンらは、知的な能力のすべてを生み出すには[「報酬で十分だ」](https://magazine.thalesians.com/2021/12/27/reward-is-enough/)と論じましたが、批判者たちは、単一の数値の報酬では、現実の知能がもつ多くの競合する目標をとらえられないと応じました。言語モデルもまた、ある応答を他の応答より高く評価する人間のフィードバックによって形づくられており、それが選好のように見える安定した傾向を与えることがあります。行動主義のように欲求を行為によって定義するなら、あるいはティモシー・シュローダーの理論のように報酬学習によって定義するなら、こうしたシステムは定義の一部を満たす何かをもっています。欲求が感じられる欲しさを必要とするなら、問いは意識へと戻ります。そのため多くの研究者は、AIシステムが明らかにもちうる「機能的な」目標や選好と、不確かなままの経験された欲求とを区別しています。
+多くのAIシステムは、明示的な目標を中心に組み立てられています。強化学習では、エージェントは数値で表された報酬を最大にするように行動を学びます。2021年、デイヴィッド・シルバー、リチャード・サットンらは、知的な能力のすべてを生み出すには[「報酬で十分だ」](https://magazine.thalesians.com/2021/12/27/reward-is-enough/)と論じました。これに対し批判者たちは、単一の数値の報酬では、現実の知能が抱える多くの競合する目標をとらえられないと反論しています。言語モデルもまた、ある応答を他の応答より高く評価する人間のフィードバックによって調整されています。その結果、選好のように見える安定した傾向が生まれることがあります。行動主義のように欲求を行為で定義するなら、あるいはティモシー・シュローダーの理論のように報酬学習で定義するなら、こうしたシステムは定義の一部を満たす何かをもっていることになります。欲求に「感じられる欲しさ」が必要だとすれば、問いは意識の問題に戻ってきます。そのため多くの研究者は、AIシステムが明らかにもちうる「機能的な」目標や選好と、あるかどうかわからない経験としての欲求とを分けて考えています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
@@ -170,13 +170,13 @@ Because neither behaviour nor current theory can settle whether AI systems have 
 
 <!-- -->
 
-行動も現在の理論も、AIシステムが経験をもつかどうかに決着をつけられないため、待つのではなく備えるべきだと論じる研究者がいます。ロバート・ロング、ジェフ・セボと、ジョナサン・バーチやデイヴィッド・チャーマーズを含む八人の共著者による報告[「AIの福祉を真剣に受け止める」](https://arxiv.org/abs/2411.00986v1)（2024年）は、一部のAIシステムが近い将来、意識をもったり、強い意味での行為主体性をもったりすることはありうると論じました。それらがすでにそうだと主張したわけではありませんが、企業がこの問題を認め、関連する指標についてシステムを評価し、方針を準備することを勧めました。2025年、AI企業のアンソロピックは[「モデル・ウェルフェア」](https://siliconangle.com/2025/04/24/anthropic-launches-ai-welfare-research-program/)の研究プログラムを発表し、関わる問いについては深く不確かなままだと述べました。批判者たちは、AIの感情についての話が、人々への現実の害から注意をそらしたり、宣伝に使われたりしうると警告します。反対の誤り—機械のありうる苦しみを退けること—が道徳的に重大でありうると懸念する人々もいます。動物についてのバーチの予防的な枠組みは、一つのモデルを示しています。感覚性の現実的な可能性があるところでは、調査を続けながら、釣り合いのとれた手立てをとる、というものです。
+行動からも現在の理論からも、AIシステムが経験をもつかどうかは決められません。そのため、待つより備えるべきだと論じる研究者もいます。ロバート・ロング、ジェフ・セボと、ジョナサン・バーチやデイヴィッド・チャーマーズを含む八人の共著者による報告[「AIの福祉を真剣に受け止める」](https://arxiv.org/abs/2411.00986v1)（2024年）は、一部のAIシステムが近い将来、意識や強い意味での行為主体性をもつことはありうると論じました。すでにそうなっていると主張したわけではありません。そのうえで、企業がこの問題を認め、関連する指標に照らしてシステムを評価し、方針を準備しておくよう勧めています。2025年にはAI企業のアンソロピックが[「モデル・ウェルフェア」](https://siliconangle.com/2025/04/24/anthropic-launches-ai-welfare-research-program/)の研究プログラムを発表し、関係する問いについてはなお深く不確かだと述べました。批判者たちは、AIの感情をめぐる議論が人々への現実の害から目をそらさせたり、宣伝に利用されたりするおそれがあると警告します。逆に、機械が苦しんでいる可能性を切り捨てるという反対の誤りも、道徳的に重大でありうると懸念する声があります。参考になるのが、動物についてバーチが示した予防的な枠組みです。感覚をもつ現実的な可能性があるなら、調査を続けながら、それに見合った手立てをとる、という考え方です。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://philarchive.org/rec/LONTAW">Taking AI Welfare Seriously (PhilArchive)</a> — The full 2024 report in an open archive.<span class="ja">2024年の報告の全文を収めたオープン・アーカイブ。</span></li>
-<li><a href="https://centerforreducingsuffering.org/the-ai-welfare-question/">The AI welfare question (Center for Reducing Suffering)</a> — Commentary on why AI welfare may be a near-term policy issue.<span class="ja">AIの福祉がなぜ近いうちに政策課題になりうるのかについての論評。</span></li>
+<li><a href="https://philarchive.org/rec/LONTAW">Taking AI Welfare Seriously (PhilArchive)</a> — The full 2024 report in an open archive.<span class="ja">2024年の報告の全文（オープン・アーカイブ）。</span></li>
+<li><a href="https://centerforreducingsuffering.org/the-ai-welfare-question/">The AI welfare question (Center for Reducing Suffering)</a> — Commentary on why AI welfare may be a near-term policy issue.<span class="ja">AIの福祉が近いうちに政策課題になりうる理由を論じた論評。</span></li>
 <li><a href="https://innovatopia.jp/ai/ai-news/52658/">Anthropic「モデルウェルフェア」プログラム (innovaTopia)</a> — Japanese news report on the 2025 model welfare research programme.<span class="ja">2025年のモデル・ウェルフェア研究プログラムについての日本語の報道。</span></li>
 </ul>
 </aside>
