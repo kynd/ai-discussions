@@ -9,7 +9,7 @@ Where does mind begin? A bacterium swims toward sugar and away from poison, adju
 
 <!-- -->
 
-心はどこから始まるのでしょうか。細菌は糖に向かって泳ぎ、毒から遠ざかり、刻々と進路を調整します。そのため生物学者は自然に、細菌はある化学物質を「好む」と言います。大半の科学者は、細菌が何かを感じているとは考えていません。「基礎的認知（ベーサル・コグニション）」の研究者たちは、記憶、学習、意思決定といった能力は、単純な形ですべての生き物に存在すると論じ、オートポイエーシスの理論は、生きていることと認知していることは深く結びついていると考えました。植物は周囲に繊細なやり方で反応しますが、植物が経験のようなものをもつかどうかには激しい論争があります。動物については、科学的な見解が変わってきました。2012年と2024年の宣言は、哺乳類と鳥類には意識的な経験があるという証拠が強く、昆虫を含む他の多くの動物でもそれは現実的な可能性だと述べました。経験についての合意された検査がないため、ジョナサン・バーチのような哲学者は予防的な態度を主張します。生き物をめぐるこれらの議論が、機械をめぐるより新しい議論の枠組みを定めています。
+心はどこから始まるのでしょうか。細菌は糖のほうへ泳ぎ、毒からは遠ざかり、刻々と進路を変えます。そのため生物学者は、細菌がある化学物質を「好む」と、ごく自然に言います。それでも、細菌が何かを感じていると考える科学者はほとんどいません。「基礎的認知（ベーサル・コグニション）」の研究者たちは、記憶や学習、意思決定といった能力が、単純な形ですべての生き物に備わっていると論じています。オートポイエーシスの理論も、生きていることと認知していることは深く結びついていると考えました。植物は周囲の変化に細やかに反応しますが、経験のようなものをもつかどうかについては激しい論争があります。動物については、科学者の見方が変わってきました。2012年と2024年の宣言によれば、哺乳類と鳥類に意識的な経験があることを示す証拠は強く、昆虫を含むほかの多くの動物でも、その可能性は現実的に考えられるといいます。経験の有無を確かめる合意された方法がないため、ジョナサン・バーチらの哲学者は、予防的な態度をとるべきだと主張しています。生き物をめぐるこうした議論が、機械をめぐる新しい議論の前提をつくっています。
 
 ---
 
@@ -20,12 +20,12 @@ Three developments brought these questions to the fore. Molecular biology reveal
 
 <!-- -->
 
-三つの展開が、これらの問いを前面に押し出しました。分子生物学は、単一の細胞の内部でどれほどの情報処理が行われているかを明らかにしました。とりわけ家畜や動物実験についての動物福祉の法と倫理は、どの動物が苦しみうるのかを判断する何らかの方法を必要としました。そして人間の意識の研究は、少なくとも原理的には他の生き物にも当てはめられる理論を生み出しました。どの分野も同じ困難に直面しています。行動は測れますが、それに経験がともなうかどうかは直接観察できないため、どの答えも、どの意識の理論を受け入れるかに左右されます。
+これらの問いが注目されるようになった背景には、三つの流れがあります。分子生物学は、一つの細胞のなかでどれほど多くの情報処理が行われているかを明らかにしました。動物福祉の法や倫理、とくに家畜や動物実験をめぐる議論では、どの動物が苦しみうるのかを判断する手がかりが必要になりました。そして人間の意識の研究からは、少なくとも原理的にはほかの生き物にも当てはめられる理論が生まれています。どの分野も同じ難しさを抱えています。行動は測れても、そこに経験がともなっているかどうかは直接観察できません。そのため、どんな答えも、どの意識の理論を受け入れるかによって変わってきます。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11802611/">On the prospects of basal cognition research (PMC)</a> — Review of where basal cognition research stands and its cautions.<span class="ja">基礎的認知の研究の現状と、その留保についての総説。</span></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11802611/">On the prospects of basal cognition research (PMC)</a> — Review of where basal cognition research stands and its cautions.<span class="ja">基礎的認知の研究がいまどこまで進んでいるかと、その注意点をまとめた総説。</span></li>
 </ul>
 </aside>
 
@@ -38,13 +38,13 @@ The bacterium *E. coli* moves by alternating "runs", when its flagella turn toge
 
 <!-- -->
 
-大腸菌は、鞭毛がそろって回転して一秒ほど前に進む「ラン」と、ランダムな新しい方向へ向きを変える短い「タンブル」を交互に繰り返して動きます。細胞は自分の体の長さのあいだの濃度の違いを感じとるには小さすぎるため、[時間をおいて濃度を比べます](https://arxiv.org/pdf/0804.2352)。感じとっている化学物質がこの一秒ほどで増えていれば、タンブルの回数を減らして進み続けます。細胞内のゆっくりした化学的な過程が、数秒から数十秒続く記憶の役目を果たします。その結果は偏ったランダム・ウォークになり、細胞を栄養のほうへ運びます。研究者たちはこれを感知、比較、記憶という言葉で記述し、細胞がある刺激が自分にとってよいか悪いかを評価している、と言う人もいます。この仕組みのどこにも経験は必要とされません。そのため大半の生物学者は、ここでの「好む」を、行動のパターンを短く言い表したものとして扱っています。
+大腸菌は、「ラン」と「タンブル」を交互に繰り返して動きます。ランでは鞭毛がそろって回転し、一秒ほど前へ進みます。タンブルは短い方向転換で、ランダムな新しい向きに変わります。細胞は小さすぎて、自分の体の端と端の濃度の差を感じとれません。そこで[時間をおいて濃度を比べます](https://arxiv.org/pdf/0804.2352)。感じとっている化学物質がこの一秒ほどで増えていれば、タンブルを減らしてそのまま進みます。細胞内のゆっくりした化学反応が、数秒から数十秒もつ記憶の役目をしています。その結果、偏りのあるランダム・ウォークが生まれ、細胞は栄養のあるほうへ運ばれていきます。研究者はこれを感知、比較、記憶という言葉で説明し、刺激が自分にとってよいか悪いかを細胞が評価している、と言う人もいます。ただ、この仕組みのどこにも経験は必要ありません。そのため大半の生物学者は、ここでの「好む」を、行動のパターンを手短に言い表した言葉として扱っています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320702">Bacterial chemotaxis review (PMC)</a> — Scientific review of how bacteria sense and follow chemical gradients.<span class="ja">細菌が化学物質の勾配をどう感知し、たどるかについての科学的な総説。</span></li>
-<li><a href="https://arxiv.org/html/2504.15385v1">Bacterial chemotaxis considering memory effects (arXiv)</a> — Recent model of the role of memory in bacterial navigation.<span class="ja">細菌の移動における記憶の役割についての最近のモデル。</span></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320702">Bacterial chemotaxis review (PMC)</a> — Scientific review of how bacteria sense and follow chemical gradients.<span class="ja">細菌が化学物質の濃度勾配をどう感知し、たどっていくかについての総説。</span></li>
+<li><a href="https://arxiv.org/html/2504.15385v1">Bacterial chemotaxis considering memory effects (arXiv)</a> — Recent model of the role of memory in bacterial navigation.<span class="ja">細菌が移動するときに記憶がどう働くかを扱った最近のモデル。</span></li>
 </ul>
 </aside>
 
@@ -57,12 +57,12 @@ The Chilean biologists Humberto Maturana and Francisco Varela proposed in the ea
 
 <!-- -->
 
-チリの生物学者ウンベルト・マトゥラーナとフランシスコ・ヴァレラは、1970年代前半、生き物は[オートポイエーシス](https://apice.unibo.it/xwiki/bin/view/Publication/AutopoiesisBiosystems5)—「自己制作」—のシステムだと提案しました。自らを維持する構成要素を絶えず生み出し続け、それによって周囲から自らを区別し続ける過程の網の目です。マトゥラーナはさらに進んで、生きることはそれ自体が認知の過程だと論じました。生き続けるために、生き物は自らの存続にとって大切なものに選択的に反応しなければならないからです。ヴァレラは、エヴァン・トンプソン、エレノア・ロッシュとともに、これを『身体化された心』（1991年）で「エナクティヴィズム」へと発展させました。心を、脳の内部に隠されたものではなく、生き物がその身体と環境を通じて行うこととして扱う立場です。この見方に立てば、細菌も最小限の視点をもっています。人間的な意味での感情はもたないとしても、物事は*細菌にとって*よかったり悪かったりしうるからです。
+チリの生物学者ウンベルト・マトゥラーナとフランシスコ・ヴァレラは、1970年代前半、生き物は[オートポイエーシス](https://apice.unibo.it/xwiki/bin/view/Publication/AutopoiesisBiosystems5)—「自己制作」—のシステムだと提案しました。自分を維持する構成要素を絶えずつくり出し、それによって周囲と区別された存在であり続ける、過程の網の目のことです。マトゥラーナはさらに踏み込み、生きることそのものが認知の過程だと論じました。生き続けるには、自分の存続にとって大切なものを選んで反応しなければならないからです。ヴァレラはエヴァン・トンプソン、エレノア・ロッシュとともに、この考えを『身体化された心』（1991年）で「エナクティヴィズム」へと発展させています。心を、脳の内部に隠れたものではなく、生き物が身体と環境を通じて行うこととしてとらえる立場です。この見方に立てば、細菌にも最小限の視点があることになります。人間のような感情はもたないとしても、ものごとは*細菌にとって*よかったり悪かったりするからです。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://evanthompson.me/wp-content/uploads/2012/11/pcs-life-and-mind.pdf">Evan Thompson, Life and mind (PDF)</a> — Thompson's account of Varela's linking of life and cognition.<span class="ja">生命と認知を結びつけたヴァレラの考えについてのトンプソンの論考。</span></li>
+<li><a href="https://evanthompson.me/wp-content/uploads/2012/11/pcs-life-and-mind.pdf">Evan Thompson, Life and mind (PDF)</a> — Thompson's account of Varela's linking of life and cognition.<span class="ja">生命と認知を結びつけたヴァレラの考えを、トンプソンが論じた文章。</span></li>
 </ul>
 </aside>
 
@@ -75,12 +75,12 @@ In 2021 Pamela Lyon, Fred Keijzer, Detlev Arendt, and Michael Levin introduced a
 
 <!-- -->
 
-2021年、パメラ・ライオン、フレッド・カイザー、デトレフ・アーレント、マイケル・レヴィンは、『王立協会哲学紀要B』の二部構成の特集で[「基礎的認知」](https://pmc.ncbi.nlm.nih.gov/articles/PMC7935032)を紹介しました。彼らは、認知科学は生物学の他の分野と同じように、最も単純な事例から出発して自らの対象を研究すべきだと論じました。知覚、記憶、学習、予期、価値（生き物にとってよいか悪いか）、意思決定といった能力は、細菌、単細胞生物、植物、そして多細胞の体の細胞にも見られ、神経系はそれを受け継ぎ、精緻にした、という主張です。レヴィンの研究室は、発生や再生のあいだに細胞の集団が目標となる体の形をどう「記憶」しているかを研究してきました。批判者たちは、こうした過程を「認知」と呼ぶことはこの言葉を引き伸ばし、意味を失わせてしまうと懸念し、支持者たちは、この言葉はもともと程度をもつものだったと応じます。どちらの側も、これらのシステムに意識があるとは主張していません。
+2021年、パメラ・ライオン、フレッド・カイザー、デトレフ・アーレント、マイケル・レヴィンは、『王立協会哲学紀要B』の二部構成の特集で[「基礎的認知」](https://pmc.ncbi.nlm.nih.gov/articles/PMC7935032)を紹介しました。生物学のほかの分野と同じように、認知科学も最も単純な事例から出発して研究すべきだ、というのが四人の主張です。知覚、記憶、学習、予期、価値（生き物にとってよいか悪いか）、意思決定といった能力は、細菌や単細胞生物、植物、さらに多細胞生物の体をつくる細胞にも見られます。神経系はそれを受け継ぎ、より複雑にしてきた、と四人は論じました。レヴィンの研究室は、発生や再生の過程で、細胞の集団が目標とする体の形をどう「記憶」しているかを調べてきました。こうした過程を「認知」と呼べば、言葉の意味が薄まって何も指さなくなる、と懸念する批判者もいます。支持者は、この言葉はもともと程度の差を含むものだったと応じています。どちらの側も、これらのシステムに意識があるとは主張していません。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://protevi.com/PhilMind/Lyon.pdf">Pamela Lyon on the cognitive cell (PDF)</a> — Lyon's argument that bacteria show the basic toolkit of cognition.<span class="ja">細菌が認知の基本的な道具立てを示しているというライオンの議論。</span></li>
+<li><a href="https://protevi.com/PhilMind/Lyon.pdf">Pamela Lyon on the cognitive cell (PDF)</a> — Lyon's argument that bacteria show the basic toolkit of cognition.<span class="ja">細菌にも認知の基本的な道具立てがそろっている、というライオンの議論。</span></li>
 </ul>
 </aside>
 
@@ -93,12 +93,12 @@ Plants sense light, gravity, touch, chemicals, and damage, signal between their 
 
 <!-- -->
 
-植物は光、重力、接触、化学物質、損傷を感知し、体の部分のあいだで信号をやりとりし、それに応じて成長のしかたを変えます。2000年代から、ステファノ・マンクーゾやモニカ・ガリアーノらの「植物神経生物学」の研究者たちは、こうした能力は植物の知性にあたると論じ、植物はある種の気づきをもっているかもしれないと示唆する人もいました。2019年、リンカーン・テイズと七人の共同研究者は『トレンズ・イン・プラント・サイエンス』誌で、[「植物は意識をもたないし、必要ともしない」](https://sciencenews.org/article/plants-dont-have-feelings-and-arent-conscious-biologist-argues)と応じました。植物にはニューロンも脳もなく、植物の電気信号は経験の証拠ではなく、意識は植物に進化上の利点を与えない、という主張です。ガリアーノは、意識を脳に結びつけること自体が偏りかもしれないと答えました。この対立は、問いがどれほど定義に左右されるかを示しています。植物が情報を処理し、それに基づいて行動していることは明らかであり、それが「知性」や「心」という言葉に値するかどうかは、部分的には、その言葉をどう使うかという選択の問題です。
+植物は光、重力、接触、化学物質、損傷を感知し、体の部分どうしで信号をやりとりして、それに応じて育ち方を変えます。2000年代からは、ステファノ・マンクーゾやモニカ・ガリアーノら「植物神経生物学」の研究者たちが、こうした能力は植物の知性と呼べると論じてきました。植物はある種の気づきをもっているかもしれない、と示唆する人もいます。これに対し2019年、リンカーン・テイズと七人の共同研究者は『トレンズ・イン・プラント・サイエンス』誌で、[「植物は意識をもたないし、必要ともしない」](https://sciencenews.org/article/plants-dont-have-feelings-and-arent-conscious-biologist-argues)と反論しました。植物にはニューロンも脳もない。植物の電気信号は経験の証拠にならない。意識があっても植物には進化上の利点がない、という主張です。ガリアーノは、意識を脳と結びつけること自体が偏見かもしれないと答えました。この対立からは、問いの答えがどれほど定義に左右されるかがわかります。植物が情報を処理し、それをもとに行動していることは明らかです。それを「知性」や「心」と呼ぶかどうかは、ある程度まで、言葉をどう使うかの選択にかかっています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://news.mongabay.com/2019/07/are-plants-conscious-the-debate-rages-on/">Are plants conscious? The debate rages on (Mongabay)</a> — Balanced report on both sides of the plant consciousness debate.<span class="ja">植物の意識をめぐる論争の双方を伝える、均衡のとれた記事。</span></li>
+<li><a href="https://news.mongabay.com/2019/07/are-plants-conscious-the-debate-rages-on/">Are plants conscious? The debate rages on (Mongabay)</a> — Balanced report on both sides of the plant consciousness debate.<span class="ja">植物の意識をめぐる論争を、両方の立場から公平に伝える記事。</span></li>
 <li><a href="https://www.technologynetworks.com/neuroscience/news/the-case-against-plant-consciousness-321432">The case against plant consciousness (Technology Networks)</a> — Summary of Taiz and colleagues' arguments.<span class="ja">テイズらの議論の要約。</span></li>
 </ul>
 </aside>
@@ -112,12 +112,12 @@ In 2012 a group of neuroscientists signed the Cambridge Declaration on Conscious
 
 <!-- -->
 
-2012年、神経科学者のグループが「意識に関するケンブリッジ宣言」に署名し、すべての哺乳類と鳥類、そしてタコなど一部の他の動物を含む多くの動物が、意識状態のための神経的な基盤をもっていると述べました。ジョナサン・バーチ、クリスティン・アンドルーズ、ジェフ・セボが呼びかけた[「動物の意識に関するニューヨーク宣言」](https://www.kimmela.org/2024/05/05/a-new-declaration-on-animal-consciousness/)（2024年）はさらに進み、哺乳類と鳥類における意識的な経験の証拠を「強い」と呼び、すべての脊椎動物と、昆虫・甲殻類・頭足類を含む多くの無脊椎動物にも、少なくとも現実的な可能性があると述べました。どんな検査もこの問いに決着をつけられないため、バーチの本[『The Edge of Sentience』](https://academic.oup.com/book/61386/chapter/533189849)（2024年）は予防的な枠組みを提案します。ある存在が痛みや快を感じうる現実的な可能性があるなら、それに害を与えないよう、釣り合いのとれた手立てをとるべきだ、という枠組みです。バーチは同じ推論を、慎重に、AIにも当てはめています。
+2012年、神経科学者のグループが「意識に関するケンブリッジ宣言」に署名しました。すべての哺乳類と鳥類、さらにタコなど一部の動物を含む多くの動物が、意識状態を支える神経の基盤をもっている、という内容です。ジョナサン・バーチ、クリスティン・アンドルーズ、ジェフ・セボが呼びかけた[「動物の意識に関するニューヨーク宣言」](https://www.kimmela.org/2024/05/05/a-new-declaration-on-animal-consciousness/)（2024年）は、さらに踏み込んでいます。哺乳類と鳥類に意識的な経験があることを示す証拠は「強い」とし、すべての脊椎動物と、昆虫・甲殻類・頭足類を含む多くの無脊椎動物にも、少なくとも現実的な可能性があると述べました。どんな検査でもこの問いには決着がつかないため、バーチは著書[『The Edge of Sentience』](https://academic.oup.com/book/61386/chapter/533189849)（2024年）で予防的な枠組みを提案しています。痛みや快を感じうる現実的な可能性がある存在には、害を与えないよう、その可能性に見合った手立てをとるべきだ、という考え方です。バーチは同じ考え方を、慎重にですが、AIにも当てはめています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Jonathan_Birch_(philosopher)">Jonathan Birch (Wikipedia)</a> — Overview of Birch's work on sentience and animal welfare policy.<span class="ja">感覚性と動物福祉政策についてのバーチの仕事の概要。</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Jonathan_Birch_(philosopher)">Jonathan Birch (Wikipedia)</a> — Overview of Birch's work on sentience and animal welfare policy.<span class="ja">感覚性と動物福祉政策をめぐるバーチの仕事の概要。</span></li>
 </ul>
 </aside>
 
@@ -130,11 +130,11 @@ In "What Is It Like to Be a Bat?" (1974), the philosopher Thomas Nagel defined c
 
 <!-- -->
 
-哲学者トマス・ネーゲルは「コウモリであるとはどのようなことか」（1974年）で、意識を、ある生き物であることがその生き物自身の視点から「どのようなことか」がある、ということとして定義し、客観的な科学はそれを決してとらえられないかもしれないと論じました。この定義は、答えはしないものの、細菌や植物についての問いをはっきりさせます。細菌がすることはすべて記述できても、細菌であることがどのようなことかがあるのかどうかは、わからないままです。経験は程度をもち、生命のなかに広く行き渡っていると考える研究者もいれば、ある種のやり方で情報を統合する神経系のような特定の構造を必要とし、一部の動物にしか現れないと考える研究者もいます。少数派である汎心論者は、ある形の経験はあらゆる物質に存在すると考えます。どの見方をとるかが線の位置を決め、問題のシステムが機械であるときにも、同じ選択がふたたび現れます。
+哲学者トマス・ネーゲルは「コウモリであるとはどのようなことか」（1974年）で、意識を次のように定義しました。ある生き物であることが、その生き物自身の視点から見て「どのようなことか」がある、ということです。ネーゲルは、客観的な科学はこれを決してとらえられないかもしれないとも論じています。この定義は、細菌や植物をめぐる問いに答えを出すわけではありませんが、問いの中身をはっきりさせます。細菌がすることはすべて記述できても、細菌であることが何らかの「どのようなことか」をもつのかどうかは、わからないままです。経験には程度があり、生命のなかに広く行き渡っていると考える研究者もいます。一方で、情報を特定のやり方で統合する神経系のような構造が必要で、経験は一部の動物にしか現れないと考える研究者もいます。少数派の汎心論者は、何らかの形の経験があらゆる物質にあるとしています。どの見方をとるかで線を引く位置が決まり、問われているシステムが機械の場合にも、同じ選択がふたたび求められます。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://plato.stanford.edu/archives/sum2013/entries/other-minds/">Other Minds (Stanford Encyclopedia of Philosophy)</a> — How we can know, or conceive of, minds other than our own.<span class="ja">自分以外の心をどう知り、どう思い描けるのかについての項目。</span></li>
+<li><a href="https://plato.stanford.edu/archives/sum2013/entries/other-minds/">Other Minds (Stanford Encyclopedia of Philosophy)</a> — How we can know, or conceive of, minds other than our own.<span class="ja">自分以外の心をどうすれば知り、思い描けるのかを扱った項目。</span></li>
 </ul>
 </aside>

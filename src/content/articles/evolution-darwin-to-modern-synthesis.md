@@ -9,7 +9,7 @@ Charles Darwin and Alfred Russel Wallace proposed in 1858 that species change th
 
 <!-- -->
 
-チャールズ・ダーウィンとアルフレッド・ラッセル・ウォレスは1858年、種は自然選択によって変化すると提唱しました。ダーウィンの『種の起源』（1859年）は、数十年のうちに大半の博物学者に、進化が起きたことを納得させました。しかし、自然選択そのものはなかなか受け入れられませんでした。ダーウィンには使える遺伝の理論がなく、1880年代から1920年代にかけて、多くの生物学者は別の仕組みを好みました。獲得形質の遺伝、生物に内在する方向性、あるいは大きな突然変異です。この対立は1918年ごろから1950年ごろにかけて解消しました。数学者と博物学者が、メンデルの遺伝学とダーウィンの選択が両立することを示したからです。その統合理論である「総合説（モダン・シンセシス）」が、二十世紀の生物学の枠組みになりました。
+チャールズ・ダーウィンとアルフレッド・ラッセル・ウォレスは1858年、種は自然選択によって変化すると提唱しました。ダーウィンの『種の起源』（1859年）が出ると、数十年のうちに大半の博物学者が、進化は実際に起きたと考えるようになります。ただ、自然選択という仕組みのほうは、なかなか受け入れられませんでした。ダーウィンには使える遺伝の理論がなく、1880年代から1920年代にかけて、多くの生物学者はほかの仕組みを支持していました。獲得形質の遺伝、生物に内在する方向性、あるいは大きな突然変異です。この対立が解けたのは、1918年ごろから1950年ごろにかけてのことでした。数学者と博物学者が、メンデルの遺伝学とダーウィンの選択は両立することを示したからです。両者を統合した理論、「総合説（モダン・シンセシス）」は、二十世紀の生物学の枠組みになりました。
 
 ---
 
@@ -20,13 +20,13 @@ Three things pushed the theory forward. The first was evidence: fossils, the geo
 
 <!-- -->
 
-理論を前に進めた力は三つありました。一つ目は証拠です。化石、種の地理的な分布、家畜の品種改良は、どれも説明を必要としていました。二つ目は、他の分野から借りた考えです。チャールズ・ライエルの地質学が示した長大な時間と、人口は食料よりも速く増えるという経済学者トマス・マルサスの議論です。三つ目は遺伝でした。「ダーウィニズムの日食」から総合説まで、この物語の大きな転換はどれも、遺伝の理解が変わったことから生まれました。
+理論を前に進めた力は三つありました。一つ目は証拠です。化石、種の地理的な分布、家畜の品種改良は、どれも説明を求めていました。二つ目は、ほかの分野から借りた考えです。チャールズ・ライエルの地質学が示した長大な時間や、人口は食料より速く増えるという経済学者トマス・マルサスの議論がそれにあたります。三つ目は遺伝でした。「ダーウィニズムの日食」から総合説まで、この物語の大きな転換は、どれも遺伝についての理解が変わったことから生まれています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://plato.stanford.edu/entries/origin-descent/">Darwin: From Origin of Species to Descent of Man (SEP)</a> — Stanford Encyclopedia survey of how Darwin&#x27;s theory developed from the 1830s to 1871.<span class="ja">1830年代から1871年までのダーウィン理論の形成をたどる、スタンフォード哲学百科事典の項目。</span></li>
-<li><a href="https://gutenberg.org/ebooks/4239">An Essay on the Principle of Population (Project Gutenberg)</a> — Free text of Malthus&#x27;s 1798 essay, the population argument that shaped Darwin&#x27;s thinking.<span class="ja">ダーウィンの発想に影響したマルサス『人口論』（1798年初版）の無料テキスト。</span></li>
+<li><a href="https://gutenberg.org/ebooks/4239">An Essay on the Principle of Population (Project Gutenberg)</a> — Free text of Malthus&#x27;s 1798 essay, the population argument that shaped Darwin&#x27;s thinking.<span class="ja">ダーウィンの発想に影響を与えたマルサス『人口論』（1798年初版）の無料テキスト。</span></li>
 <li><a href="https://gutenberg.org/ebooks/33224">Principles of Geology (Project Gutenberg)</a> — Free text of Lyell&#x27;s Principles of Geology (1830–33), the source of Darwin&#x27;s sense of deep time.<span class="ja">ダーウィンに長大な地質学的時間を教えたライエル『地質学原理』（1830〜33年）の無料テキスト。</span></li>
 </ul>
 </aside>
@@ -40,14 +40,14 @@ The idea that species change was not new in 1859. Jean-Baptiste Lamarck argued i
 
 <!-- -->
 
-種が変化するという考えは、1859年の時点で新しいものではありませんでした。ジャン＝バティスト・ラマルクは『動物哲学』（1809年）で、生物は器官を使うか使わないかによって変化し、その変化を子に伝えると論じました。ロバート・チェンバーズが匿名で出した『創造の自然史の痕跡』（1844年）は広く売れ、生命の発展の歴史を描いて読者に衝撃を与えました。これらの説明に欠けていたのは、博物学者が検証できる、説得力のある仕組みでした。
+種が変化するという考え自体は、1859年の時点で新しいものではありませんでした。ジャン＝バティスト・ラマルクは『動物哲学』（1809年）で、生物は器官を使うか使わないかによって変化し、その変化を子に伝えると論じています。ロバート・チェンバーズが匿名で出した『創造の自然史の痕跡』（1844年）は、生命が発展してきた歴史を描いてよく売れ、読者に衝撃を与えました。こうした説明に欠けていたのは、博物学者が検証できる、説得力のある仕組みでした。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://plato.stanford.edu/entries/evolution-before-darwin/">Evolutionary Thought Before Darwin (SEP)</a> — Stanford Encyclopedia entry on ideas of species change from antiquity to the eve of the Origin.<span class="ja">古代から『種の起源』直前までの種の変化をめぐる思想を扱う、スタンフォード哲学百科事典の項目。</span></li>
+<li><a href="https://plato.stanford.edu/entries/evolution-before-darwin/">Evolutionary Thought Before Darwin (SEP)</a> — Stanford Encyclopedia entry on ideas of species change from antiquity to the eve of the Origin.<span class="ja">種の変化をめぐる、古代から『種の起源』直前までの思想を扱う、スタンフォード哲学百科事典の項目。</span></li>
 <li><a href="https://web.viu.ca/johnstoi/lamarck/tofc.htm">Lamarck, Zoological Philosophy (Ian Johnston translation)</a> — Free modern English translation of Lamarck&#x27;s Philosophie zoologique (1809).<span class="ja">ラマルク『動物哲学』（1809年）の無料で読める現代英訳。</span></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10444479/">Vestiges of the Natural History of Creation (PMC article)</a> — Open-access article on Robert Chambers&#x27;s anonymous 1844 bestseller and its reception.<span class="ja">ロバート・チェンバーズが匿名で出した1844年のベストセラーとその反響を扱う公開論文。</span></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10444479/">Vestiges of the Natural History of Creation (PMC article)</a> — Open-access article on Robert Chambers&#x27;s anonymous 1844 bestseller and its reception.<span class="ja">ロバート・チェンバーズが匿名で出した1844年のベストセラーと、その反響を扱う公開論文。</span></li>
 </ul>
 </aside>
 
@@ -60,7 +60,7 @@ After the *Beagle* voyage (1831–36), Darwin became convinced that species were
 
 <!-- -->
 
-ビーグル号の航海（1831〜36年）の後、ダーウィンは種が不変ではないと確信するようになりました。1838年9月28日、彼はマルサスの『人口論』を読み、のちに、これで[「取り組むべき理論」を得た](https://friendsofdarwin.com/articles/darwin-reads-malthus/)と書いています。どの種も生き残れる以上の子を生むなら、役に立つ変異をもつ個体のほうが多くの子孫を残しやすい、という考えです。彼は二十年間、この理論をひそかに練り続けました。1858年、マレー諸島で採集をしていたウォレスが、同じ考えを記した論文をダーウィンに送り、その年の7月、二人の論文はリンネ協会でそろって読み上げられました。『種の起源』は1859年11月に出版されます。ダーウィンは『人間の由来』（1871年）で理論を人間に当てはめ、性選択という考えも示しました。
+ビーグル号の航海（1831〜36年）を終えたあと、ダーウィンは種が不変ではないと確信するようになりました。1838年9月28日にマルサスの『人口論』を読み、これで[「取り組むべき理論」を得た](https://friendsofdarwin.com/articles/darwin-reads-malthus/)と、のちに書いています。どの種も生き残れる数より多くの子を生むなら、役に立つ変異をもつ個体ほど多くの子孫を残しやすい、という考えです。ダーウィンは二十年にわたり、この理論をひそかに練り続けました。1858年、マレー諸島で採集をしていたウォレスが、同じ考えを記した論文をダーウィンに送ってきます。その年の7月、二人の論文はリンネ協会でそろって読み上げられ、1859年11月には『種の起源』が出版されました。ダーウィンは『人間の由来』（1871年）で理論を人間に当てはめ、性選択という考えも示しています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
@@ -80,14 +80,14 @@ Darwin's weak point was heredity. Like most of his contemporaries, he assumed th
 
 <!-- -->
 
-ダーウィンの弱点は遺伝でした。同時代の多くの人と同じく、彼は親の形質が子のなかで混ざり合うと考えていました。1867年、技術者のフレミング・ジェンキンは、ふつう次のように要約される反論を出しました。もし形質が混ざるなら、新しく生まれた有利な変異は世代ごとに半分ずつ薄まり、選択が働く前に消えてしまう、というものです。ただし歴史家のなかには、この「埋没」の読み方は、ジェンキン自身の文章と同じくらい、のちの解釈者に負っていると論じる人もいます。ダーウィンは自身の「パンゲン説」（1868年）で応えました。体中から集まった粒子が生殖細胞に集まるという説で、獲得形質の遺伝も認めるものでした。物理学者ウィリアム・トムソン（ケルヴィン卿）は、二つ目の問題を加えました。彼が見積もった地球の年齢は、ゆっくりした漸進的な変化には短すぎるように見えたからです。
+ダーウィンの弱点は遺伝でした。同時代の多くの人と同じく、ダーウィンも親の形質は子のなかで混ざり合うと考えていました。1867年、技術者のフレミング・ジェンキンが反論を出します。ふつうは次のように要約される反論です。もし形質が混ざるなら、新しく現れた有利な変異は世代ごとに半分ずつ薄まり、選択が働く前に消えてしまう。ただし歴史家のなかには、この「埋没」という読み方は、ジェンキン自身の文章だけでなく、のちの解釈者によるところも大きいと論じる人もいます。ダーウィンは自身の「パンゲン説」（1868年）で応えました。体中から粒子が生殖細胞に集まるという説で、獲得形質の遺伝も認めるものでした。物理学者ウィリアム・トムソン（ケルヴィン卿）は、さらに二つ目の問題を突きつけています。トムソンが見積もった地球の年齢は、ゆっくりした漸進的な変化が起きるには短すぎるように見えたからです。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://mun.ca/biology/scarr/Fleming_Jenkin_review_1867.html">Fleeming Jenkin&#x27;s 1867 review of the Origin</a> — Text of Jenkin&#x27;s North British Review critique, hosted by Memorial University of Newfoundland.<span class="ja">ジェンキンが『ノース・ブリティッシュ・レビュー』に寄せた批判の本文。メモリアル大学のサイト。</span></li>
 <li><a href="https://www.gutenberg.org/ebooks/3332">The Variation of Animals and Plants under Domestication (Project Gutenberg)</a> — Free text of Darwin&#x27;s 1868 book, where he set out his theory of pangenesis.<span class="ja">ダーウィンがパンゲン説を示した1868年の著作の無料テキスト。</span></li>
-<li><a href="https://www.lindahall.org/about/news/scientist-of-the-day/fleeming-jenkin">Scientist of the Day: Fleeming Jenkin (Linda Hall Library)</a> — Short library profile of the engineer who raised the blending objection.<span class="ja">混合遺伝にもとづく反論を出した技術者ジェンキンについての、図書館による短い紹介。</span></li>
+<li><a href="https://www.lindahall.org/about/news/scientist-of-the-day/fleeming-jenkin">Scientist of the Day: Fleeming Jenkin (Linda Hall Library)</a> — Short library profile of the engineer who raised the blending objection.<span class="ja">混合遺伝をめぐる反論を出した技術者ジェンキンを、図書館が短く紹介したもの。</span></li>
 </ul>
 </aside>
 
@@ -100,7 +100,7 @@ From the 1880s, historians speak of an ["eclipse of Darwinism"](https://en.wikip
 
 <!-- -->
 
-1880年代以降のこの時期を、歴史家はジュリアン・ハクスリーの言葉を借りて[「ダーウィニズムの日食」](https://en.wikipedia.org/wiki/Modern_synthesis_(20th_century))と呼びます。進化そのものを疑う人はほとんどいませんでしたが、自然選択には多くの対抗説がありました。ネオ・ラマルキズムの人々は獲得形質の遺伝を主張し、定向進化説の支持者は、系統は内在する傾向に沿って進むと考えました。アウグスト・ヴァイスマンは逆の方向に進みました。彼の生殖質説（1892年）は生殖の系列を体から切り離し、獲得形質の遺伝を否定しました。1900年にグレゴール・メンデルのエンドウの実験（1866年）が再発見されると、ユーゴー・ド・フリースやウィリアム・ベイトソンといった初期のメンデル派は、遺伝が粒子的であることを、新しい種は小さな差への選択ではなく大きな飛躍によって生じる（突然変異説）という意味に受け取りました。二十年ほどのあいだ、遺伝学者と、野外の変異を研究する博物学者の議論は、多くの場合すれ違っていました。
+1880年代以降のこの時期を、歴史家はジュリアン・ハクスリーの言葉を借りて[「ダーウィニズムの日食」](https://en.wikipedia.org/wiki/Modern_synthesis_(20th_century))と呼びます。進化そのものを疑う人はほとんどいませんでしたが、自然選択には対抗する説がいくつもありました。ネオ・ラマルキズムの人々は獲得形質の遺伝を主張し、定向進化説の支持者は、系統は内在する傾向に沿って進むと考えました。アウグスト・ヴァイスマンは逆の方向へ進みます。生殖質説（1892年）で生殖の系列を体から切り離し、獲得形質の遺伝を否定しました。1900年にグレゴール・メンデルのエンドウの実験（1866年）が再発見されると、ユーゴー・ド・フリースやウィリアム・ベイトソンら初期のメンデル派は、遺伝が粒子的であることを別の意味に受け取りました。新しい種は小さな差への選択ではなく、大きな飛躍によって生まれる、という突然変異説です。その後二十年ほど、遺伝学者と、野外で変異を調べる博物学者の議論は、たいていすれ違ったままでした。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
@@ -120,7 +120,7 @@ The reconciliation came through mathematics. In 1918 Ronald Fisher showed that m
 
 <!-- -->
 
-和解は数学によってもたらされました。1918年、ロナルド・フィッシャーは、多くのメンデル遺伝子がともに働けば、博物学者が観察していた連続的な変異が生じることを示しました。フィッシャーの『自然選択の遺伝学的理論』（1930年）、J・B・S・ホールデンの一連の論文、そして小さな集団における遺伝的浮動についてのシューアル・ライトの研究が、集団遺伝学を築きました。遺伝が粒子的であることは、ジェンキンの問題を解くものでした。遺伝子は混ざり合わないので、まれな有利な変異も薄まりません。テオドシウス・ドブジャンスキーの『遺伝学と種の起源』（1937年）はこれらの成果を野外の生物学へ持ち込み、エルンスト・マイア（『分類学と種の起源』1942年）、ジョージ・ゲイロード・シンプソン（化石を扱った『進化のテンポとモード』1944年）、G・レッドヤード・ステビンズ（植物、1950年）がそれを広げました。ジュリアン・ハクスリーは『進化：現代的総合』（1942年）で、この成果に名前を与えました。ロシアではセルゲイ・チェトヴェリコフが1926年に同様の研究を始めていましたが、ソ連の遺伝学はまもなくトロフィム・ルイセンコのもとで弾圧されます。
+両者の和解をもたらしたのは数学でした。1918年、ロナルド・フィッシャーは、多くのメンデル遺伝子がいっしょに働けば、博物学者が観察していた連続的な変異が生じることを示しました。集団遺伝学の基礎を築いたのは、フィッシャーの『自然選択の遺伝学的理論』（1930年）、J・B・S・ホールデンの一連の論文、そして小さな集団での遺伝的浮動を扱ったシューアル・ライトの研究です。遺伝が粒子的であることは、ジェンキンの問題の答えにもなりました。遺伝子は混ざり合わないので、まれな有利な変異も薄まらずに残ります。テオドシウス・ドブジャンスキーの『遺伝学と種の起源』（1937年）は、これらの成果を野外の生物学へ持ち込みました。さらにエルンスト・マイア（『分類学と種の起源』1942年）、ジョージ・ゲイロード・シンプソン（化石を扱った『進化のテンポとモード』1944年）、G・レッドヤード・ステビンズ（植物、1950年）がそれを広げています。この成果に名前を与えたのは、ジュリアン・ハクスリーの『進化：現代的総合』（1942年）でした。ロシアではセルゲイ・チェトヴェリコフが1926年に同様の研究を始めていましたが、ソ連の遺伝学はまもなくトロフィム・ルイセンコのもとで弾圧されます。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
@@ -140,7 +140,7 @@ By the 1950s, most biologists agreed on a core: evolution is change in gene freq
 
 <!-- -->
 
-1950年代までに、大半の生物学者は一つの核心で一致しました。進化とは集団のなかの遺伝子頻度の変化であり、突然変異が変異を供給し、選択・浮動・移住がその頻度を変え、大規模な変化は長い時間をかけた小さな段階の積み重ねである、というものです。獲得形質の遺伝や大きな跳躍は退けられました。一方で総合説は、胚の発生や微生物について、そして遺伝子の分子的な正体については、ほとんど何も述べていませんでした。遺伝子の正体は、1953年にDNAの構造が示されるまで分かっていなかったからです。こうした空白が、その後の議論の多くを形づくりました。
+1950年代までに、大半の生物学者は核となる考えで一致しました。進化とは集団のなかの遺伝子頻度の変化である。突然変異が変異をもたらし、選択・浮動・移住がその頻度を変える。そして大規模な変化は、長い時間をかけた小さな段階の積み重ねである—という考えです。獲得形質の遺伝や大きな跳躍は退けられました。一方で総合説は、胚の発生や微生物、遺伝子の分子的な正体については、ほとんど何も語っていません。遺伝子の正体は、1953年にDNAの構造が示されるまでわかっていなかったからです。こうした空白が、その後の議論の多くを方向づけていきました。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
