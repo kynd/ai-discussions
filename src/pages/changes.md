@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-11-15 — Sartre's Nausea
+
+Prompted by the question of how Sartre's novel *Nausea* expresses his concept of existence. Added an essay on the novel covering its origins in Sartre's notes on contingency and his study of Husserl, the experience of nausea, the chestnut-root scene and the ideas of contingency and *de trop*, how the novel anticipates *Being and Nothingness* and "existence precedes essence", its satire of the town's notables and of the Self-Taught Man's humanism, the ending's hope in art and Sartre's later rejection of it, and its Japanese translations. The Sartre essay now links to it.
+
+<!-- -->
+
+サルトルの小説『嘔吐』は彼の存在の概念をどう表しているのか、という問いを受けて、この小説についてのエッセイを加えました。偶然性についての覚え書きとフッサール研究から生まれた成り立ち、吐き気の経験、マロニエの根の場面と偶然性・ド・トロの考え、この小説が『存在と無』や「実存は本質に先立つ」をどう先取りしているか、町の名士たちと「独学者」のヒューマニズムへの風刺、芸術に託された結末の希望とそれをのちにサルトル自身が退けたこと、そして日本語訳を扱います。サルトルのエッセイからもリンクしました。
+
+---
+
 ## 2026-11-15 — Ilya Prigogine
 
 Prompted by a request about Ilya Prigogine. Added an essay covering his life and the Brussels school, minimum entropy production near equilibrium, dissipative structures and "order through fluctuations" far from equilibrium, chemical clocks (the Belousov–Zhabotinsky reaction and the Brusselator), his arguments about the arrow of time in *Order Out of Chaos* and *The End of Certainty*, the criticism of those arguments by Jean Bricmont and others, and his reception, including in Japan. The complex systems overview now links to it.
