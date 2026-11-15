@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-11-15 — Ilya Prigogine
+
+Prompted by a request about Ilya Prigogine. Added an essay covering his life and the Brussels school, minimum entropy production near equilibrium, dissipative structures and "order through fluctuations" far from equilibrium, chemical clocks (the Belousov–Zhabotinsky reaction and the Brusselator), his arguments about the arrow of time in *Order Out of Chaos* and *The End of Certainty*, the criticism of those arguments by Jean Bricmont and others, and his reception, including in Japan. The complex systems overview now links to it.
+
+<!-- -->
+
+イリヤ・プリゴジンについての問いを受けて、エッセイを一つ加えました。生涯とブリュッセル学派、平衡近くでのエントロピー生成最小の原理、平衡から遠い状態での散逸構造と「ゆらぎを通じた秩序」、化学時計（ベロウソフ・ジャボチンスキー反応とブリュッセレーター）、『混沌からの秩序』や『確実性の終焉』での時間の矢をめぐる主張、それに対するジャン・ブリクモンらの批判、そして日本を含む受容を扱います。複雑系の概説からもリンクしました。
+
+---
+
 ## 2026-11-03 — Merleau-Ponty and Sartre
 
 Prompted by a request about Merleau-Ponty and Sartre. Added two essays. "Maurice Merleau-Ponty" covers his life, the body as the subject of perception (body schema, motor intentionality, the Schneider case and phantom limbs), his essays on Cézanne and painting, his political shift from *Humanism and Terror* to *Adventures of the Dialectic*, the late idea of flesh and the chiasm, his influence on cognitive science, architecture and feminist philosophy, and his reception in Japan. "Merleau-Ponty and Sartre" covers their friendship and co-editorship of *Les Temps modernes*, their disagreements over consciousness and the body, absolute and situated freedom, and the look and coexistence, and the political break of 1953–55. The Sartre essay now links to the fuller account of the break.
