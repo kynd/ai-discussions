@@ -6,6 +6,16 @@ intro: A high-level log of substantial changes to the collection's content, and 
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-11-22 — Distance
+
+Prompted by a request to research what "distance" can mean in mathematics and science, beyond Euclidean distance, including the mathematical definition, non-intuitive examples such as distances between sets, distance in general relativity, and distance in AI embeddings. Added three essays. "What Is a Distance?" covers the metric axioms (Fréchet, Hausdorff), taxicab and other norms, graph, Hamming and edit distances, the p-adic ultrametric, the Hausdorff and Gromov–Hausdorff distances, distances between probability distributions, and relaxations such as quasimetrics and divergences. "Distance in Physics" covers Riemann's line element, Minkowski's spacetime interval, proper time, distance near black holes in general relativity, and the several distances of cosmology. "Distance in AI" covers the distributional hypothesis, word2vec and vector analogies and their limits, cosine similarity, the curse of dimensionality, sentence embeddings and how this site's search uses them, distances between distributions in training and evaluation, and whether closeness captures meaning.
+
+<!-- -->
+
+数学や科学で「距離」が何を意味しうるのかを、ユークリッド距離の外まで調べてほしい、という依頼を受けて、三つのエッセイを加えました。数学的な定義、集合のあいだの距離のような直観に反する例、一般相対性理論での距離、AIの埋め込みでの距離です。「距離とは何か」は、距離の公理（フレシェ、ハウスドルフ）、タクシー距離などのノルム、グラフの距離、ハミング距離、編集距離、p進の超距離、ハウスドルフ距離とグロモフ・ハウスドルフ距離、確率分布のあいだの距離、そして準距離やダイバージェンスのような規則のゆるめ方を扱います。「物理学における距離」は、リーマンの線素、ミンコフスキーの時空の間隔、固有時、一般相対性理論でのブラックホール近くの距離、宇宙論のいくつもの距離を扱います。「AIにおける距離」は、分布仮説、word2vecとベクトルの類推とその限界、コサイン類似度、次元の呪い、文の埋め込みとこのサイトの検索での使われ方、訓練や評価での分布のあいだの距離、そして近さが意味をとらえているのかという問いを扱います。
+
+---
+
 ## 2026-11-22 — Merged Art and World History
 
 Prompted by a request to merge the sister site Art and World History (kynd/art-history) into this one. Added all 53 of its essays (43 published and 10 drafts) — decade overviews of art and world history from 1900 to 2020, essays on artists from Monet to Basquiat and Kusama, and thematic essays such as "What Is Art?", "Window to Mirror", "The Readymade" and "Spiritual Abstraction" — with their original dates, drafts and editor notes. Merged its index terms, homepage topic chips, writing instructions and change log, which now appears below this entry under the heading "Art and World History".
