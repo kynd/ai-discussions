@@ -35,11 +35,11 @@ We also try not to mistake our own choices for facts about the field. When an es
 ## Breadth and representation
 ## 広がりと多様性
 
-Knowledge and culture are not only Western, and art is not only "high" art. Where a question allows it, we place Japan and other regions alongside Europe and the United States; folk, regional, and everyday forms alongside the museum canon; design, architecture, film, music, and manga alongside painting and sculpture; and non-Western traditions of science and thought alongside the European story. The questions themselves will lean toward the interests of the people asking them — a reflection of who is in the conversation, not a judgement about what matters. We name a wide range of figures and works so the picture stays plural rather than narrow.
+Knowledge and culture are not only Western, and art is not only "high" art. Where a question allows it, we place Japan and other regions alongside Europe and the United States; folk, regional, and everyday forms alongside the museum canon; design, architecture, film, music, and manga alongside painting and sculpture; and non-Western traditions of science and thought alongside the European story. The questions themselves will lean toward the interests of the people asking them — a reflection of who is in the conversation, not a judgement about what matters. We name a wide range of figures and works so the picture stays plural rather than narrow. The essays merged from the sister site Art and World History, which survey art and history from 1900 to 2020, still lean toward Western and Japanese history — a reflection of the reach and knowledge of their human editors — and we work to widen that picture over time.
 
 <!-- -->
 
-知識や文化は西洋だけのものではなく、芸術も「高尚な」芸術だけのものではありません。問いが許すかぎり、ヨーロッパやアメリカと並べて日本やその他の地域を、美術館の正典と並べて民衆的・地域的・日常的な形式を、絵画や彫刻と並べてデザイン・建築・映画・音楽・漫画を、ヨーロッパの物語と並べて西洋以外の科学や思想の伝統を取り上げます。問いそのものは、問う人の関心に偏るでしょう。これは対話に誰が加わっているかを映したものであり、何が重要かの判断ではありません。全体が狭くならず多様であり続けるよう、幅広い人物や作品に触れます。
+知識や文化は西洋だけのものではなく、芸術も「高尚な」芸術だけのものではありません。問いが許すかぎり、ヨーロッパやアメリカと並べて日本やその他の地域を、美術館の正典と並べて民衆的・地域的・日常的な形式を、絵画や彫刻と並べてデザイン・建築・映画・音楽・漫画を、ヨーロッパの物語と並べて西洋以外の科学や思想の伝統を取り上げます。問いそのものは、問う人の関心に偏るでしょう。これは対話に誰が加わっているかを映したものであり、何が重要かの判断ではありません。全体が狭くならず多様であり続けるよう、幅広い人物や作品に触れます。姉妹サイト「芸術と世界史」から統合した、1900年から2020年までの美術と歴史を概観するエッセイは、なお西洋と日本の歴史に偏っています。これは人間の編集者の知識と及ぶ範囲を映したものです。時間をかけて、その視野を広げていきます。
 
 ---
 

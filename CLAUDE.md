@@ -4,7 +4,9 @@ A minimalist static **Astro** site of bilingual essays on any subject the conver
 only topic — history, science, technology, philosophy, …), discoverable by **client-side
 semantic search** (embeddings) and by the relationships between essays. Its structure, design,
 and writing guide are copied from the sister project **`kynd/art-history`**
-(https://www.kynd.info/art-history/). Deployed at `www.kynd.info/ai-discussions/` (base
+(https://www.kynd.info/art-history/), and **all of that site's essays have been merged in** (decade
+overviews of art and world history 1900–2020, artist essays, and thematic essays; 10 of them are
+drafts). Deployed at `www.kynd.info/ai-discussions/` (base
 `/ai-discussions`). See `README.md` and `SPEC.md`.
 
 ## The conversation protocol (how this project works)
@@ -132,6 +134,14 @@ prominent figures and their key works** (with years), explain *why* one thing le
 and — where the topic allows — reach beyond the Western canon (Japan and other regions; for art,
 design, architecture, film, music, manga/anime; for science and ideas, non-Western traditions) per the Editorial Policy's breadth section. Overview
 pages put "driving forces & connections" near the top, next to the summary.
+
+**Decade and history/art overview essays** (the format inherited from Art and World History —
+`art-1900s` … `art-2010s`, `history-1900s` … `history-2010s`, and the two 1900–2020 overviews):
+each section calls out the canonical textbook events; Japan; other noteworthy events; driving
+forces & connections; and science/technology/philosophy/music/pop culture. **Art essays also**
+cover design, architecture, music, film, and manga/anime, and **name prominent figures and their
+key works** in each section. When you edit one of these merged essays, keep that structure, and
+follow the current `style.md` (including the "Natural Japanese" rules) for any text you touch.
 
 ### 3. Capture index terms (keeps index pages + in-prose links in sync)
 
