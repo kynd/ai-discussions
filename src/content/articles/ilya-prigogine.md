@@ -16,11 +16,11 @@ Ilya Prigogine (1917–2003) was a Russian-born Belgian physical chemist who sho
 ## Driving forces and connections
 ## 推進力とつながり
 
-Prigogine's work answered a long-standing puzzle. The second law of thermodynamics, formulated in the nineteenth century, says that the entropy of an isolated system tends to increase, which suggested a universe running down toward disorder. Darwinian evolution and the development of organisms, by contrast, showed order and complexity increasing. Prigogine's teacher Théophile de Donder had begun to extend thermodynamics to irreversible processes, and Lars Onsager's work of the 1930s described systems slightly out of equilibrium. Prigogine pushed the theory into the far-from-equilibrium region, where linear approximations fail. His results became one of the foundations of the study of [complex systems](/ai-discussions/articles/complex-systems/), alongside chaos theory and Hermann Haken's synergetics, and of the broader idea of [self-organisation and emergence](/ai-discussions/articles/complex-systems-key-theories/). His later writing on time drew him into philosophy, where his claims raised questions about how far [models abstract from reality](/ai-discussions/articles/complex-systems-models-and-reality/).
+Prigogine's work answered a long-standing puzzle. The second law of thermodynamics, formulated in the nineteenth century, says that the entropy of an isolated system tends to increase, which suggested a universe running down toward disorder. Darwinian evolution and the development of organisms, by contrast, showed order and complexity increasing. Prigogine's teacher Théophile de Donder had begun to extend thermodynamics to irreversible processes, and Lars Onsager's work of the 1930s described systems slightly out of equilibrium. Prigogine pushed the theory into the far-from-equilibrium region, where linear approximations fail. His results became one of the foundations of the study of [complex systems](/articles/complex-systems/), alongside chaos theory and Hermann Haken's synergetics, and of the broader idea of [self-organisation and emergence](/articles/complex-systems-key-theories/). His later writing on time drew him into philosophy, where his claims raised questions about how far [models abstract from reality](/articles/complex-systems-models-and-reality/).
 
 <!-- -->
 
-プリゴジンの仕事は、古くからの謎に答えるものでした。十九世紀に定式化された熱力学の第二法則によれば、孤立した系のエントロピーは増大する傾向にあります。そこからは、宇宙が無秩序に向かって衰えていくという像が導かれます。ところがダーウィン的な進化や生物の発生では、秩序と複雑さはむしろ増していきます。プリゴジンの師テオフィル・ド・ドンデは、熱力学を不可逆過程へと広げる試みをすでに始めており、ラルス・オンサーガーの1930年代の研究は、平衡からわずかにずれた系を記述していました。プリゴジンは理論を、線形の近似が通用しない、平衡から遠く離れた領域へと押し進めます。その成果は、カオス理論やヘルマン・ハーケンのシナジェティクスと並んで、[複雑系](/ai-discussions/articles/complex-systems/)研究の土台の一つとなり、[自己組織化と創発](/ai-discussions/articles/complex-systems-key-theories/)というより広い考えも支えました。晩年の時間論は彼を哲学へと引き込み、その主張は、[モデルが現実をどこまで抽象しているのか](/ai-discussions/articles/complex-systems-models-and-reality/)という問いを投げかけることになりました。
+プリゴジンの仕事は、古くからの謎に答えるものでした。十九世紀に定式化された熱力学の第二法則によれば、孤立した系のエントロピーは増大する傾向にあります。そこからは、宇宙が無秩序に向かって衰えていくという像が導かれます。ところがダーウィン的な進化や生物の発生では、秩序と複雑さはむしろ増していきます。プリゴジンの師テオフィル・ド・ドンデは、熱力学を不可逆過程へと広げる試みをすでに始めており、ラルス・オンサーガーの1930年代の研究は、平衡からわずかにずれた系を記述していました。プリゴジンは理論を、線形の近似が通用しない、平衡から遠く離れた領域へと押し進めます。その成果は、カオス理論やヘルマン・ハーケンのシナジェティクスと並んで、[複雑系](/articles/complex-systems/)研究の土台の一つとなり、[自己組織化と創発](/articles/complex-systems-key-theories/)というより広い考えも支えました。晩年の時間論は彼を哲学へと引き込み、その主張は、[モデルが現実をどこまで抽象しているのか](/articles/complex-systems-models-and-reality/)という問いを投げかけることになりました。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
@@ -64,7 +64,7 @@ Prigogine's first major result concerned systems close to equilibrium. A system 
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://utphysicshistory.net/IlyaPrigogine.html">Ilya Prigogine (UT Physics History)</a> — Biographical account of his early work on irreversible thermodynamics.<span class="ja">不可逆過程の熱力学をめぐる初期の仕事をたどる伝記的な記事。</span></li>
-<li><a href="https://www.wikipedia.org/wiki/Maximum_entropy_production">Extremal principles in non-equilibrium thermodynamics (Wikipedia)</a> — How minimum and maximum entropy production principles relate and where they fail.<span class="ja">エントロピー生成の最小・最大原理の関係と、その限界の解説。</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Extremal_principles_in_non-equilibrium_thermodynamics">Extremal principles in non-equilibrium thermodynamics (Wikipedia)</a> — How minimum and maximum entropy production principles relate and where they fail.<span class="ja">エントロピー生成の最小・最大原理の関係と、その限界の解説。</span></li>
 </ul>
 </aside>
 

@@ -16,11 +16,11 @@ In everyday life, distance is the length of a straight line between two points. 
 ## Driving forces and connections
 ## 推進力とつながり
 
-The abstract idea of distance grew out of a practical need. Around 1900, mathematicians studying functions wanted to say when one function was "close to" another, so that they could talk about limits and convergence in spaces whose points are curves rather than locations. Fréchet saw that only a few properties of ordinary distance were needed for this, and Hausdorff's influential book made them standard. The same move later served computing, coding theory, biology and statistics, each of which needed its own notion of nearness. The story is a good example of [abstraction in mathematics](/ai-discussions/articles/abstraction-in-mathematics/): keep only what matters, and one definition covers many cases. It also connects to [distance in physics](/ai-discussions/articles/distance-in-physics/), where relativity changed what distance between events means, and to [distance in AI](/ai-discussions/articles/distance-in-ai-embeddings/), where meaning itself is measured as nearness in a space of numbers.
+The abstract idea of distance grew out of a practical need. Around 1900, mathematicians studying functions wanted to say when one function was "close to" another, so that they could talk about limits and convergence in spaces whose points are curves rather than locations. Fréchet saw that only a few properties of ordinary distance were needed for this, and Hausdorff's influential book made them standard. The same move later served computing, coding theory, biology and statistics, each of which needed its own notion of nearness. The story is a good example of [abstraction in mathematics](/articles/abstraction-in-mathematics/): keep only what matters, and one definition covers many cases. It also connects to [distance in physics](/articles/distance-in-physics/), where relativity changed what distance between events means, and to [distance in AI](/articles/distance-in-ai-embeddings/), where meaning itself is measured as nearness in a space of numbers.
 
 <!-- -->
 
-距離の抽象的な考えは、実際的な必要から生まれました。1900年ごろ、関数を研究していた数学者たちは、ある関数が別の関数に「近い」とはどういうことかを言い表したいと考えていました。点が場所ではなく曲線であるような空間で、極限や収束を語るためです。フレシェは、そのためにはふつうの距離のごくわずかな性質だけで足りることに気づき、ハウスドルフの影響力のある本がそれを標準にしました。同じ発想はのちに、計算機、符号理論、生物学、統計学にも役立ちます。どの分野も、それぞれに固有の近さの考えを必要としていたからです。この歩みは、大切なものだけを残し、一つの定義で多くの場合を覆うという[数学における抽象](/ai-discussions/articles/abstraction-in-mathematics/)のよい例です。また、相対性理論が出来事のあいだの距離の意味を変えた[物理学における距離](/ai-discussions/articles/distance-in-physics/)や、意味そのものが数の空間での近さとして測られる[AIにおける距離](/ai-discussions/articles/distance-in-ai-embeddings/)にもつながっています。
+距離の抽象的な考えは、実際的な必要から生まれました。1900年ごろ、関数を研究していた数学者たちは、ある関数が別の関数に「近い」とはどういうことかを言い表したいと考えていました。点が場所ではなく曲線であるような空間で、極限や収束を語るためです。フレシェは、そのためにはふつうの距離のごくわずかな性質だけで足りることに気づき、ハウスドルフの影響力のある本がそれを標準にしました。同じ発想はのちに、計算機、符号理論、生物学、統計学にも役立ちます。どの分野も、それぞれに固有の近さの考えを必要としていたからです。この歩みは、大切なものだけを残し、一つの定義で多くの場合を覆うという[数学における抽象](/articles/abstraction-in-mathematics/)のよい例です。また、相対性理論が出来事のあいだの距離の意味を変えた[物理学における距離](/articles/distance-in-physics/)や、意味そのものが数の空間での近さとして測られる[AIにおける距離](/articles/distance-in-ai-embeddings/)にもつながっています。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
@@ -72,16 +72,16 @@ Even in the ordinary plane, straight-line (Euclidean) distance is only one choic
 ## Distances between words and codes
 ## 単語と符号のあいだの距離
 
-Some distances count changes rather than lengths. In 1950 Richard Hamming, working on error-correcting codes at Bell Labs, defined the distance between two strings of equal length as the number of positions in which they differ. A code whose valid words are far apart in this sense can detect and correct errors, because a few flipped bits still leave the received message closer to the intended word than to any other. In 1965 the Soviet mathematician Vladimir Levenshtein studied a related measure, now called the [Levenshtein or edit distance](https://www.wikipedia.org/wiki/Levenshtein_distance): the minimum number of single-character insertions, deletions or substitutions needed to turn one string into another. "Kitten" and "sitting" are three edits apart. Edit distances underlie spell-checkers, the comparison of DNA and protein sequences, and the alignment of texts. Biologists also use "genetic distances" between populations or species, and the choice among them builds assumptions about how mutations happen into the result.
+Some distances count changes rather than lengths. In 1950 Richard Hamming, working on error-correcting codes at Bell Labs, defined the distance between two strings of equal length as the number of positions in which they differ. A code whose valid words are far apart in this sense can detect and correct errors, because a few flipped bits still leave the received message closer to the intended word than to any other. In 1965 the Soviet mathematician Vladimir Levenshtein studied a related measure, now called the [Levenshtein or edit distance](https://en.wikipedia.org/wiki/Levenshtein_distance): the minimum number of single-character insertions, deletions or substitutions needed to turn one string into another. "Kitten" and "sitting" are three edits apart. Edit distances underlie spell-checkers, the comparison of DNA and protein sequences, and the alignment of texts. Biologists also use "genetic distances" between populations or species, and the choice among them builds assumptions about how mutations happen into the result.
 
 <!-- -->
 
-長さではなく、変化の数を数える距離もあります。1950年、ベル研究所で誤り訂正符号を研究していたリチャード・ハミングは、同じ長さの二つの文字列のあいだの距離を、文字の異なる位置の数として定義しました。正しい語どうしがこの意味で遠く離れている符号なら、誤りを検出し、訂正することができます。いくつかのビットが反転しても、受け取ったメッセージはなお、ほかのどの語よりも本来の語に近いからです。1965年には、ソ連の数学者ウラジーミル・レーベンシュテインが、いまでは[レーベンシュテイン距離、あるいは編集距離](https://www.wikipedia.org/wiki/Levenshtein_distance)と呼ばれる関連の尺度を研究しました。一方の文字列を他方に変えるのに必要な、一文字の挿入・削除・置換の最小回数です。「kitten」と「sitting」は三回の編集で移り合います。編集距離は、スペルチェッカーや、DNAやタンパク質の配列の比較、文章の対応づけを支えています。生物学者は集団や種のあいだの「遺伝的距離」も使いますが、どれを選ぶかによって、突然変異がどう起こるかについての仮定が結果に入りこみます。
+長さではなく、変化の数を数える距離もあります。1950年、ベル研究所で誤り訂正符号を研究していたリチャード・ハミングは、同じ長さの二つの文字列のあいだの距離を、文字の異なる位置の数として定義しました。正しい語どうしがこの意味で遠く離れている符号なら、誤りを検出し、訂正することができます。いくつかのビットが反転しても、受け取ったメッセージはなお、ほかのどの語よりも本来の語に近いからです。1965年には、ソ連の数学者ウラジーミル・レーベンシュテインが、いまでは[レーベンシュテイン距離、あるいは編集距離](https://en.wikipedia.org/wiki/Levenshtein_distance)と呼ばれる関連の尺度を研究しました。一方の文字列を他方に変えるのに必要な、一文字の挿入・削除・置換の最小回数です。「kitten」と「sitting」は三回の編集で移り合います。編集距離は、スペルチェッカーや、DNAやタンパク質の配列の比較、文章の対応づけを支えています。生物学者は集団や種のあいだの「遺伝的距離」も使いますが、どれを選ぶかによって、突然変異がどう起こるかについての仮定が結果に入りこみます。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://en.wikipedia.com/wiki/Hamming_metric">Hamming distance (Wikipedia)</a> — Definition, history and use in error-correcting codes.<span class="ja">定義と歴史、誤り訂正符号での使われ方。</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Hamming_distance">Hamming distance (Wikipedia)</a> — Definition, history and use in error-correcting codes.<span class="ja">定義と歴史、誤り訂正符号での使われ方。</span></li>
 <li><a href="https://arxiv.org/pdf/2002.07420">An Overview of Distance and Similarity Functions for Structured Data (arXiv)</a> — Survey of distances for strings, trees, graphs and other structures.<span class="ja">文字列、木、グラフなどの構造のための距離を概観する論文。</span></li>
 </ul>
 </aside>
@@ -136,7 +136,7 @@ Statistics needs to say how different two distributions are, for example two mod
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://EN.wikipedia.com/wiki/Wasserstein_metric">Wasserstein metric (Wikipedia)</a> — Definition, history from Monge and Kantorovich, and the naming dispute.<span class="ja">定義と、モンジュとカントロヴィチからの歴史、名前をめぐる議論。</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Wasserstein_metric">Wasserstein metric (Wikipedia)</a> — Definition, history from Monge and Kantorovich, and the naming dispute.<span class="ja">定義と、モンジュとカントロヴィチからの歴史、名前をめぐる議論。</span></li>
 <li><a href="https://arxiv.org/pdf/0707.0491">L. V. Kantorovich and Linear Programming (arXiv)</a> — Historical account of Kantorovich's work on optimal transport.<span class="ja">最適輸送をめぐるカントロヴィチの仕事の歴史的な解説。</span></li>
 </ul>
 </aside>
@@ -146,11 +146,11 @@ Statistics needs to say how different two distributions are, for example two mod
 ## Bending the rules
 ## 規則を曲げる
 
-Mathematicians and scientists often drop one of the four rules on purpose, because real situations break them. A "pseudometric" allows distinct objects to be at distance zero, which happens when a measurement ignores some differences. A "quasimetric" drops symmetry: on a city map with one-way streets, or on a mountain where going up takes longer than coming down, the distance from A to B need not equal the distance from B to A. "Divergences" such as Kullback–Leibler keep only the first two rules. "Similarity" measures, such as the cosine similarity used with [AI embeddings](/ai-discussions/articles/distance-in-ai-embeddings/), run the other way, with larger values meaning closer. Each relaxation trades away some of the guarantees that the triangle inequality provides, such as efficient searching, in return for a better fit to the problem. The lesson is that "distance" is not one thing found in nature but a family of tools, and the right one depends on what kind of closeness matters.
+Mathematicians and scientists often drop one of the four rules on purpose, because real situations break them. A "pseudometric" allows distinct objects to be at distance zero, which happens when a measurement ignores some differences. A "quasimetric" drops symmetry: on a city map with one-way streets, or on a mountain where going up takes longer than coming down, the distance from A to B need not equal the distance from B to A. "Divergences" such as Kullback–Leibler keep only the first two rules. "Similarity" measures, such as the cosine similarity used with [AI embeddings](/articles/distance-in-ai-embeddings/), run the other way, with larger values meaning closer. Each relaxation trades away some of the guarantees that the triangle inequality provides, such as efficient searching, in return for a better fit to the problem. The lesson is that "distance" is not one thing found in nature but a family of tools, and the right one depends on what kind of closeness matters.
 
 <!-- -->
 
-数学者や科学者は、現実の状況が規則を破るため、四つの規則のうち一つをわざと捨てることがよくあります。「擬距離」は、異なる対象どうしの距離がゼロになることを許します。測り方がある違いを無視するときに起こることです。「準距離」は対称性を捨てます。一方通行のある街の地図や、登りに下りより時間がかかる山では、A から B への距離は B から A への距離と等しいとはかぎりません。カルバック・ライブラーのような「ダイバージェンス」は、最初の二つの規則だけを残します。[AIの埋め込み](/ai-discussions/articles/distance-in-ai-embeddings/)で使われるコサイン類似度のような「類似度」は逆向きで、値が大きいほど近いことを意味します。どのゆるめ方も、三角不等式が保証してくれるもの、たとえば効率のよい検索を手放す代わりに、問題によりよく合うようにしています。ここから学べるのは、「距離」が自然のなかに見つかる一つのものではなく、道具の一族であり、どれが正しいかは、どんな近さが大切なのかによって決まる、ということです。
+数学者や科学者は、現実の状況が規則を破るため、四つの規則のうち一つをわざと捨てることがよくあります。「擬距離」は、異なる対象どうしの距離がゼロになることを許します。測り方がある違いを無視するときに起こることです。「準距離」は対称性を捨てます。一方通行のある街の地図や、登りに下りより時間がかかる山では、A から B への距離は B から A への距離と等しいとはかぎりません。カルバック・ライブラーのような「ダイバージェンス」は、最初の二つの規則だけを残します。[AIの埋め込み](/articles/distance-in-ai-embeddings/)で使われるコサイン類似度のような「類似度」は逆向きで、値が大きいほど近いことを意味します。どのゆるめ方も、三角不等式が保証してくれるもの、たとえば効率のよい検索を手放す代わりに、問題によりよく合うようにしています。ここから学べるのは、「距離」が自然のなかに見つかる一つのものではなく、道具の一族であり、どれが正しいかは、どんな近さが大切なのかによって決まる、ということです。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>

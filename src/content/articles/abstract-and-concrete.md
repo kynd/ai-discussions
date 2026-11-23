@@ -16,11 +16,11 @@ topics: ["abstraction", "philosophy", "art", "music"]
 ## Driving forces and connections
 ## 推進力とつながり
 
-The reversals have a common cause: "abstract" always implies a reference point, the thing from which something has been drawn away, and different movements chose different reference points. When the reference point was the visible world, non-depicting painting was abstract; when it became the physical painting, the same painting was concrete. When the reference point was the written score, recorded sound was concrete; when it became the sound's source and meaning, "reduced listening" was abstract. Philosophers made the same move about knowledge itself. The reversals run through [philosophy](/ai-discussions/articles/what-is-abstraction/), [mathematics](/ai-discussions/articles/abstraction-in-mathematics/), [visual art](/ai-discussions/articles/abstraction-in-visual-art/) and [music](/ai-discussions/articles/music-and-abstraction/).
+The reversals have a common cause: "abstract" always implies a reference point, the thing from which something has been drawn away, and different movements chose different reference points. When the reference point was the visible world, non-depicting painting was abstract; when it became the physical painting, the same painting was concrete. When the reference point was the written score, recorded sound was concrete; when it became the sound's source and meaning, "reduced listening" was abstract. Philosophers made the same move about knowledge itself. The reversals run through [philosophy](/articles/what-is-abstraction/), [mathematics](/articles/abstraction-in-mathematics/), [visual art](/articles/abstraction-in-visual-art/) and [music](/articles/music-and-abstraction/).
 
 <!-- -->
 
-これらの逆転には、共通の原因があります。「抽象」という言葉には、つねに基準点が含まれています。何かがそこから引き離された、そのもとのものです。そして運動ごとに、選ばれる基準点が違っていました。基準点が目に見える世界であれば、何も描かない絵画は抽象的でした。基準点が物理的な絵画そのものに移ると、同じ絵画が具体的になります。基準点が書かれた楽譜であれば、録音された音は具体的でした。基準点が音の発生源と意味に移ると、今度は「還元的聴取」が抽象的になります。哲学者たちも、知識そのものについて同じ転換を行いました。こうした逆転は、[哲学](/ai-discussions/articles/what-is-abstraction/)、[数学](/ai-discussions/articles/abstraction-in-mathematics/)、[視覚芸術](/ai-discussions/articles/abstraction-in-visual-art/)、[音楽](/ai-discussions/articles/music-and-abstraction/)のすべてに見られます。
+これらの逆転には、共通の原因があります。「抽象」という言葉には、つねに基準点が含まれています。何かがそこから引き離された、そのもとのものです。そして運動ごとに、選ばれる基準点が違っていました。基準点が目に見える世界であれば、何も描かない絵画は抽象的でした。基準点が物理的な絵画そのものに移ると、同じ絵画が具体的になります。基準点が書かれた楽譜であれば、録音された音は具体的でした。基準点が音の発生源と意味に移ると、今度は「還元的聴取」が抽象的になります。哲学者たちも、知識そのものについて同じ転換を行いました。こうした逆転は、[哲学](/articles/what-is-abstraction/)、[数学](/articles/abstraction-in-mathematics/)、[視覚芸術](/articles/abstraction-in-visual-art/)、[音楽](/articles/music-and-abstraction/)のすべてに見られます。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>

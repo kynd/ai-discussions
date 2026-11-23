@@ -16,11 +16,11 @@ topics: ["philosophy", "existentialism", "literature", "contingency"]
 ## Driving forces and connections
 ## 推進力とつながり
 
-Contingency was Sartre's obsession long before he had a philosophy to frame it. As a student he wrote notes on contingency, which he called his "factum", and the novel grew out of them through several drafts in the 1930s while he taught philosophy in Le Havre. In 1933–34 he studied Husserl's phenomenology in Berlin, reading Husserl in the mornings and working on the novel in the afternoons. Scholars disagree whether phenomenology [shaped the novel or converged with it](https://www.cambridge.org/core/product/identifier/CBO9781139020206A013/type/BOOK_PART), since the first version predates his contact with Husserl, but phenomenology's aim of describing things as they appear to consciousness gave him a method. Fiction allowed him to show what an argument could only state. The novel stands at the start of [Sartre](/ai-discussions/articles/jean-paul-sartre/)'s philosophical path, and its picture of a mind facing brute things is one that [Merleau-Ponty](/ai-discussions/articles/merleau-ponty-and-sartre/) later questioned by placing the body between consciousness and the world.
+Contingency was Sartre's obsession long before he had a philosophy to frame it. As a student he wrote notes on contingency, which he called his "factum", and the novel grew out of them through several drafts in the 1930s while he taught philosophy in Le Havre. In 1933–34 he studied Husserl's phenomenology in Berlin, reading Husserl in the mornings and working on the novel in the afternoons. Scholars disagree whether phenomenology [shaped the novel or converged with it](https://www.cambridge.org/core/product/identifier/CBO9781139020206A013/type/BOOK_PART), since the first version predates his contact with Husserl, but phenomenology's aim of describing things as they appear to consciousness gave him a method. Fiction allowed him to show what an argument could only state. The novel stands at the start of [Sartre](/articles/jean-paul-sartre/)'s philosophical path, and its picture of a mind facing brute things is one that [Merleau-Ponty](/articles/merleau-ponty-and-sartre/) later questioned by placing the body between consciousness and the world.
 
 <!-- -->
 
-偶然性は、それを語る哲学をもつよりずっと前から、サルトルのとりつかれた主題でした。学生時代には偶然性についての覚え書きを書き、それを自分の「ファクトゥム」と呼んでいます。小説はこの覚え書きから生まれ、ル・アーヴルで哲学を教えていた1930年代に、いくつもの草稿を経て形になりました。1933〜34年にはベルリンでフッサールの現象学を学び、午前にフッサールを読み、午後に小説を書いていました。最初の版はフッサールとの出会いより前に書かれているため、現象学が[小説を形づくったのか、それとも両者が合流したのか](https://www.cambridge.org/core/product/identifier/CBO9781139020206A013/type/BOOK_PART)については研究者の意見が分かれます。それでも、意識に現れるままに物を記述するという現象学の目標は、サルトルに方法を与えました。小説という形式は、議論なら述べることしかできないものを、見せることを可能にします。この小説は[サルトル](/ai-discussions/articles/jean-paul-sartre/)の哲学的な歩みの出発点にあたり、むき出しの物と向き合う意識というその像は、のちに[メルロ＝ポンティ](/ai-discussions/articles/merleau-ponty-and-sartre/)が意識と世界のあいだに身体を置くことで問い直すことになります。
+偶然性は、それを語る哲学をもつよりずっと前から、サルトルのとりつかれた主題でした。学生時代には偶然性についての覚え書きを書き、それを自分の「ファクトゥム」と呼んでいます。小説はこの覚え書きから生まれ、ル・アーヴルで哲学を教えていた1930年代に、いくつもの草稿を経て形になりました。1933〜34年にはベルリンでフッサールの現象学を学び、午前にフッサールを読み、午後に小説を書いていました。最初の版はフッサールとの出会いより前に書かれているため、現象学が[小説を形づくったのか、それとも両者が合流したのか](https://www.cambridge.org/core/product/identifier/CBO9781139020206A013/type/BOOK_PART)については研究者の意見が分かれます。それでも、意識に現れるままに物を記述するという現象学の目標は、サルトルに方法を与えました。小説という形式は、議論なら述べることしかできないものを、見せることを可能にします。この小説は[サルトル](/articles/jean-paul-sartre/)の哲学的な歩みの出発点にあたり、むき出しの物と向き合う意識というその像は、のちに[メルロ＝ポンティ](/articles/merleau-ponty-and-sartre/)が意識と世界のあいだに身体を置くことで問い直すことになります。
 
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
@@ -45,7 +45,7 @@ Sartre first called the book *Melancholia*, after Dürer's engraving. Gallimard 
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
 <li><a href="https://www.universalis.fr/encyclopedie/la-nausee/">La Nausée (Encyclopædia Universalis)</a> — French reference entry on the novel's composition and themes.<span class="ja">小説の成り立ちと主題を扱うフランスの事典項目。</span></li>
-<li><a href="https://www.wikipedia.com/wiki/Nausea_(Book)">Nausea (novel) (Wikipedia)</a> — Overview of plot, characters and publication.<span class="ja">筋、登場人物、刊行の経緯の概説。</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Nausea_(novel)">Nausea (novel) (Wikipedia)</a> — Overview of plot, characters and publication.<span class="ja">筋、登場人物、刊行の経緯の概説。</span></li>
 </ul>
 </aside>
 
@@ -101,7 +101,7 @@ Much of *Being and Nothingness* (1943) can be read as a theory of what Roquentin
 <aside class="resources">
 <p class="resources-label">Further resources · 関連資料</p>
 <ul>
-<li><a href="https://renodus.pages.dev/en/philosophy/works/nausea">Nausea (1938) (Renodus)</a> — Overview of the novel's key concepts: contingency, de trop, absurdity.<span class="ja">偶然性、ド・トロ、不条理といった小説の主要概念の概説。</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Contingency_(philosophy)">Contingency (philosophy) (Wikipedia)</a> — Overview of the philosophical idea of contingency that the novel dramatises.<span class="ja">この小説が描き出す、哲学的な概念としての偶然性の概説。</span></li>
 <li><a href="https://www.litcharts.com/lit/nausea/themes/existence-vs-essence">Existence vs. essence in Nausea (LitCharts)</a> — Theme guide connecting the novel to the later formula.<span class="ja">小説とのちの定式を結びつける主題別ガイド。</span></li>
 </ul>
 </aside>
