@@ -39,21 +39,13 @@ function splitTitle(title: string): { en: string; ja: string } {
         <span class="title-en">AI Discussions</span>
         <span class="title-ja">AIとの対話</span>
       </h1>
-      <p class="tagline">
-        Short bilingual essays that grow out of an ongoing conversation — about art, history, science, ideas, or whatever comes up. Search by idea in the bar above,
-        pick a topic below, or browse the <a href={`${base}/chronology`}>chronology</a>,
-        <a href={`${base}/people`}>people</a>, and <a href={`${base}/keyword`}>keywords</a>.
-        See our <a href={`${base}/policy`}>editorial policy</a> and <a href={`${base}/style`}>writing style</a>.
-      </p>
-      <div class="ai-note">
-        <p>This site grows out of a conversation. A human asks questions — often about art, but on any subject; an AI answers them after researching on the web, and turns what it finds into pages here — writing new ones or revising the ones that already exist. When the human disagrees or pushes back, the AI researches again and the pages change with it.</p>
-        <p>Every page is written by AI under human supervision. Machine-written text carries familiar flaws: blunt assertions, puffery, logical leaps, and a habit of repeating the majority view as though it were the whole story. Questioning those habits is a large part of what the conversation is for.</p>
-        <p>Like any written account, these essays can carry mistakes, biases, and particular points of view. Read them as a starting point, not the final word.</p>
-        <p>The collection also includes the essays of its sister site, Art and World History: decade-by-decade overviews of art and history from 1900 to 2020 and essays on individual artists. Although we aim for broad, global perspectives, those essays lean toward Western and Japanese history. That reflects the reach and knowledge of the human editors, not a judgement about what matters most.</p>
-        <p class="ai-note-ja">このサイトは、ひとつの対話から生まれています。人間が問いを投げかけ（芸術についてのことが多いものの、主題は限りません）、AIはウェブで調べたうえで答え、わかったことをここのページにまとめます。新しいページを書くこともあれば、すでにあるページを書き直すこともあります。人間が異を唱えたり問い返したりすれば、AIはもう一度調べ、ページもそれに合わせて変わっていきます。</p>
-        <p>すべてのページは、人間の監修のもとでAIが執筆しています。機械が書いた文章には、断定的な物言いや誇張、論理の飛躍、そして多数派の見方をそれがすべてであるかのように繰り返す癖といった、おなじみの欠点があります。そうした癖を問い直すことが、この対話の大きな目的のひとつです。</p>
-        <p>あらゆる記述と同じように、これらの文章は誤りや偏り、特定の視点を含むことがあります。最終的な結論ではなく、出発点としてお読みください。</p>
-        <p>このサイトには、姉妹サイト「芸術と世界史」のエッセイも収めています。1900年から2020年までの美術と歴史を十年ごとに概観するエッセイと、個々の作家についてのエッセイです。できるだけ広く世界的な視点を目指していますが、これらのエッセイは西洋と日本の歴史に偏っています。これは人間の編集者の知識と及ぶ範囲によるもので、何が重要かを判断した結果ではありません。</p>
+      <div class="intro">
+        <p>This site grows through an ongoing conversation. A person asks questions, and an AI researches the web, responds, and turns what it finds into pages here. As the conversation unfolds, the AI creates new pages and revises existing ones. When the person disagrees or pushes back, the AI researches further, and the pages continue to evolve.</p>
+        <p>The AI writes and revises these pages under human supervision. AI-written text has familiar flaws: blunt assertions, puffery, leaps in logic, and a tendency to repeat majority views as though they were the whole story. Questioning these habits is an ongoing part of the conversation.</p>
+        <p>Like any written account, these essays may contain mistakes, biases, and particular points of view. As they continue to evolve, read them as a starting point, not the final word.</p>
+        <p class="intro-ja" lang="ja">このサイトは、続いていく対話を通じて育っていきます。人が問いを投げかけ、AIがウェブで調べて答え、見つけた情報をここにページとしてまとめます。対話が続くなかで、AIは新しいページを作り、既存のページを改訂します。人が異議を唱えたり、問い返したりすると、AIはさらに調査し、ページも変わり続けます。</p>
+        <p lang="ja">ページは人の監修のもとでAIが執筆・改訂しています。AIが書く文章には、おなじみの欠点があります。断定的な言い回しや誇張、論理の飛躍、そして多数派の見解をあたかも全体像であるかのように繰り返す傾向です。こうした傾向を問い直すことも、この対話の大切な一部です。</p>
+        <p lang="ja">あらゆる文章と同じく、これらのエッセイにも誤りや偏り、特定の視点が含まれることがあります。変わり続ける文章を、最終的な答えではなく、出発点としてお読みください。</p>
       </div>
       <div class="chips">
         {TOPICS.map((t) => (
@@ -166,21 +158,10 @@ function splitTitle(title: string): { en: string; ja: string } {
   .page-title { font-size: 3rem; font-weight: 300; letter-spacing: -0.03em; line-height: 1.15; }
   .page-title .title-en, .page-title .title-ja { display: block; }
   .page-title .title-ja { margin-top: 0.25em; font-size: 1.4rem; color: var(--fg-muted); }
-  .tagline { color: var(--fg-muted); margin-top: 1.1rem; font-size: 0.95rem; line-height: 1.7; }
-  .tagline a { color: var(--fg-muted); text-decoration: underline; }
-  .tagline a:hover { color: var(--fg); }
-
-  .ai-note {
-    margin-top: 1.5rem;
-    padding-left: 0.9rem;
-    border-left: 2px solid var(--border);
-    font-size: 0.8rem;
-    line-height: 1.6;
-    color: var(--fg-muted);
-  }
-  .ai-note p { margin: 0; }
-  .ai-note p + p { margin-top: 0.6rem; }
-  .ai-note .ai-note-ja { margin-top: 1.1rem; }
+  .intro { margin-top: 1.25rem; color: var(--fg); line-height: 1.7; }
+  .intro p { margin: 0; }
+  .intro p + p { margin-top: 0.9rem; }
+  .intro .intro-ja { margin-top: 1.6rem; }
 
   .chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem; }
   .chip {
