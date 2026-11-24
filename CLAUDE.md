@@ -133,12 +133,16 @@ Pages are shaped by the questions asked, so there is no fixed template. Still: *
 prominent figures and their key works** (with years), explain *why* one thing led to another,
 and — where the topic allows — reach beyond the Western canon (Japan and other regions; for art,
 design, architecture, film, music, manga/anime; for science and ideas, non-Western traditions) per the Editorial Policy's breadth section. Overview
-pages put "driving forces & connections" near the top, next to the summary.
+pages put a section on the **driving forces and connections** near the top, next to the summary:
+what caused the developments the essay describes, and how the topic links to other fields and pages.
+**Name that section after its actual content**, not with the generic label "Driving forces and
+connections" — e.g. "Photography, the city, and the inner life", "Why complexity became a science",
+"Expertise and democracy" — with a matching natural Japanese heading.
 
 **Decade and history/art overview essays** (the format inherited from Art and World History —
 `art-1900s` … `art-2010s`, `history-1900s` … `history-2010s`, and the two 1900–2020 overviews):
 each section calls out the canonical textbook events; Japan; other noteworthy events; driving
-forces & connections; and science/technology/philosophy/music/pop culture. **Art essays also**
+forces & connections (in a section named for its content, as above); and science/technology/philosophy/music/pop culture. **Art essays also**
 cover design, architecture, music, film, and manga/anime, and **name prominent figures and their
 key works** in each section. When you edit one of these merged essays, keep that structure, and
 follow the current `style.md` (including the "Natural Japanese" rules) for any text you touch.

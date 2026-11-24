@@ -13,8 +13,8 @@ The 1960s were a decade of upheaval, in which a rising postwar generation challe
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## A generation against inherited authority
+## 受け継がれた権威に抗う世代
 
 A large, educated, affluent postwar generation — the baby boomers — provided the human energy for the decade's movements, amplified by television, which brought Vietnam, civil rights marches, and protests into living rooms worldwide. The Cold War set the stakes, but the era's defining dynamic was a broad revolt against inherited authority, linking anti-war, civil rights, feminist, and anti-colonial struggles into a shared spirit of liberation.
 

@@ -13,8 +13,8 @@ The people we now call philosophers, scientists, engineers, and artists were not
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Money, institutions, and new tools
+## 資金、制度、新しい道具
 
 Roles followed institutions and money. Who paid for knowledge — churches, princes, merchants, states, or companies — shaped what kind of knower was valued. New tools also redrew the lines. The printing press let craftsmen publish; the telescope and microscope made instrument-makers essential; the steam engine and electricity made engineers powerful; photography pushed painters away from recording appearances; and computers blurred the line between making tools and doing research. Practical technology often came before the science that explained it, so the old ranking of theory above craft repeatedly turned out to be misleading.
 

@@ -13,8 +13,8 @@ topics: ["anti-intellectualism", "expertise", "politics", "science-communication
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Expertise and democracy
+## 専門知と民主主義
 
 The word keeps returning whenever expertise and democracy pull in different directions. Modern societies depend on specialists — scientists, economists, doctors, lawyers — whose reasoning most citizens cannot check for themselves. Democracies, meanwhile, give every citizen an equal vote. When experts are seen as a closed class whose advice serves itself, or whose errors fall on other people, distrust of "intellect" becomes a way of expressing distrust of power. That is why debates about anti-intellectualism are rarely only about knowledge. They are also about class, religion, region, and who gets to speak for whom.
 

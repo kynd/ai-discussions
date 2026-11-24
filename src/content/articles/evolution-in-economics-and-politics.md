@@ -13,8 +13,8 @@ Evolutionary theory and social thought have borrowed from each other from the st
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## A theory for an age of competition
+## 競争の時代に現れた理論
 
 Darwin's theory arrived in an age of industrial competition, empire, and anxiety about poverty and population. Its vocabulary — struggle, fitness, selection — sounded like a description of that world, so it was easy to read social arrangements as natural ones. Historians stress that the borrowing ran in both directions, and that most "social Darwinist" ideas drew as much on Herbert Spencer and on Lamarckian inheritance as on Darwin's own theory. A recurring critique, made by Thomas Henry Huxley in 1893 and by many since, is that what happens in nature does not tell us what ought to happen in society.
 

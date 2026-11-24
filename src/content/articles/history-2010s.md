@@ -13,8 +13,8 @@ The 2010s were the decade in which the digital transformation became total — s
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## Connection and division
+## つながりと分断
 
 The decade's central paradox was that unprecedented connection produced deepening division. Social media, designed to link people, also amplified misinformation, outrage, and political polarization, while globalization's uneven benefits fed a backlash that powered populist and nationalist movements. Simultaneously, the relative decline of Western dominance and the rise of an assertive China shifted the world toward a more contested, multipolar order — with climate change looming as the shared crisis all would eventually have to face.
 

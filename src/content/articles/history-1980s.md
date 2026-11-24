@@ -13,8 +13,8 @@ The 1980s saw the Cold War reach its climax and sudden thaw, alongside a global 
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## Neoliberalism and Soviet exhaustion
+## 新自由主義とソ連の疲弊
 
 Two great forces defined the decade. First, the neoliberal turn — a response to the 1970s' stagflation — reshaped economies toward markets, deregulation, and globalization. Second, the internal exhaustion of the Soviet system, unable to match Western economic dynamism or sustain its arms spending, led Gorbachev to reforms that, combined with popular pressure, brought the whole edifice down. Together these forces set the stage for a globalized, market-oriented post–Cold War world.
 

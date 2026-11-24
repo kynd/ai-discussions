@@ -13,8 +13,8 @@ Complexity science draws on several distinct theories, each built around a diffe
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## From separate fields to shared patterns
+## 別々の分野から共通のパターンへ
 
 Most of these theories began in one field and were then generalised. Chaos came from celestial mechanics and weather; self-organization from chemistry and developmental biology; network science from mathematics and sociology; criticality from the physics of phase transitions; adaptive systems from computer science and evolutionary biology. What links them is a shift in focus from the properties of individual parts to the pattern of interactions among them, and a reliance on computers to explore what equations cannot solve. Many important results are therefore about *classes* of systems — any system with a certain structure will show a certain kind of behaviour — which is what allows a single model to apply, at least loosely, to very different things.
 

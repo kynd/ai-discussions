@@ -13,8 +13,8 @@ A complex system is made of many parts whose interactions produce behaviour that
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Why complexity became a science
+## 複雑さが科学の対象になった理由
 
 Three things pushed complexity onto the scientific agenda. The first was the limits of reductionism: physics had been extremely successful at explaining things by breaking them into parts, but biology, economics, and society did not yield to that approach. The second was war and engineering. Wartime work on radar, gunfire control, and communication raised general questions about feedback, control, and information. The third was the computer, which let researchers watch simple rules play out over millions of steps and see patterns no one had predicted. Throughout its history, complexity science has borrowed concepts across fields — "attractors" from mathematics, "phase transitions" from physics, "adaptation" from biology — and this borrowing is both its strength and the source of criticism.
 

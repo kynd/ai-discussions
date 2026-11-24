@@ -13,8 +13,8 @@ Ilya Prigogine (1917–2003) was a Russian-born Belgian physical chemist who sho
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## The puzzle of order in a running-down universe
+## 衰えゆく宇宙のなかの秩序という謎
 
 Prigogine's work answered a long-standing puzzle. The second law of thermodynamics, formulated in the nineteenth century, says that the entropy of an isolated system tends to increase, which suggested a universe running down toward disorder. Darwinian evolution and the development of organisms, by contrast, showed order and complexity increasing. Prigogine's teacher Théophile de Donder had begun to extend thermodynamics to irreversible processes, and Lars Onsager's work of the 1930s described systems slightly out of equilibrium. Prigogine pushed the theory into the far-from-equilibrium region, where linear approximations fail. His results became one of the foundations of the study of [complex systems](/articles/complex-systems/), alongside chaos theory and Hermann Haken's synergetics, and of the broader idea of [self-organisation and emergence](/articles/complex-systems-key-theories/). His later writing on time drew him into philosophy, where his claims raised questions about how far [models abstract from reality](/articles/complex-systems-models-and-reality/).
 

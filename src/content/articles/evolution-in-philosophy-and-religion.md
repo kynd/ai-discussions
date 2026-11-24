@@ -13,8 +13,8 @@ Darwin's theory challenged two old assumptions: that species are fixed kinds, an
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Design, essence, and different traditions
+## 設計、本質、さまざまな伝統
 
 Two features of Darwin's theory had philosophical weight. First, natural selection explains adaptation without a designer, which undercut the argument from design made famous by William Paley's *Natural Theology* (1802). Second, it treats species as populations that vary and change, not as fixed essences. Both ideas met very different cultures. Where religious authority rested on a literal reading of Genesis, the theory looked like a direct threat. In traditions that did not depend on a single creation story, such as Buddhism and Shinto in Japan, it was absorbed with less conflict.
 

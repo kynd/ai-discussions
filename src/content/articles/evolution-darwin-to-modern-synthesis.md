@@ -13,8 +13,8 @@ Charles Darwin and Alfred Russel Wallace proposed in 1858 that species change th
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Evidence, borrowed ideas, and heredity
+## 証拠、借りてきた考え、遺伝
 
 Three things pushed the theory forward. The first was evidence: fossils, the geographic spread of species, and the breeding of domestic animals all needed explaining. The second was ideas borrowed from other fields — geology's deep time from Charles Lyell, and the economist Thomas Malthus's argument that populations outgrow their food. The third was heredity. Every major turn in the story, from the "eclipse of Darwinism" to the synthesis, came from a change in how people understood inheritance.
 

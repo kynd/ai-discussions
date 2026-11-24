@@ -13,8 +13,8 @@ The 1940s were dominated by the Second World War, the deadliest conflict in huma
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## Total war and the world it remade
+## 総力戦と、それが作り変えた世界
 
 Fascist aggression and the failure of the 1930s to contain it made the war; the war's scale and technology then remade the world. The conflict bankrupted the European empires and accelerated decolonization; it produced the atomic bomb and thus the nuclear age; and it left the US and USSR as the only powers standing, their rival ideologies and security fears hardening into the Cold War almost immediately. The determination to prevent another such catastrophe drove the creation of the UN and new international institutions.
 

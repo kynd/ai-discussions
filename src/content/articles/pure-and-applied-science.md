@@ -13,8 +13,8 @@ Several overlapping terms separate knowledge pursued for its own sake from knowl
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## How the ranking was built
+## 序列はどう作られたか
 
 The vocabulary grew with the institutions. The old Greek division between *episteme* (knowledge of causes) and *techne* (craft) gave the ranking its first shape. In the nineteenth century, universities, technical schools, and research laboratories turned it into separate departments, degrees, and careers, and the phrase "pure science" became a banner for researchers who wanted independence and prestige apart from industry. In the twentieth century, governments needed a way to justify paying for research with no immediate use, and the idea that basic research flows naturally into technology served that purpose. The terms therefore carry status and funding claims as well as descriptions of method.
 

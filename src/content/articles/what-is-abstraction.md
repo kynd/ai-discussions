@@ -13,8 +13,8 @@ To abstract is, literally, to draw something away: to attend to some features of
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Where abstraction is needed
+## 抽象が必要になる場面
 
 Abstraction is needed wherever many particular things must be handled with limited attention. Language itself abstracts: the word "dog" covers countless different animals. [Mathematics](/articles/abstraction-in-mathematics/) developed abstraction most systematically. Science abstracts in its [models](/articles/complex-systems-models-and-reality/), leaving out features judged irrelevant. [Visual art](/articles/abstraction-in-visual-art/) uses the word for painting that does not depict objects, and [music](/articles/music-and-abstraction/) for sound that refers to nothing. Engineering, and especially computing, turned abstraction into a design discipline in the 1970s. Across these fields, the words "abstract" and "concrete" keep [trading places](/articles/abstract-and-concrete/).
 

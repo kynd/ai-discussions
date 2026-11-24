@@ -75,11 +75,11 @@ Choose the plainer word — *applied* over *laid down*, *records* over *register
 ## Headings name their topic
 ## 見出しは主題を名指す
 
-Headings are plainly descriptive. No label prefixes (*Method:*) and no evocative images (*The camera at his back*) — write *Light, not the thing* and *Painting and photograph*.
+Headings are plainly descriptive. No label prefixes (*Method:*) and no evocative images (*The camera at his back*) — write *Light, not the thing* and *Painting and photograph*. This applies to the section near the top of overview essays that explains the driving forces and connections: keep the section, but name it for what it actually says — *Photography, the city, and the inner life*, *Why complexity became a science* — rather than with a generic label such as *Driving forces and connections*.
 
 <!-- -->
 
-見出しは、平明に主題を説明するものにします。ラベルの接頭辞（「方法：」）も、喚起的なイメージ（「背後のカメラ」）も使いません。「事物ではなく、光を」「絵画と写真」のように書きます。
+見出しは、平明に主題を説明するものにします。ラベルの接頭辞（「方法：」）も、喚起的なイメージ（「背後のカメラ」）も使いません。「事物ではなく、光を」「絵画と写真」のように書きます。概説的なエッセイの冒頭近くに置く、推進力とつながりを説明する節にも、これを当てはめます。節そのものは残しつつ、「推進力とつながり」のような決まりきった名前ではなく、「写真、都市、内面」「複雑さが科学の対象になった理由」のように、実際に述べている内容で名づけます。
 
 ---
 

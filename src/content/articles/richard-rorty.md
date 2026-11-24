@@ -32,8 +32,8 @@ Rorty's main point can be put simply. Philosophers have long hoped to find a bed
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Analytic philosophy, Continental thought, and pragmatism
+## 分析哲学、大陸哲学、プラグマティズム
 
 Rorty's work sits where three currents meet. The first is analytic philosophy of language, in which he was trained, and especially its internal critics — Wilfrid Sellars, W. V. O. Quine, and Donald Davidson — who had questioned the idea of facts given directly to the mind. The second is the European tradition of Heidegger, Hans-Georg Gadamer, and Jacques Derrida, which most American philosophers of his generation ignored. The third is the pragmatism of William James and Dewey, which he believed analytic philosophy had wrongly forgotten. Behind all three lies a Darwinian picture: human beings are clever animals, and language is one of the tools they evolved to cope with their surroundings. His politics came from his family's anti-Stalinist socialism.
 

@@ -13,8 +13,8 @@ For most of history there was no line between philosophy and science. From ancie
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Why philosophy and science stayed together
+## 哲学と科学が一つであり続けた理由
 
 Three things kept philosophy and the study of nature together for so long. First, the questions overlapped: asking what the world is made of led directly to asking what we are, how we can know, and how we should live. Second, the tools were the same — careful reasoning, argument, and observation without instruments that could extend or test the senses very far. Third, knowledge was organised around authoritative texts, whether Aristotle, the Bible, the Qur'an, or the Confucian classics, so new claims were usually framed as commentaries. The split came when new instruments (the telescope, microscope, and air pump), new institutions (scientific societies and journals), and printing made it possible for groups of people to check each other's results directly, without going through a text.
 

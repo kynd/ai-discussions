@@ -13,8 +13,8 @@ Modern AI systems represent words, sentences, images and documents as "embedding
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Why embeddings became central
+## 埋め込みが中心になった理由
 
 Three things made embeddings central to AI. Computers needed a way to represent words that captured similarity, which earlier methods of treating each word as an unrelated symbol could not do. Huge collections of digital text made it possible to learn such representations from patterns of use. And fast hardware made nearest-neighbour search over millions of vectors practical. The mathematics behind them is the general idea of [a distance](/articles/what-is-a-distance/): once objects are points in a space with a metric or similarity measure, "similar" becomes "nearby". This is a striking case of [abstraction](/articles/what-is-abstraction/), in which meaning is reduced to position. It also connects to debates about whether AI systems that work this way [understand anything](/articles/ai-desire-and-consciousness/), and to [complex systems](/articles/complex-systems-models-and-reality/) questions about what a model leaves out.
 

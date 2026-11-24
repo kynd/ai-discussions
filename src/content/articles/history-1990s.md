@@ -13,8 +13,8 @@ The 1990s opened with the collapse of the Soviet Union and the apparent triumph 
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## After the Cold War: globalization and new conflicts
+## 冷戦の後 — グローバル化と新たな紛争
 
 The Soviet collapse removed the century's organizing conflict, and in its absence globalization surged: trade, capital, and culture flowed across a world increasingly integrated by policy and technology. But the end of the Cold War also unfroze suppressed ethnic and nationalist tensions, producing the decade's wars. Beneath it all, the digital revolution began compounding — the same connectivity that powered globalization was laying the infrastructure for a transformation still unfolding.
 

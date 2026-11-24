@@ -13,8 +13,8 @@ Maurice Merleau-Ponty and Jean-Paul Sartre were classmates at the École Normale
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Shared sources, different emphases, and the Cold War
+## 共通の源泉、力点の違い、冷戦
 
 Three things shaped the relationship. The first was a shared philosophical inheritance: both read Husserl and Heidegger in the 1930s and wanted to describe concrete human existence rather than build abstract systems. The second was a difference of emphasis that grew into a difference of doctrine. Sartre, trained by literature and by a Cartesian sense of consciousness, stressed choice and rupture; Merleau-Ponty, trained by psychology and Gestalt theory, stressed continuity, the body and ambiguity. The third was the Cold War, which forced intellectuals at *Les Temps modernes* to take positions on the Soviet Union, the Korean War and the French Communist Party. The same pressures ended [Sartre](/articles/jean-paul-sartre/)'s friendship with Albert Camus in 1952. The philosophical side of the quarrel still matters today, because [Merleau-Ponty](/articles/maurice-merleau-ponty/)'s account of the body became a foundation for embodied cognitive science.
 

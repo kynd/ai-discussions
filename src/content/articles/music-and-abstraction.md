@@ -13,8 +13,8 @@ Music is often called the most abstract art because its sounds do not depict thi
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Romanticism, painting, and the recording studio
+## ロマン主義、絵画、録音スタジオ
 
 Several forces shaped how people describe music as abstract. In the early nineteenth century, German Romantic writers raised instrumental music above vocal music, and philosophers such as Schopenhauer gave it a special metaphysical status. Around 1900, painters looking for a way out of depiction found in music a model of an art made of pure relations of colour and form. After 1945, recording and broadcasting technology let composers work directly with sound rather than notation, and studios at French and German radio, and later at NHK in Tokyo, became laboratories. From the late twentieth century, experimental psychology and cross-cultural fieldwork began to test which parts of musical experience are shared by all humans and which are learned. These threads connect music to [abstraction in visual art](/articles/abstraction-in-visual-art/) and to the wider question of what [abstraction](/articles/what-is-abstraction/) means.
 

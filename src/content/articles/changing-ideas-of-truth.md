@@ -13,8 +13,8 @@ For most of Western history, truth was understood as a match between what we say
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Truth and the authority over knowledge
+## 真理と、知をめぐる権威
 
 Each shift in thinking about truth followed a change in who held authority over knowledge. When the church's authority weakened in the sixteenth and seventeenth centuries, philosophers looked for a new foundation every individual could check. When experimental science succeeded spectacularly, philosophers tried to describe its method so that other fields could copy it. When science itself was revolutionised — by non-Euclidean geometry, relativity, and quantum mechanics around 1900 — it became clear that even the best-established theories could be replaced, which unsettled the idea of final truth. And when science became tied to states, industry, and war in the twentieth century, historians and sociologists began to study it as a human institution. Each stage left something behind, so that today several ideas of truth coexist.
 

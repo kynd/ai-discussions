@@ -13,8 +13,8 @@ Since the 1950s, evolutionary biology has been reshaped by molecules, genomes, a
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Sequencing, computing, and controversy
+## 配列解読、計算機、論争
 
 New tools drove most of the change. Protein sequencing in the 1960s, DNA sequencing from the late 1970s, and cheap whole-genome sequencing after the Human Genome Project (completed in 2003) made it possible to compare species directly at the level of their genes. Computing made population genetics models testable. At the same time, disputes about human behaviour — sociobiology in the 1970s, evolutionary psychology after — linked technical questions about selection to politics, which made some of these debates unusually heated.
 

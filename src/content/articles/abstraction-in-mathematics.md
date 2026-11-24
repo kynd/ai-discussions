@@ -13,8 +13,8 @@ In mathematics, abstraction usually means keeping only the features that matter 
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Problems that pushed mathematics toward abstraction
+## 数学を抽象へと押し進めた問題
 
 Each wave of abstraction answered a practical problem inside mathematics. When too many separate cases had to be solved one by one, mathematicians looked for what they shared. When intuition about space proved unreliable, as with non-Euclidean geometry, they turned to axioms. When different fields turned out to use the same arguments, they named the common structure. Institutions mattered too: the German research universities around Göttingen in the early twentieth century, the French Bourbaki group from 1935, and postwar American mathematics spread the structural style. A recurring tension runs through the story — between mathematicians who prize generality and those who prize concrete computation and examples.
 

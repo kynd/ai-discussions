@@ -13,8 +13,8 @@ The 2000s were defined by the September 11 attacks and the "War on Terror" they 
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## The war on terror, the financial crisis, and new powers
+## 対テロ戦争、金融危機、新たな力
 
 Two dynamics dominated. Geopolitically, 9/11 redirected American power toward the Middle East for a generation, with costly and destabilizing consequences. Economically, cheap credit and financial deregulation inflated a housing bubble whose collapse in 2008 exposed the fragility of a globally interconnected financial system. Beneath both, the twin rises of China and of digital technology were steadily redistributing economic and communicative power.
 

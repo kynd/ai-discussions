@@ -13,8 +13,8 @@ The 1930s were shaped by the Great Depression, the worst economic collapse in mo
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## Depression and the road to war
+## 恐慌と戦争への道
 
 Economic collapse was the master cause: the Depression radicalized politics everywhere, made aggressive nationalism attractive, and left democracies too weakened and divided to confront rising dictators. The failure of the League of Nations and the policy of appeasement allowed Germany, Italy, and Japan to expand incrementally, each success emboldening the next. Ideological polarization — fascism versus communism versus liberal democracy — turned local conflicts like Spain's into global proxy struggles.
 

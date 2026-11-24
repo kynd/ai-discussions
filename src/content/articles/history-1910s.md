@@ -13,8 +13,8 @@ The 1910s were dominated by the First World War (1914–1918), a catastrophe tha
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## Alliances, war, and revolution
+## 同盟、戦争、革命
 
 Rigid alliance systems, militarized nationalism, and industrial arms races turned a regional crisis into a global war. The war then acted as an accelerant: it toppled the Russian, German, Austro-Hungarian, and Ottoman empires; it drew in colonial troops and raised anti-colonial expectations; and its punitive settlement created the grievances that fascism would later exploit. The Russian Revolution, itself a product of wartime collapse, split the century's politics into capitalist and communist camps.
 

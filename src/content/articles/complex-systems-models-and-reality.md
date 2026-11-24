@@ -13,8 +13,8 @@ Complexity science works mainly through models: simplified mathematical or compu
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Why the question became urgent
+## なぜこの問いが切実になったのか
 
 The question of how models relate to reality became pressing because complexity models moved from the laboratory into policy. Models of the world economy, climate, epidemics, and financial markets are used to justify decisions that affect millions of people, and they are often run by specialists whose assumptions outsiders cannot easily inspect. At the same time, the computer made it cheap to build models with many parts and adjustable settings, which can be tuned to reproduce almost any past data. These pressures turned old philosophical questions — about maps and territories, explanation and prediction, reduction and emergence — into practical ones.
 

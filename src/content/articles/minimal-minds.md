@@ -13,8 +13,8 @@ Where does mind begin? A bacterium swims toward sugar and away from poison, adju
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Cells, animal welfare, and theories of consciousness
+## 細胞、動物福祉、意識の理論
 
 Three developments brought these questions to the fore. Molecular biology revealed how much information processing goes on inside single cells. Animal welfare law and ethics, especially for farmed animals and laboratory research, needed some way to decide which animals can suffer. And the study of consciousness in humans produced theories that could, at least in principle, be applied to other creatures. Each field faces the same difficulty: behaviour can be measured, but whether it is accompanied by experience cannot be observed directly, so every answer depends on which theory of consciousness one accepts.
 

@@ -13,8 +13,8 @@ Abstract art is usually defined as art that does not depict recognisable objects
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## What pushed painting away from depiction
+## 絵画を描写から遠ざけたもの
 
 Several forces pushed painting away from depiction. Photography, from the mid-nineteenth century, took over much of the job of recording appearances. Theories of art from Maurice Denis to Wilhelm Worringer gave reasons to value form and colour for their own sake. Spiritualist movements such as theosophy encouraged artists like Hilma af Klint, Kandinsky and Mondrian to look for an invisible reality behind appearances. [Music](/articles/music-and-abstraction/) offered a model of an art made of pure relations. After 1945, abstraction became an international language of modernism, promoted in part during the Cold War as a sign of Western freedom, and it travelled quickly through magazines and photographs, reaching Japan, Brazil and elsewhere, where artists used it for their own purposes. The later turn to materials connects with the [paradox of the abstract and the concrete](/articles/abstract-and-concrete/).
 

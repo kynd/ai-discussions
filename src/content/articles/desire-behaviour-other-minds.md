@@ -13,8 +13,8 @@ We never observe another being's desires or experiences directly. We infer them 
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## From souls to behaviour
+## 魂から行動へ
 
 The questions sharpened as science moved from studying souls to studying behaviour. In the early twentieth century, psychologists wanted a discipline as objective as physics, so they set aside unobservable inner states. Economists faced a similar problem with "utility", which no one can measure directly. Meanwhile, engineers building guided weapons and control systems found that machines could pursue goals, which forced the question of what "purpose" means. Each field arrived at a behavioural or functional definition of mental words, and each left the inner, felt side of the mind unexplained. Computers, and later machine learning, brought these older debates together.
 

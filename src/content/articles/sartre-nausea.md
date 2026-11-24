@@ -13,8 +13,8 @@ topics: ["philosophy", "existentialism", "literature", "contingency"]
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Contingency, Husserl, and the novel
+## 偶然性、フッサール、小説
 
 Contingency was Sartre's obsession long before he had a philosophy to frame it. As a student he wrote notes on contingency, which he called his "factum", and the novel grew out of them through several drafts in the 1930s while he taught philosophy in Le Havre. In 1933–34 he studied Husserl's phenomenology in Berlin, reading Husserl in the mornings and working on the novel in the afternoons. Scholars disagree whether phenomenology [shaped the novel or converged with it](https://www.cambridge.org/core/product/identifier/CBO9781139020206A013/type/BOOK_PART), since the first version predates his contact with Husserl, but phenomenology's aim of describing things as they appear to consciousness gave him a method. Fiction allowed him to show what an argument could only state. The novel stands at the start of [Sartre](/articles/jean-paul-sartre/)'s philosophical path, and its picture of a mind facing brute things is one that [Merleau-Ponty](/articles/merleau-ponty-and-sartre/) later questioned by placing the body between consciousness and the world.
 

@@ -13,8 +13,8 @@ Jean-Paul Sartre (1905–1980), born Jean-Paul Charles Aymard Sartre, was a Fren
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Phenomenology, war, and commitment
+## 現象学、戦争、アンガジュマン
 
 Sartre's philosophy grew from German phenomenology, which he studied in Berlin in 1933–34: Edmund Husserl's method of describing experience exactly as it appears, and Martin Heidegger's analysis of human existence. He combined these with a French tradition of the philosopher as a writer of novels and plays. The war gave his ideas their weight. Defeat in 1940, captivity, and occupation made questions about choice, complicity, and responsibility concrete for a whole generation. After 1945 the Cold War, the collapse of European empires, and the wars in Algeria and Vietnam pushed him to ask what freedom means for people whose situation is shaped by class and colonial rule. That question drove his turn to Marxism.
 

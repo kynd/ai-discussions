@@ -13,8 +13,8 @@ Modern AI systems, especially large language models, often talk and act as if th
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## From thought experiment to practical question
+## 思考実験から現実の問いへ
 
 For most of the history of computing, the question of machine minds was a thought experiment. Two changes made it practical. Systems trained by reinforcement learning pursue goals in ways that resemble wanting, and their designers describe them in terms of rewards, preferences, and values. Language models, trained to predict human text, produce fluent first-person speech about wants and feelings. Meanwhile, the science of consciousness matured enough to offer candidate theories, and animal-welfare research developed methods for acting under uncertainty about other minds. These developments brought old philosophical arguments into contact with engineering and policy.
 

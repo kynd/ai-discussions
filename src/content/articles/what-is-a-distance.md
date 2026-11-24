@@ -13,8 +13,8 @@ In everyday life, distance is the length of a straight line between two points. 
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## From the nearness of functions to every field
+## 関数の近さから、あらゆる分野へ
 
 The abstract idea of distance grew out of a practical need. Around 1900, mathematicians studying functions wanted to say when one function was "close to" another, so that they could talk about limits and convergence in spaces whose points are curves rather than locations. Fréchet saw that only a few properties of ordinary distance were needed for this, and Hausdorff's influential book made them standard. The same move later served computing, coding theory, biology and statistics, each of which needed its own notion of nearness. The story is a good example of [abstraction in mathematics](/articles/abstraction-in-mathematics/): keep only what matters, and one definition covers many cases. It also connects to [distance in physics](/articles/distance-in-physics/), where relativity changed what distance between events means, and to [distance in AI](/articles/distance-in-ai-embeddings/), where meaning itself is measured as nearness in a space of numbers.
 

@@ -13,8 +13,8 @@ topics: ["abstraction", "philosophy", "art", "music"]
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Why the words keep trading places
+## なぜ二つの言葉は入れ替わるのか
 
 The reversals have a common cause: "abstract" always implies a reference point, the thing from which something has been drawn away, and different movements chose different reference points. When the reference point was the visible world, non-depicting painting was abstract; when it became the physical painting, the same painting was concrete. When the reference point was the written score, recorded sound was concrete; when it became the sound's source and meaning, "reduced listening" was abstract. Philosophers made the same move about knowledge itself. The reversals run through [philosophy](/articles/what-is-abstraction/), [mathematics](/articles/abstraction-in-mathematics/), [visual art](/articles/abstraction-in-visual-art/) and [music](/articles/music-and-abstraction/).
 

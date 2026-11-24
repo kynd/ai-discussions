@@ -13,8 +13,8 @@ Maurice Merleau-Ponty (1908–1961) was a French philosopher who placed the livi
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Between empiricism and intellectualism
+## 経験主義と主知主義のあいだ
 
 Merleau-Ponty worked between two dominant pictures of the mind. Empiricism treated perception as a collection of sensations; intellectualism, in the tradition of Descartes and Kant, treated it as the work of a judging mind. He argued that both miss the level at which we actually live: a bodily, pre-reflective grip on the world. Husserl's late writings on the "life-world" gave him a method, and Gestalt psychology and neurology gave him evidence. The shock of war and occupation, and the founding of *Les Temps modernes* with Sartre and Simone de Beauvoir in 1945, drew him into politics, where he moved from a qualified sympathy for communism to open criticism. His thought sits between postwar existentialism and the structuralism of the 1960s, and it connects to later work on [desire, behaviour, and other minds](/articles/desire-behaviour-other-minds/) and on [abstraction](/articles/what-is-abstraction/), since he held that abstract thought grows out of bodily perception.
 

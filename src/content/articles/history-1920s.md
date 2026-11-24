@@ -13,8 +13,8 @@ The 1920s were a decade of feverish energy and contradiction: postwar prosperity
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## The long shadow of the war
+## 戦争の長い影
 
 The war's aftermath drove nearly everything: reparations and debt destabilized economies, wartime disillusion fueled both hedonism and extremism, and the Russian Revolution's example radicalized politics left and right. American loans propped up the German economy in a chain of debt that would snap in 1929, transmitting the coming Depression worldwide. Fascism and communism both presented themselves as decisive alternatives to a liberal order that seemed unable to deliver stability.
 

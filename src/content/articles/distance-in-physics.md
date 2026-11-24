@@ -13,8 +13,8 @@ For most of history, physical distance was assumed to be Euclidean: space was a 
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## From absolute space to relativity
+## 絶対空間から相対性理論へ
 
 Two developments in the nineteenth century prepared the change. Non-Euclidean geometries, built by Lobachevsky, Bolyai and others, showed that Euclid's axioms are not logically necessary, and Riemann generalised geometry to spaces of any dimension with a variable measure of length. Meanwhile, electromagnetism implied that light always travels at the same speed, which clashed with Newton's absolute space and time. Einstein's special relativity (1905) resolved the clash by letting lengths and durations depend on the observer's motion, and Minkowski showed that a combined quantity stays the same for everyone. General relativity then used Riemann's mathematics to describe gravity. These ideas connect to the mathematical notion of [what a distance is](/articles/what-is-a-distance/), though the spacetime interval breaks several of its rules, and to [abstraction in mathematics](/articles/abstraction-in-mathematics/), where Riemannian geometry is a classic example of a theory built without physics in mind that later fitted nature.
 

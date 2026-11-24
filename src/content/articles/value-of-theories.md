@@ -13,8 +13,8 @@ Theories are often judged by what they let us do, but mathematicians and scienti
 
 ---
 
-## Driving forces and connections
-## 推進力とつながり
+## Public money and the question of use
+## 公的資金と有用性の問い
 
 The question of what theories are "for" sharpened as research came to depend on public money. In the nineteenth century, mathematicians defended pure work against those who wanted science to serve engineering and the state. In the twentieth, governments funded basic research on the promise that it would pay off in technology and defence, which put pressure on researchers to justify their work by its uses. At the same time, mathematicians and physicists kept describing their own experience in very different terms — beauty, wonder, understanding, play. The tension between these two ways of talking, public justification and private motivation, runs through all the arguments below.
 

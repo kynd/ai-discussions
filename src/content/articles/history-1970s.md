@@ -13,8 +13,8 @@ The 1970s marked the end of the postwar boom and a turn toward uncertainty. Oil 
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## Oil shocks and the end of the boom
+## 石油危機と好景気の終わり
 
 Cheap energy had powered the postwar boom; the oil shocks abruptly ended it, exposing the industrial world's dependence on Middle Eastern oil and shifting economic and geopolitical weight toward oil producers. Stagflation discredited the prevailing Keynesian consensus and opened the door to the free-market revival of the 1980s. Meanwhile the US–China opening and the Iranian Revolution revealed a world no longer neatly divided into two Cold War blocs.
 

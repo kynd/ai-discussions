@@ -13,8 +13,8 @@ The 1950s combined Cold War tension with a remarkable economic boom across the i
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## Cold War rivalry and the postwar boom
+## 冷戦の対立と戦後の好景気
 
 The Cold War framed global politics: nearly every regional conflict was read through the superpower rivalry, and both blocs courted the decolonizing world. Economically, postwar reconstruction, cheap energy, and pent-up demand produced a long boom that underwrote Western political stability and consumer culture. Sputnik linked the military, scientific, and ideological competitions into a single contest for prestige that would soon reach the Moon.
 

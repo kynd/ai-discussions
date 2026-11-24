@@ -13,8 +13,8 @@ The first decade of the twentieth century opened in an atmosphere of imperial co
 
 ---
 
-## Driving forces & connections
-## 駆動力とつながり
+## Empire, industry, and nationalism
+## 帝国、産業、ナショナリズム
 
 Imperial rivalry, industrial capacity, and nationalism were the era's engines. The same industrial might that produced prosperity also produced ever-larger armies and navies — Britain and Germany's naval arms race being the clearest example. Japan's victory over Russia showed that industrialization, not race or geography, now determined power, a lesson that fueled both nationalism and anti-colonial hope.
 
