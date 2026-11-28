@@ -57,10 +57,10 @@ function summaries(body) {
   if (i === -1) return { en: '', ja: '' };
   const en = cleanBlock(blocks[i]);
   let ja = '';
-  for (let j = i + 1; j < blocks.length; j++) {
-    if (blocks[j].startsWith('<!--')) continue; // skip the EN/JA separator
-    if (isProse(blocks[j])) ja = cleanBlock(blocks[j]);
-    break; // stop at the first block after the separator (JA, or a section break)
+  // Only a block after an explicit `<!-- -->` separator counts as the Japanese summary
+  // (English-only pages have none).
+  if (blocks[i + 1] && blocks[i + 1].startsWith('<!--') && isProse(blocks[i + 2] || '')) {
+    ja = cleanBlock(blocks[i + 2]);
   }
   return { en, ja };
 }

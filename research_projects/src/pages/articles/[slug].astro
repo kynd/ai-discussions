@@ -59,9 +59,9 @@ const updatedStr = fmtDate(doc.data.updated);
       </h1>
       {updatedStr && <p class="page-meta">Updated {updatedStr}</p>}
       <div class="fold-controls">
-        <span class="fold-hint">Tap a heading to open it · 見出しをタップすると開きます</span>
-        <button type="button" class="fold-all" data-open="1">Open all · すべて開く</button>
-        <button type="button" class="fold-all" data-open="0">Close all · すべて閉じる</button>
+        <span class="fold-hint">Tap a heading to open it</span>
+        <button type="button" class="fold-all" data-open="1">Open all</button>
+        <button type="button" class="fold-all" data-open="0">Close all</button>
       </div>
       <Content />
     </article>
@@ -149,6 +149,11 @@ const updatedStr = fmtDate(doc.data.updated);
     border: 1px solid var(--border); border-radius: 4px; padding: 0.8rem 1rem; margin: 0 0 1.5rem;
     font-size: 0.9rem;
   }
+  .prose .note { background: #fafafa; }
+  .prose .note .note-title { font-weight: 600; margin-bottom: 0.4rem; }
+  .prose .note .note-icon { margin-right: 0.3rem; }
+  .prose .note ul { margin: 0.3rem 0 0; }
+  .prose .note li { margin-bottom: 0.25rem; }
   .prose .note p { margin-bottom: 0.5rem; }
   .prose .note p:last-child { margin-bottom: 0; }
   @media print { .prose details.fold > .fold-body { display: block; } }

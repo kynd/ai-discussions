@@ -5,6 +5,15 @@ intro: A high-level log of substantial changes to the site's content, and the qu
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-11-28 — English only, simplified
+## 2026-11-28 — 英語のみ、簡潔に
+
+The user supplied a simplified version of "How to Run a Research Project" and asked to drop Japanese from the pages. The how-to page now follows that text: shorter paragraphs, a "Check your progress" tip box, two researchers (Peter Stott and Eric Klinenberg; Friederike Otto removed), gathering notes without polishing in Step 2, explaining what you learned in Step 3, and sharing the report in Step 4. "Heat Waves: A Research Report" was made English-only and aligned with it: Otto and her sources removed, the "many kinds of scientists" paragraph matched to the how-to page. The homepage and site labels are English-only too.
+
+<!-- -->
+
+ユーザーから簡潔にした「研究のすすめ方」の文章が届き、ページから日本語を外すよう依頼がありました。進め方のページはその文章に合わせました。レポート例も英語のみにし、内容をそろえました（オットーと関連資料を削除）。トップページとサイトの表示も英語のみです。
+
 ## 2026-11-28 — Gathering, explaining, and making the report
 ## 2026-11-28 — 集める、説明する、まとめる
 

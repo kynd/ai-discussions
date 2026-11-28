@@ -323,7 +323,7 @@ const termTargets = [
     </div>
     <div class="search-wrap">
       <input id="q" class="search-input" type="text" autocomplete="off"
-        placeholder="Search… · 検索" data-base={base} aria-label="Search pages" />
+        placeholder="Search…" data-base={base} aria-label="Search pages" />
     </div>
     <div class="topbar-controls topbar-controls-right">
       <div class="topbar-font-switcher">
@@ -336,7 +336,7 @@ const termTargets = [
 
   <div class="sidebar-backdrop" id="sidebar-backdrop"></div>
   <nav class="sidebar" aria-label="Index">
-    <a href={base || '/'} class={`sb-link sb-home${isHome ? ' current' : ''}`}>Research Projects<span class="ja">研究プロジェクト</span></a>
+    <a href={base || '/'} class={`sb-link sb-home${isHome ? ' current' : ''}`}>Research Projects</a>
     <ul class="sb-list">
       {navArticles.map((a) => {
         const cur = a.slug === currentSlug;
@@ -363,7 +363,7 @@ const termTargets = [
   </main>
 
   <footer class="site-footer">
-    <span>Research Projects · 研究プロジェクト</span>
+    <span>Research Projects</span>
     <nav>
       <a href="https://www.kynd.info/ai-discussions/">AI Discussions</a>
     </nav>
