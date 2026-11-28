@@ -17,11 +17,11 @@ This is an example of a finished research report, written the way a student migh
 ## Introduction: what we wanted to find out
 ## はじめに　知りたかったこと
 
-Summers seem to be getting hotter, and the news often talks about heat waves and heatstroke. We wanted to be able to explain to our class what a heat wave is, why it happens, why it is dangerous, and who studies it. We read websites from science agencies, science magazines for young readers, universities, and research groups, and we checked important facts in more than one place. When our sources disagreed, we wrote down both views.
+Summers seem to be getting hotter, and the news often talks about heat waves and heatstroke. We wanted to be able to explain to our class what a heat wave is, why it happens, why it is dangerous, and who studies it. We read websites from science agencies, science magazines for young readers, universities, and research groups, and we checked important facts in more than one place. When our sources disagreed, we wrote down both views. Before writing, we explained what we had found to our families. Their questions showed us what we still didn't understand, and helped us decide the order of this report.
 
 <!-- -->
 
-夏がどんどん暑くなっているように感じますし、ニュースでも熱波や熱中症の話をよく聞きます。熱波とは何か、なぜ起きるのか、なぜ危ないのか、だれが研究しているのかを、クラスのみんなに説明できるようになりたいと思いました。国の科学機関、若い読者向けの科学雑誌、大学、研究グループのウェブサイトを読み、大事な事実は2つ以上の場所で確かめました。資料どうしの言うことがちがうときは、両方を書きとめました。
+夏がどんどん暑くなっているように感じますし、ニュースでも熱波や熱中症の話をよく聞きます。熱波とは何か、なぜ起きるのか、なぜ危ないのか、だれが研究しているのかを、クラスのみんなに説明できるようになりたいと思いました。国の科学機関、若い読者向けの科学雑誌、大学、研究グループのウェブサイトを読み、大事な事実は2つ以上の場所で確かめました。資料どうしの言うことがちがうときは、両方を書きとめました。書き始める前に、見つけたことを家族に説明してみました。家族からの質問で、まだよくわかっていないところに気づき、このレポートの順番も決めやすくなりました。
 
 ---
 

@@ -6,11 +6,11 @@ order: 1
 topics: ["how-to-research", "heat-waves"]
 ---
 
-A research project starts with a question, and it can grow forever, because every answer leads to new questions. That is what makes it fun! On this page, let's learn how to keep a project on track, step by step: let's set a goal, draw a map of the questions we want to answer, look things up in trustworthy places, ask follow-up questions, check what we found, and write it down in our own words.
+A research project starts with a question, and it can grow forever, because every answer leads to new questions. That is what makes it fun! On this page, let's learn how to keep a project on track, step by step. A project has two big parts: first we *gather* information, then we *make* it into a report. Let's set a goal, draw a map of the questions we want to answer, fill our notes from trustworthy places, explain what we learned to someone, and then write the report in our own words.
 
 <!-- -->
 
-研究は1つの問いから始まります。答えが1つ見つかるたびに新しい問いが生まれるので、どこまでも広がっていきます。そこが研究のおもしろいところです。このページでは、迷わずに進むための方法を、一歩ずつ身につけていきましょう。目標を決め、答えたい問いの地図をつくり、信頼できる場所で調べ、さらに問いを重ね、見つけたことを確かめ、自分の言葉で書きとめる。この流れで進めてみましょう。
+研究は1つの問いから始まります。答えが1つ見つかるたびに新しい問いが生まれるので、どこまでも広がっていきます。そこが研究のおもしろいところです。このページでは、迷わずに進むための方法を、一歩ずつ身につけていきましょう。研究には大きく2つの段階があります。まず情報を*集め*、それからレポートに*まとめ*ます。目標を決め、答えたい問いの地図をつくり、信頼できる場所で調べてメモを増やし、学んだことをだれかに説明し、最後に自分の言葉でレポートを書く。この流れで進めてみましょう。
 
 Let's try it together with a project about heat waves!
 
@@ -71,8 +71,17 @@ You don't have to research alone. Working with a friend, a classmate, or someone
 
 ---
 
-## Step 2: Let's answer one question at a time
-## ステップ2　問いを1つずつ調べましょう
+## Step 2: Let's gather information
+## ステップ2　情報を集めましょう
+
+### Fill your notes, don't polish them
+### メモをどんどん増やしましょう
+
+Making a report has two parts, and it helps to keep them apart. In the *gathering* part, your only job is to add information to your notes. It's fine to copy and paste a sentence or two, or to jot down a quick note in a few words. Don't spend time on neat handwriting, nice wording, or formatting yet. That comes later, when you make the report. Just remember two things for every note: write down where it came from (the site name and web address), and mark copied text with quotation marks, so later you can tell which words are yours. A messy notebook full of facts and links is exactly what you want at this stage!
+
+<!-- -->
+
+レポートづくりには2つの段階があり、分けて考えると進めやすくなります。*集める*段階での仕事は、メモに情報を足していくことだけです。1文か2文をコピーして貼りつけても、短いことばでさっとメモしてもかまいません。字をきれいに書いたり、言い回しを整えたり、見た目を整えたりするのは、まだ先です。それはレポートをまとめるときにしましょう。ただし、どのメモにも2つのことだけは守りましょう。どこから持ってきたのか（サイトの名前とウェブのアドレス）を書いておくことと、コピーした文には「　」をつけて、あとで自分の言葉と区別できるようにしておくことです。この段階では、事実とリンクがたくさんつまった、ごちゃごちゃのノートで大成功です！
 
 ### Pick one question and break it down
 ### 1つ選んで、小さく分けましょう
@@ -203,11 +212,6 @@ Some new questions are exciting but far from our goal, such as how computer clim
 
 おもしろいけれど目標からは遠い問いもあります。たとえば、気候のコンピューターモデルの中身はどう動いているのか、といった問いです。そうした問いは、別の「あとで」リストに書いておきましょう。忘れずにすみ、そこで迷子になることもありません。
 
----
-
-## Step 3: Let's check what we found
-## ステップ3　見つけたことを確かめましょう
-
 ### Compare more than one source
 ### 2つ以上の資料をくらべましょう
 
@@ -226,28 +230,60 @@ Numbers often differ between sources, and the reason is usually that they counte
 
 資料によって数字がちがうことはよくあります。たいていは、数えたものがちがうからです。1995年のシカゴの熱波では、公式に数えられた暑さによる死者はその週に465人でしたが、ふだんの夏の同じ時期とくらべて増えた死者の数を調べた研究では、700人を超えていました。2003年のヨーロッパの熱波では、はじめの報告では死者は3万人以上とされましたが、のちに16か国のデータを集めた研究では、7万人以上になりました。数字を書くときは、どこから来た数字で、何を数えたものなのかを書きそえましょう。たとえば「2008年の研究によると、ふだんより7万人以上多く亡くなった」のように書きます。
 
-### Summarize, don't copy
-### 写さずに、自分の言葉でまとめましょう
+---
 
-Copying sentences from a website is not research, and it does not help you understand. Let's try this: read a part, close the page, and write down the main idea in your own words, as if you were telling a friend. Then look back to check that you got it right. For every source, let's keep a small note card with the name of the site, the title of the page, the web address, the date you read it, and two or three key points in your own words. These notes become the source list at the end of your report.
+## Step 3: Let's explain what we found to someone
+## ステップ3　見つけたことを、だれかに説明しましょう
+
+### Research is learning
+### 研究は、学ぶこと
+
+Research is not only about collecting information. It is about *learning*: understanding something well enough that it becomes part of what you know. A notebook full of facts doesn't prove that you understand them. The best way to find out is to explain them to someone else.
 
 <!-- -->
 
-ウェブサイトの文をそのまま写しても、研究にはなりませんし、理解の助けにもなりません。一部分を読んだらページを閉じて、友だちに話すつもりで、大事なことを自分の言葉で書いてみましょう。そのあと、もう一度見返して、正しく書けたか確かめましょう。資料ごとに、サイトの名前、ページの題名、ウェブのアドレス、読んだ日、そして大事な点を自分の言葉で2つか3つ書いた、小さなメモカードをつくっておきましょう。このメモが、レポートの最後につける参考資料のリストになります。
+研究は、情報を集めるだけのものではありません。*学ぶ*ことです。何かをよく理解して、自分の知識にすることです。事実がたくさんつまったノートがあっても、それを理解しているとはかぎりません。理解できているかどうかを確かめるいちばんの方法は、だれかに説明してみることです。
+
+### Explain it to someone
+### だれかに説明してみましょう
+
+When your gathering is mostly done, let's explain what you found to a friend, a family member, or your research partner, without reading from your notes. Try to answer your big questions in your own words: "A heat wave is…", "It happens because…". Where you get stuck, you have found a gap in your understanding, so go back to your notes or look it up again. Listen to the questions your listener asks, too. They show you what a reader will want to know, and they help you decide what order to tell things in. Explaining turns a pile of notes into a story that makes sense to someone else, and that story becomes the plan for your report.
+
+<!-- -->
+
+集める段階がだいたい終わったら、メモを見ずに、友だちや家族、研究の仲間に、見つけたことを説明してみましょう。大きな問いに、自分の言葉で答えてみます。「熱波というのは…」「それが起きるのは…」。うまく言えないところがあったら、そこがまだよくわかっていないところです。メモに戻ったり、もう一度調べたりしましょう。聞いている人の質問にも耳をかたむけましょう。読む人が何を知りたがるのかがわかり、どんな順番で話せばいいのかを決める手がかりになります。説明することで、メモの山が、ほかの人にも伝わるお話に変わります。そのお話が、レポートの設計図になります。
 
 ---
 
-## Step 4: Let's write the report
-## ステップ4　レポートを書きましょう
+## Step 4: Let's make the report
+## ステップ4　レポートにまとめましょう
 
 ### What goes in a report
 ### レポートに入れるもの
 
-When the map shows that most questions are *done*, it is time to write. Let's go! A clear report usually has these parts: a short introduction that says what you wanted to find out and why; one section for each big question on your map; a section on what you learned and what you still want to know; and a list of sources. Let's write for a reader who knows nothing about the topic. Explain new words the first time you use them, and keep the differences you found between sources, because they are part of what you learned.
+When the map shows that most questions are *done*, it is time to make the report. Let's go! Start by planning its parts, using the order that worked when you explained it. A clear report usually has these parts: a short introduction that says what you wanted to find out and why; one section for each big question on your map; a section on what you learned and what you still want to know; and a list of sources. Let's write for a reader who knows nothing about the topic. Explain new words the first time you use them, and keep the differences you found between sources, because they are part of what you learned.
 
 <!-- -->
 
-地図のほとんどの問いが「できた」になったら、書き始めましょう。わかりやすいレポートには、ふつう次の部分があります。何を知りたかったのか、なぜなのかを書いた短い前書き。地図の大きな問い1つにつき1つの節。わかったことと、まだ知りたいことを書いた節。そして参考資料のリストです。そのテーマについて何も知らない人に向けて書きましょう。新しい言葉は、はじめて使うときに説明しましょう。資料どうしのちがいも、消さずに残しておきましょう。それも、わかったことの一部だからです。
+地図のほとんどの問いが「できた」になったら、レポートにまとめましょう。まずは、説明したときにうまく伝わった順番をもとに、組み立てを考えます。わかりやすいレポートには、ふつう次の部分があります。何を知りたかったのか、なぜなのかを書いた短い前書き。地図の大きな問い1つにつき1つの節。わかったことと、まだ知りたいことを書いた節。そして参考資料のリストです。そのテーマについて何も知らない人に向けて書きましょう。新しい言葉は、はじめて使うときに説明しましょう。資料どうしのちがいも、消さずに残しておきましょう。それも、わかったことの一部だからです。
+
+### Put it in your own words
+### 自分の言葉で書きましょう
+
+Now write each part. This is where you take care with the words. Copied sentences in your notes were fine for gathering, but they don't belong in the report. Copying is not research, and it does not show what you learned. For each part, look at your notes, then close them and write the main idea in your own words, the way you explained it out loud. Then look back to check that you got the facts right. If you really want to use someone's exact words, keep the quotation marks and say who wrote them. Turn the sources in your notes into the source list at the end of the report.
+
+<!-- -->
+
+次に、それぞれの部分を書いていきます。言葉をていねいに選ぶのは、ここからです。集める段階ではコピーした文もかまいませんでしたが、レポートには入れません。写すことは研究ではありませんし、何を学んだのかも伝わらないからです。それぞれの部分について、メモを見たら閉じて、声に出して説明したときのように、大事なことを自分の言葉で書いてみましょう。そのあと見返して、事実がまちがっていないか確かめます。どうしてもだれかの言葉をそのまま使いたいときは、「　」をつけて、だれの言葉かを書きそえましょう。メモに書いておいた出どころは、レポートの最後の参考資料のリストにしましょう。
+
+### Explain it again
+### もう一度、説明してみましょう
+
+When you have a draft, and again after you edit it, let's explain the report to someone or read it aloud to them. Ask them what they understood, and what was confusing. If they can tell the main points back to you, your report works. If they can't, that part needs a clearer explanation or a better example. Each time you explain, your own understanding gets deeper, and the report gets easier for others to read.
+
+<!-- -->
+
+下書きができたら、そして書き直したあとにも、だれかにレポートを説明するか、読んで聞かせてみましょう。何がわかって、どこがわかりにくかったのかを聞いてみます。相手が大事なところを自分の言葉で言い返せたら、そのレポートはちゃんと伝わっています。言えなかったら、その部分にはもっとわかりやすい説明や、よい例が必要です。説明するたびに自分の理解も深まり、レポートもほかの人に読みやすくなっていきます。
 
 ### Our finished example
 ### できあがりの例

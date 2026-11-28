@@ -5,6 +5,15 @@ intro: A high-level log of substantial changes to the site's content, and the qu
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-11-28 — Gathering, explaining, and making the report
+## 2026-11-28 — 集める、説明する、まとめる
+
+Prompted by a request to split the research process into gathering information and making the report, to make clear that gathering is only about adding to notes (copy-paste and quick notes are fine; no polishing or formatting), and to recommend explaining to someone both after gathering and after writing, because research is about learning. "How to Run a Research Project" now runs: set a goal and map; gather information (with fact-checking folded in); explain what you found to someone; make the report (plan, write in your own words, explain it again). The example report mentions explaining to family before writing.
+
+<!-- -->
+
+研究の進め方を「情報を集める」段階と「レポートにまとめる」段階に分けてほしい、集める段階ではメモを増やすことだけに集中し、コピーや短いメモでかまわないので、整えたり見た目をよくしたりに時間をかけないことをはっきりさせてほしい、そして、研究は集めることではなく学ぶことなので、集めたあとと書いたあとの両方で、だれかに説明することをすすめてほしい、という依頼を受けて、「研究のすすめ方」を、目標と地図、情報を集める（事実の確かめ方もここに含む）、見つけたことをだれかに説明する、レポートにまとめる（組み立て、自分の言葉で書く、もう一度説明する）、という流れに組み直しました。レポートの例にも、書く前に家族に説明したことを加えました。
+
 ## 2026-11-28 — Researching together
 ## 2026-11-28 — いっしょに研究する
 
