@@ -25,3 +25,4 @@ these differences:
 
 Commands (run inside `research_projects/`): `npm install`, `npm run reindex`, `npm run dev`,
 `npm run build`.
+- **No AI disclaimer box** under article titles on this site (removed at the user's request); the homepage intro says the pages are AI-written.
