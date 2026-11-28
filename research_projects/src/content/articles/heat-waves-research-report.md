@@ -165,22 +165,22 @@ Eric Klinenberg is an American sociologist. In his book *Heat Wave: A Social Aut
 ## How to stay safe
 ## 熱波から身を守るには
 
-Drink water often, before you feel thirsty. Stay in the shade or indoors during the hottest part of the day, and use a fan or air conditioning. Wear light, loose clothes and a hat. Move hard exercise to the cooler morning or evening. If you feel dizzy, get a headache, or feel sick, stop, move somewhere cool, drink water, and tell an adult right away. Check on older neighbors and family members, too. In Japan, the Ministry of the Environment publishes a daily "heat index" (WBGT), which combines temperature, humidity, and sunlight, with levels from "almost safe" to "danger".
+Let's keep each other safe! Drink water often, before you feel thirsty. Stay in the shade or indoors during the hottest part of the day, and use a fan or air conditioning. Wear light, loose clothes and a hat. Let's move hard exercise to the cooler morning or evening. If you feel dizzy, get a headache, or feel sick, stop, move somewhere cool, drink water, and tell an adult right away. Let's check on older neighbors and family members, too. In Japan, the Ministry of the Environment publishes a daily "heat index" (WBGT), which combines temperature, humidity, and sunlight, with levels from "almost safe" to "danger".
 
 <!-- -->
 
-のどがかわく前に、こまめに水を飲みましょう。一日でいちばん暑い時間は、日かげや室内ですごし、扇風機やエアコンを使います。軽くてゆったりした服を着て、ぼうしをかぶりましょう。はげしい運動は、すずしい朝や夕方にずらします。めまいや頭痛がしたり、気分が悪くなったりしたら、すぐにやめて、すずしい場所に移って水を飲み、大人に知らせてください。近所や家族のお年寄りにも声をかけましょう。日本では環境省が、気温と湿度と日ざしを組み合わせた「暑さ指数（WBGT）」を毎日発表していて、「ほぼ安全」から「危険」までの段階で暑さの危なさがわかります。
+みんなで、おたがいを暑さから守りましょう！のどがかわく前に、こまめに水を飲みましょう。一日でいちばん暑い時間は、日かげや室内ですごし、扇風機やエアコンを使います。軽くてゆったりした服を着て、ぼうしをかぶりましょう。はげしい運動は、すずしい朝や夕方にずらします。めまいや頭痛がしたり、気分が悪くなったりしたら、すぐにやめて、すずしい場所に移って水を飲み、大人に知らせてください。近所や家族のお年寄りにも声をかけましょう。日本では環境省が、気温と湿度と日ざしを組み合わせた「暑さ指数（WBGT）」を毎日発表していて、「ほぼ安全」から「危険」までの段階で暑さの危なさがわかります。
 
 ---
 
 ## What we learned and new questions
 ## わかったことと、新しい問い
 
-The biggest surprise was that a heat wave is not one simple thing. It is a weather event, a climate change story, and a health and community problem all at once, and that is why so many kinds of scientists study it. We also learned that sources can disagree, about how to define a heat wave or how many people died, and that the reason is usually that they measured different things. We still want to know more: who studies heat waves in Japan, how computer climate models work, and what our own town is doing to keep people cool. Those questions are on our map for next time.
+The biggest surprise was that a heat wave is not one simple thing. It is a weather event, a climate change story, and a health and community problem all at once, and that is why so many kinds of scientists study it. We also learned that sources can disagree, about how to define a heat wave or how many people died, and that the reason is usually that they measured different things. We still want to know more: who studies heat waves in Japan, how computer climate models work, and what our own town is doing to keep people cool. Those questions are on our map for next time. Let's keep exploring!
 
 <!-- -->
 
-いちばんおどろいたのは、熱波が一つの単純なものではないということです。天気の出来事であり、気候変動の話であり、健康と地域社会の問題でもあります。だからこそ、たくさんの種類の科学者が研究しているのだとわかりました。熱波の決め方や亡くなった人の数のように、資料どうしの言うことがちがう場合があり、たいていは数えたものがちがうからだ、ということも学びました。まだ知りたいこともあります。日本で熱波を研究しているのはだれか、気候のコンピューターモデルはどう動いているのか、わたしたちの町は人々を暑さから守るために何をしているのか。こうした問いは、次の研究のために地図に書いておきました。
+いちばんおどろいたのは、熱波が一つの単純なものではないということです。天気の出来事であり、気候変動の話であり、健康と地域社会の問題でもあります。だからこそ、たくさんの種類の科学者が研究しているのだとわかりました。熱波の決め方や亡くなった人の数のように、資料どうしの言うことがちがう場合があり、たいていは数えたものがちがうからだ、ということも学びました。まだ知りたいこともあります。日本で熱波を研究しているのはだれか、気候のコンピューターモデルはどう動いているのか、わたしたちの町は人々を暑さから守るために何をしているのか。こうした問いは、次の研究のために地図に書いておきました。これからも調べ続けていきましょう！
 
 ---
 

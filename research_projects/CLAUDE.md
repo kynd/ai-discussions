@@ -11,7 +11,7 @@ these differences:
 
 - **Audience.** Readers are about 10–15 years old. Follow "Writing for young readers" in
   `src/pages/style.md`: everyday words, new words explained on first use, short sentences,
-  concrete examples, です・ます in Japanese with common kanji. No 〜のです; single 「—」.
+  concrete examples, an encouraging tone ("Let's …" / 「〜しましょう」), です・ます in Japanese with common kanji. No 〜のです; single 「—」.
 - **Sources for kids.** Prefer sources a student can read: government science agencies (NOAA,
   NASA, Met Office, 気象庁, 環境省), science magazines for young readers (Science News Explores),
   encyclopedias, universities, and research groups. Summarize them; never quote at length.

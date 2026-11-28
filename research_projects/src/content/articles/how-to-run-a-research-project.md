@@ -6,36 +6,36 @@ order: 1
 topics: ["how-to-research", "heat-waves"]
 ---
 
-A research project starts with a question, and it can grow forever, because every answer leads to new questions. This page shows a way to keep it on track, step by step: set a goal, draw a map of the questions you want to answer, look things up in trustworthy places, ask follow-up questions, check what you found, and write it down in your own words.
+A research project starts with a question, and it can grow forever, because every answer leads to new questions. That is what makes it fun! On this page, let's learn how to keep a project on track, step by step: let's set a goal, draw a map of the questions we want to answer, look things up in trustworthy places, ask follow-up questions, check what we found, and write it down in our own words.
 
 <!-- -->
 
-研究は一つの問いから始まります。答えが一つ見つかるたびに新しい問いが生まれるので、どこまでも広がっていきます。このページでは、迷わずに進むための方法を一歩ずつ紹介します。目標を決め、答えたい問いの地図をつくり、信頼できる場所で調べ、さらに問いを重ね、見つけたことを確かめ、自分の言葉で書きとめる、という流れです。
+研究は一つの問いから始まります。答えが一つ見つかるたびに新しい問いが生まれるので、どこまでも広がっていきます。そこが研究のおもしろいところです。このページでは、迷わずに進むための方法を、一歩ずつ身につけていきましょう。目標を決め、答えたい問いの地図をつくり、信頼できる場所で調べ、さらに問いを重ね、見つけたことを確かめ、自分の言葉で書きとめる。この流れで進めてみましょう。
 
-Our example is a project about heat waves.
+Let's try it together with a project about heat waves!
 
 <!-- -->
 
-例として、熱波についての研究を取り上げます。
+さあ、熱波についての研究を例に、いっしょにやってみましょう！
 
 ---
 
-## Step 1: Set a goal and make a question map
-## ステップ1　目標を決めて、問いの地図をつくる
+## Step 1: Let's set a goal and make a question map
+## ステップ1　目標を決めて、問いの地図をつくりましょう
 
 ### Why you need a goal
 ### なぜ目標が必要なのか
 
-Heat waves connect to weather, health, cities, farming, history, and much more. If you try to follow every interesting link, you will never finish. So before you start, write one sentence that says what you want to be able to explain at the end. For example: "I want to explain to my class what a heat wave is, why it happens, why it is dangerous, and who studies it." Your goal can change as you learn more. That is normal. But having a goal written down helps you decide what to read now and what to save for later.
+Heat waves connect to weather, health, cities, farming, history, and much more. If you try to follow every interesting link, you might never finish. So before you start, let's write one sentence that says what you want to be able to explain at the end. For example: "I want to explain to my class what a heat wave is, why it happens, why it is dangerous, and who studies it." Don't worry if your goal changes as you learn more. That is normal, and it means you are learning! Having a goal written down helps you decide what to read now and what to save for later.
 
 <!-- -->
 
-熱波は、天気、健康、都市、農業、歴史など、いろいろなことにつながっています。おもしろそうな話を全部追いかけていたら、いつまでも終わりません。だから始める前に、最後に何を説明できるようになりたいのかを一文で書いておきましょう。たとえば「熱波とは何か、なぜ起きるのか、なぜ危ないのか、だれが研究しているのかを、クラスのみんなに説明したい」。目標は、調べるうちに変わってもかまいません。それはふつうのことです。それでも、目標を書いておけば、いま読むものと、あとに回すものを決めやすくなります。
+熱波は、天気、健康、都市、農業、歴史など、いろいろなことにつながっています。おもしろそうな話を全部追いかけていたら、いつまでも終わりません。だから始める前に、最後に何を説明できるようになりたいのかを一文で書いておきましょう。たとえば「熱波とは何か、なぜ起きるのか、なぜ危ないのか、だれが研究しているのかを、クラスのみんなに説明したい」。目標は、調べるうちに変わってもだいじょうぶです。それは、学んでいるしるしです。目標を書いておけば、いま読むものと、あとに回すものを決めやすくなります。
 
-### Make a map of big questions
-### 大きな問いの地図をつくる
+### Let's make a map of big questions
+### 大きな問いの地図をつくりましょう
 
-Next, turn your goal into a short list of big questions. Think of it as a map of the land you are going to explore. Good big questions are ones that a whole report could be built on. Four kinds of questions work for almost any topic: *what is it*, *why does it happen*, *what does it lead to*, and *who works on it*. For heat waves, our map looks like this:
+Next, let's turn the goal into a short list of big questions. Think of it as a treasure map of the land you are about to explore. Good big questions are ones that a whole report could be built on. Four kinds of questions work for almost any topic: *what is it*, *why does it happen*, *what does it lead to*, and *who works on it*. For heat waves, our map looks like this:
 
 1. **What is a heat wave?**
 2. **What causes heat waves?**
@@ -44,7 +44,7 @@ Next, turn your goal into a short list of big questions. Think of it as a map of
 
 <!-- -->
 
-次に、目標を大きな問いの短いリストにします。これから探検する土地の地図だと考えてください。よい大きな問いとは、それだけでレポートの柱になるような問いです。どんなテーマにも使えるのは、「それは何か」「なぜ起きるのか」「その結果どうなるのか」「だれが取り組んでいるのか」の四つです。熱波なら、地図はこうなります。
+次に、目標を大きな問いの短いリストにしてみましょう。これから探検する土地の宝の地図だと思ってください。よい大きな問いとは、それだけでレポートの柱になるような問いです。どんなテーマにも使えるのは、「それは何か」「なぜ起きるのか」「その結果どうなるのか」「だれが取り組んでいるのか」の四つです。熱波なら、地図はこうなります。
 
 1. **熱波とは何か？**
 2. **熱波はなぜ起きるのか？**
@@ -52,46 +52,46 @@ Next, turn your goal into a short list of big questions. Think of it as a map of
 4. **だれが熱波を研究しているのか？**
 
 ### Keep the map up to date
-### 地図はいつでも書きかえていい
+### 地図はどんどん書きかえましょう
 
-The map is not a promise you can never change. As you read, you will find questions you did not think of at first, such as "Why are cities hotter than the countryside?" Add them under the big question they belong to. You may also find that a question is too big and needs to be split, or that one is less interesting than you thought and can be dropped. Mark each question as *not started*, *working on it*, or *done*. Look at the map every time you sit down to work. It tells you where you are, and it reminds you of your goal.
+The map is not a promise you can never change. As you read, you will discover questions you did not think of at first, such as "Why are cities hotter than the countryside?" Add them under the big question they belong to. You may also find that a question is too big and needs to be split, or that one is less interesting than you thought and can be dropped. Let's mark each question as *not started*, *working on it*, or *done*. Check the map every time you sit down to work. It shows how far you have come, and it reminds you of your goal. Watching the *done* marks grow is a great feeling!
 
 <!-- -->
 
-地図は、一度決めたら変えられない約束ではありません。読み進めるうちに、「どうして都会はいなかより暑いのだろう？」のように、最初は思いつかなかった問いが出てきます。そうしたら、関係のある大きな問いの下に書き足しましょう。大きすぎて分けたほうがいい問いや、思ったほどおもしろくなくて消してもいい問いも出てきます。それぞれの問いに「まだ」「調べ中」「できた」のしるしをつけておきます。調べ始めるたびに地図を見てください。いまどこにいるのかがわかり、目標も思い出せます。
+地図は、一度決めたら変えられない約束ではありません。読み進めるうちに、「どうして都会はいなかより暑いのだろう？」のように、最初は思いつかなかった問いが出てきます。そうしたら、関係のある大きな問いの下に書き足しましょう。大きすぎて分けたほうがいい問いや、思ったほどおもしろくなくて消してもいい問いも出てきます。それぞれの問いに「まだ」「調べ中」「できた」のしるしをつけておきましょう。調べ始めるたびに地図を見てください。ここまで進んだことがわかり、目標も思い出せます。「できた」が増えていくのは、うれしいものです！
 
 ---
 
-## Step 2: Answer one question at a time
-## ステップ2　問いを一つずつ調べる
+## Step 2: Let's answer one question at a time
+## ステップ2　問いを一つずつ調べましょう
 
 ### Pick one question and break it down
-### 一つ選んで、小さく分ける
+### 一つ選んで、小さく分けましょう
 
-Now pick one big question from the map. Let's take **"Who studies heat waves?"** It is still too big to look up in one go, so break it into smaller pieces that each have a clear answer:
+Now let's pick one big question from the map. We'll take **"Who studies heat waves?"** It is still too big to look up in one go, so let's break it into smaller pieces that each have a clear answer:
 
 - **A.** Which kinds of science study heat waves?
 - **B.** Who are some important scientists, and what did they find?
 
-When you answer a piece, new questions will pop up. Follow a few of them, one step at a time, and write each one on the map.
+When you answer a piece, new questions will pop up. That's exciting! Let's follow a few of them, one step at a time, and write each one on the map.
 
 <!-- -->
 
-地図から大きな問いを一つ選びます。ここでは**「だれが熱波を研究しているのか？」**にしましょう。このままでは一度に調べるには大きすぎるので、それぞれはっきり答えが出る小さな問いに分けます。
+地図から大きな問いを一つ選びましょう。ここでは**「だれが熱波を研究しているのか？」**にしましょう。このままでは一度に調べるには大きすぎるので、それぞれはっきり答えが出る小さな問いに分けてみましょう。
 
 - **A.** どんな分野の科学が熱波を調べているのか？
 - **B.** 大事な科学者はだれで、何を見つけたのか？
 
-一つ答えると、新しい問いが次々に出てきます。そのうちいくつかを、一歩ずつたどってみましょう。出てきた問いは、そのつど地図に書き足します。
+一つ答えると、新しい問いが次々に出てきます。そのうちいくつかを、一歩ずつたどってみましょう。出てきた問いは、そのつど地図に書き足しましょう。
 
 ### Choose where to look
-### どこで調べるか
+### 調べる場所を選びましょう
 
-Not every website is equally trustworthy. Good places to start are science agencies run by governments (such as NASA and NOAA in the United States, the Met Office in the United Kingdom, and the Japan Meteorological Agency), science magazines written for young readers (such as *Science News Explores*), encyclopedias, universities, and research groups that explain their own work. Wikipedia can be a useful first look, because its notes at the bottom point to the real sources, but check important facts somewhere else. For each source, ask: Who wrote this? Do they know the subject? When was it written? Do other sources say the same thing?
+Not every website is equally trustworthy, so let's choose carefully. Good places to start are science agencies run by governments (such as NASA and NOAA in the United States, the Met Office in the United Kingdom, and the Japan Meteorological Agency), science magazines written for young readers (such as *Science News Explores*), encyclopedias, universities, and research groups that explain their own work. Wikipedia can be a useful first look, because its notes at the bottom point to the real sources, but check important facts somewhere else. For each source, let's ask: Who wrote this? Do they know the subject? When was it written? Do other sources say the same thing?
 
 <!-- -->
 
-ウェブサイトは、どれも同じように信頼できるわけではありません。最初に見るとよいのは、国の科学機関（アメリカのNASAやNOAA、イギリスの気象庁、日本の気象庁など）、若い読者向けの科学雑誌（『サイエンス・ニュース・エクスプロアーズ』など）、百科事典、大学、そして自分たちの研究を説明している研究グループのサイトです。ウィキペディアは、ページの下にある注がもとの資料を教えてくれるので、最初に全体をながめるには便利です。ただし、大事な事実はほかの場所でも確かめましょう。資料ごとに、だれが書いたのか、その人はその分野にくわしいのか、いつ書かれたのか、ほかの資料も同じことを言っているか、を考えます。
+ウェブサイトは、どれも同じように信頼できるわけではないので、よく選びましょう。最初に見るとよいのは、国の科学機関（アメリカのNASAやNOAA、イギリスの気象庁、日本の気象庁など）、若い読者向けの科学雑誌（『サイエンス・ニュース・エクスプロアーズ』など）、百科事典、大学、そして自分たちの研究を説明している研究グループのサイトです。ウィキペディアは、ページの下にある注がもとの資料を教えてくれるので、最初に全体をながめるには便利です。ただし、大事な事実はほかの場所でも確かめましょう。資料ごとに、だれが書いたのか、その人はその分野にくわしいのか、いつ書かれたのか、ほかの資料も同じことを言っているか、を考えてみましょう。
 
 ### Question A: Which kinds of science study heat waves?
 ### 問いA　どんな分野の科学が熱波を調べているのか
@@ -120,14 +120,14 @@ Searching for news about famous heat waves, and who explained them, keeps bringi
 
 有名な熱波と、それをだれが説明したのかを調べていくと、同じ名前が何度も出てきます。この研究では、問いにちがう形で答えている三人を選びました。一つの熱波が気候変動のせいなのかを問う、最初期の研究をしたイギリスの気候学者**ピーター・ストット**。その種の研究を、まだニュースになっているうちに答えが出せるほど速くした、ドイツ出身の気候学者**フリーデリケ・オットー**。そして、ある都市の熱波でなぜこれほど多くの人が亡くなったのかを問うた、アメリカの社会学者**エリック・クリネンバーグ**です。ほかにもたくさんの研究者がいますが、この分野のしくみを知るには三人で十分です。
 
-### Going one step deeper: Peter Stott
-### もう一歩深く　ピーター・ストット
+### Let's go one step deeper: Peter Stott
+### もう一歩深く調べましょう　ピーター・ストット
 
-Once you have a name, ask follow-up questions. **What did he do?** In the summer of 2003, Europe had a terrible heat wave. Peter Stott, who works at the Met Office, the UK's weather service, wrote a paper in the journal *Nature* in 2004 with Dáithí Stone and Myles Allen. They used computer models to compare two worlds: the real one, and an imaginary one without the extra greenhouse gases people have added to the air. They found that human activity had very likely at least doubled the chance of a summer as hot as 2003. **Why is he important?** Before this, scientists said climate change made heat in general more likely, but no one had tried to measure its role in one particular event. This study started a new field, often called *attribution science*: working out how much climate change is behind a specific heat wave, flood, or drought.
+Once you have a name, let's ask follow-up questions. **What did he do?** In the summer of 2003, Europe had a terrible heat wave. Peter Stott, who works at the Met Office, the UK's weather service, wrote a paper in the journal *Nature* in 2004 with Dáithí Stone and Myles Allen. They used computer models to compare two worlds: the real one, and an imaginary one without the extra greenhouse gases people have added to the air. They found that human activity had very likely at least doubled the chance of a summer as hot as 2003. **Why is he important?** Before this, scientists said climate change made heat in general more likely, but no one had tried to measure its role in one particular event. This study started a new field, often called *attribution science*: working out how much climate change is behind a specific heat wave, flood, or drought.
 
 <!-- -->
 
-名前がわかったら、さらに問いを重ねます。**何をした人なのか？**　2003年の夏、ヨーロッパはひどい熱波におそわれました。イギリスの気象局（メットオフィス）で働くピーター・ストットは、2004年、ダイシー・ストーン、マイルズ・アレンとともに、科学雑誌『ネイチャー』に論文を書きました。コンピューターのモデルを使って、二つの世界をくらべました。一つは本当の世界、もう一つは、人間が空気中に増やした温室効果ガスがない、想像上の世界です。その結果、2003年ほど暑い夏が起きる確率は、人間の活動によって少なくとも2倍になった可能性が非常に高い、とわかりました。**なぜ大事な人なのか？**　それまで科学者は、気候変動によって暑さが全体として起きやすくなるとは言っていましたが、一つの出来事にどれだけ関わっているのかを測ろうとした人はいませんでした。この研究は、特定の熱波や洪水、干ばつの背後に、気候変動がどれだけ関わっているのかを調べる新しい分野を生み出しました。英語では「アトリビューション（原因の特定）の科学」とよく呼ばれます。
+名前がわかったら、さらに問いを重ねてみましょう。**何をした人なのか？**　2003年の夏、ヨーロッパはひどい熱波におそわれました。イギリスの気象局（メットオフィス）で働くピーター・ストットは、2004年、ダイシー・ストーン、マイルズ・アレンとともに、科学雑誌『ネイチャー』に論文を書きました。コンピューターのモデルを使って、二つの世界をくらべました。一つは本当の世界、もう一つは、人間が空気中に増やした温室効果ガスがない、想像上の世界です。その結果、2003年ほど暑い夏が起きる確率は、人間の活動によって少なくとも2倍になった可能性が非常に高い、とわかりました。**なぜ大事な人なのか？**　それまで科学者は、気候変動によって暑さが全体として起きやすくなるとは言っていましたが、一つの出来事にどれだけ関わっているのかを測ろうとした人はいませんでした。この研究は、特定の熱波や洪水、干ばつの背後に、気候変動がどれだけ関わっているのかを調べる新しい分野を生み出しました。英語では「アトリビューション（原因の特定）の科学」とよく呼ばれます。
 
 <aside class="resources">
 <p class="resources-label">Sources we used · 使った資料</p>
@@ -137,8 +137,8 @@ Once you have a name, ask follow-up questions. **What did he do?** In the summer
 </ul>
 </aside>
 
-### Going one step deeper: Friederike Otto
-### もう一歩深く　フリーデリケ・オットー
+### Let's go one step deeper: Friederike Otto
+### もう一歩深く調べましょう　フリーデリケ・オットー
 
 **What did she do?** Friederike Otto, born in Germany in 1982, first studied physics and then earned a doctorate in philosophy, writing about how climate computer models can be trusted. In 2014 she and the Dutch scientist Geert Jan van Oldenborgh started a group called World Weather Attribution. When a big heat wave, flood, or drought happens, the group works out within days or weeks how much more likely or more severe climate change made it. For example, they found that the 2021 heat wave in the western United States and Canada was at least 150 times more likely because of climate change. **Why is she important?** Older studies like Stott's took months or years, by which time people had stopped asking. Otto's group answers while the event is still in the news, so the science reaches the public when people want to know. In 2021, *TIME* magazine named Otto and van Oldenborgh among the 100 most influential people in the world. Van Oldenborgh died later that year. Otto now works at Imperial College London.
 
@@ -159,11 +159,11 @@ Once you have a name, ask follow-up questions. **What did he do?** In the summer
 ### A different kind of scientist: Eric Klinenberg
 ### ちがう種類の研究者　エリック・クリネンバーグ
 
-Not everyone who studies heat waves studies the weather. **What did he do?** In July 1995, a heat wave hit Chicago in the United States, and hundreds of people died in about a week. Eric Klinenberg, a sociologist, asked why the deaths happened where they did. In his book *Heat Wave: A Social Autopsy of Disaster in Chicago* (2002), he showed that many of the victims were old, poor, and living alone, and that some neighborhoods with the same weather lost far fewer people because neighbors checked on each other and there were busy streets and shops. **Why is he important?** He showed that a heat wave is not only a weather problem. How a city is built, and whether people are connected to one another, can decide who survives.
+Here's a surprise: not everyone who studies heat waves studies the weather. **What did he do?** In July 1995, a heat wave hit Chicago in the United States, and hundreds of people died in about a week. Eric Klinenberg, a sociologist, asked why the deaths happened where they did. In his book *Heat Wave: A Social Autopsy of Disaster in Chicago* (2002), he showed that many of the victims were old, poor, and living alone, and that some neighborhoods with the same weather lost far fewer people because neighbors checked on each other and there were busy streets and shops. **Why is he important?** He showed that a heat wave is not only a weather problem. How a city is built, and whether people are connected to one another, can decide who survives.
 
 <!-- -->
 
-熱波を研究している人が、みんな天気を調べているわけではありません。**何をした人なのか？**　1995年7月、アメリカのシカゴを熱波がおそい、およそ1週間で数百人が亡くなりました。社会学者のエリック・クリネンバーグは、なぜ亡くなった人がそこに集中したのかを問いました。著書『熱波　シカゴの災害の社会的解剖』（2002年）では、亡くなった人の多くが高齢で、貧しく、ひとり暮らしだったことを示しました。同じ天気でも、近所の人どうしが声をかけ合い、にぎやかな通りや店がある地域では、亡くなった人はずっと少なくすみました。**なぜ大事な人なのか？**　熱波が天気だけの問題ではないことを示したからです。町のつくりや、人と人とのつながりが、だれが助かるのかを左右することがあります。
+意外なことに、熱波を研究している人が、みんな天気を調べているわけではありません。**何をした人なのか？**　1995年7月、アメリカのシカゴを熱波がおそい、およそ1週間で数百人が亡くなりました。社会学者のエリック・クリネンバーグは、なぜ亡くなった人がそこに集中したのかを問いました。著書『熱波　シカゴの災害の社会的解剖』（2002年）では、亡くなった人の多くが高齢で、貧しく、ひとり暮らしだったことを示しました。同じ天気でも、近所の人どうしが声をかけ合い、にぎやかな通りや店がある地域では、亡くなった人はずっと少なくすみました。**なぜ大事な人なのか？**　熱波が天気だけの問題ではないことを示したからです。町のつくりや、人と人とのつながりが、だれが助かるのかを左右することがあります。
 
 <aside class="resources">
 <p class="resources-label">Sources we used · 使った資料</p>
@@ -173,78 +173,78 @@ Not everyone who studies heat waves studies the weather. **What did he do?** In 
 </ul>
 </aside>
 
-### New questions and the updated map
-### 新しい問いと、書きかえた地図
+### New questions: let's update the map
+### 新しい問いで、地図を書きかえましょう
 
-Following these three people raised new questions we had not thought of at the start. We added them to the map under the big questions they belong to:
+Following these three people raised new questions we had not thought of at the start. Let's add them to the map under the big questions they belong to:
 
 - under *What causes heat waves?*: How can scientists tell how much of a heat wave is caused by climate change?
 - under *What problems do heat waves cause?*: Why do more people die in some neighborhoods than in others?
 - under *Who studies heat waves?*: Who studies heat waves in Japan?
 
-Some new questions are exciting but far from our goal, such as how computer climate models work inside. We wrote those on a separate "later" list, so we would not lose them and would not get lost in them either.
+Some new questions are exciting but far from our goal, such as how computer climate models work inside. Let's write those on a separate "later" list. That way we won't lose them, and we won't get lost in them either.
 
 <!-- -->
 
-三人をたどるうちに、最初は思いつかなかった問いが出てきました。それぞれ関係のある大きな問いの下に書き足します。
+三人をたどるうちに、最初は思いつかなかった問いが出てきました。それぞれ関係のある大きな問いの下に書き足しましょう。
 
 - 「熱波はなぜ起きるのか？」の下に：熱波のどれだけが気候変動のせいなのか、科学者はどうやって見分けるのか？
 - 「熱波はどんな問題を起こすのか？」の下に：亡くなる人が多い地域と少ない地域があるのはなぜか？
 - 「だれが熱波を研究しているのか？」の下に：日本で熱波を研究しているのはだれか？
 
-おもしろいけれど目標からは遠い問いもあります。たとえば、気候のコンピューターモデルの中身はどう動いているのか、といった問いです。そうした問いは別の「あとで」リストに書いておきました。忘れずにすみ、そこで迷子になることもありません。
+おもしろいけれど目標からは遠い問いもあります。たとえば、気候のコンピューターモデルの中身はどう動いているのか、といった問いです。そうした問いは、別の「あとで」リストに書いておきましょう。忘れずにすみ、そこで迷子になることもありません。
 
 ---
 
-## Step 3: Check what you found
-## ステップ3　見つけたことを確かめる
+## Step 3: Let's check what we found
+## ステップ3　見つけたことを確かめましょう
 
 ### Compare more than one source
-### 二つ以上の資料をくらべる
+### 二つ以上の資料をくらべましょう
 
-Reading several sources on the same question often shows that the answer is less simple than it first looked. For "What is a heat wave?", NOAA, the US weather and ocean agency, says it is unusually hot weather that lasts two or more days. The UK Met Office says a place needs three days in a row above a temperature set for that area. Japan's weather agency does not usually use the word "heat wave" in its forecasts; instead it names hot days by temperature, such as *mōshobi* for days of 35°C or more. None of them is wrong. They just set the line in different places. When sources disagree, write down both and explain why.
+Reading several sources on the same question often shows that the answer is less simple than it first looked. For "What is a heat wave?", NOAA, the US weather and ocean agency, says it is unusually hot weather that lasts two or more days. The UK Met Office says a place needs three days in a row above a temperature set for that area. Japan's weather agency does not usually use the word "heat wave" in its forecasts; instead it names hot days by temperature, such as *mōshobi* for days of 35°C or more. None of them is wrong. They just set the line in different places. When sources disagree, don't panic: let's write down both and explain why. Finding a difference like this is a real discovery.
 
 <!-- -->
 
-同じ問いについて資料をいくつか読むと、答えが最初に思ったほど単純ではないとわかることがよくあります。「熱波とは何か？」について、アメリカの海洋大気庁（NOAA）は、ふだんより暑い天気が2日以上続くことだと説明しています。イギリスの気象局は、その地域ごとに決めた気温を3日続けて超えることを条件にしています。日本の気象庁は、ふだんの予報では「熱波」という言葉をあまり使いません。そのかわり、最高気温35℃以上の日を「猛暑日」と呼ぶように、気温で暑い日に名前をつけています。どれもまちがいではありません。線を引く場所がちがうだけです。資料どうしの言うことがちがうときは、両方を書きとめて、なぜちがうのかを説明しましょう。
+同じ問いについて資料をいくつか読むと、答えが最初に思ったほど単純ではないとわかることがよくあります。「熱波とは何か？」について、アメリカの海洋大気庁（NOAA）は、ふだんより暑い天気が2日以上続くことだと説明しています。イギリスの気象局は、その地域ごとに決めた気温を3日続けて超えることを条件にしています。日本の気象庁は、ふだんの予報では「熱波」という言葉をあまり使いません。そのかわり、最高気温35℃以上の日を「猛暑日」と呼ぶように、気温で暑い日に名前をつけています。どれもまちがいではありません。線を引く場所がちがうだけです。資料どうしの言うことがちがっても、あわてなくてだいじょうぶです。両方を書きとめて、なぜちがうのかを説明しましょう。こうしたちがいに気づけたら、それも立派な発見です。
 
 ### When numbers don't match
 ### 数字がくいちがうとき
 
-Numbers often differ between sources, and the reason is usually that they counted different things. For the 1995 Chicago heat wave, the official count was 465 heat-related deaths that week, but studies that compared the number of deaths with a normal summer week found more than 700. For the 2003 European heat wave, early reports said more than 30,000 people died, but a later study that collected data from 16 countries found more than 70,000. So when you write a number, say where it comes from and what it measures, for example "according to a 2008 study, more than 70,000 extra deaths".
+Numbers often differ between sources, and the reason is usually that they counted different things. For the 1995 Chicago heat wave, the official count was 465 heat-related deaths that week, but studies that compared the number of deaths with a normal summer week found more than 700. For the 2003 European heat wave, early reports said more than 30,000 people died, but a later study that collected data from 16 countries found more than 70,000. So when you write a number, let's say where it comes from and what it measures, for example "according to a 2008 study, more than 70,000 extra deaths".
 
 <!-- -->
 
 資料によって数字がちがうことはよくあります。たいていは、数えたものがちがうからです。1995年のシカゴの熱波では、公式に数えられた暑さによる死者はその週に465人でしたが、ふだんの夏の同じ時期とくらべて増えた死者の数を調べた研究では、700人を超えていました。2003年のヨーロッパの熱波では、はじめの報告では死者は3万人以上とされましたが、のちに16か国のデータを集めた研究では、7万人以上になりました。数字を書くときは、どこから来た数字で、何を数えたものなのかを書きそえましょう。たとえば「2008年の研究によると、ふだんより7万人以上多く亡くなった」のように書きます。
 
 ### Summarize, don't copy
-### 写さずに、自分の言葉でまとめる
+### 写さずに、自分の言葉でまとめましょう
 
-Copying sentences from a website is not research, and it does not help you understand. Read a part, close the page, and write down the main idea in your own words, as if you were telling a friend. Then look back to check that you got it right. For every source, keep a small note card with the name of the site, the title of the page, the web address, the date you read it, and two or three key points in your own words. These notes become the source list at the end of your report.
+Copying sentences from a website is not research, and it does not help you understand. Let's try this: read a part, close the page, and write down the main idea in your own words, as if you were telling a friend. Then look back to check that you got it right. For every source, let's keep a small note card with the name of the site, the title of the page, the web address, the date you read it, and two or three key points in your own words. These notes become the source list at the end of your report.
 
 <!-- -->
 
-ウェブサイトの文をそのまま写しても、研究にはなりませんし、理解の助けにもなりません。一部分を読んだらページを閉じて、友だちに話すつもりで、大事なことを自分の言葉で書いてみましょう。そのあと、もう一度見返して、正しく書けたか確かめます。資料ごとに、サイトの名前、ページの題名、ウェブのアドレス、読んだ日、そして大事な点を自分の言葉で二つか三つ書いた、小さなメモカードをつくっておきます。このメモが、レポートの最後につける参考資料のリストになります。
+ウェブサイトの文をそのまま写しても、研究にはなりませんし、理解の助けにもなりません。一部分を読んだらページを閉じて、友だちに話すつもりで、大事なことを自分の言葉で書いてみましょう。そのあと、もう一度見返して、正しく書けたか確かめましょう。資料ごとに、サイトの名前、ページの題名、ウェブのアドレス、読んだ日、そして大事な点を自分の言葉で二つか三つ書いた、小さなメモカードをつくっておきましょう。このメモが、レポートの最後につける参考資料のリストになります。
 
 ---
 
-## Step 4: Write the report
-## ステップ4　レポートを書く
+## Step 4: Let's write the report
+## ステップ4　レポートを書きましょう
 
 ### What goes in a report
 ### レポートに入れるもの
 
-When the map shows that most questions are *done*, it is time to write. A clear report usually has these parts: a short introduction that says what you wanted to find out and why; one section for each big question on your map; a section on what you learned and what you still want to know; and a list of sources. Write for a reader who knows nothing about the topic. Explain new words the first time you use them, and keep the differences you found between sources, because they are part of what you learned.
+When the map shows that most questions are *done*, it is time to write. Let's go! A clear report usually has these parts: a short introduction that says what you wanted to find out and why; one section for each big question on your map; a section on what you learned and what you still want to know; and a list of sources. Let's write for a reader who knows nothing about the topic. Explain new words the first time you use them, and keep the differences you found between sources, because they are part of what you learned.
 
 <!-- -->
 
-地図のほとんどの問いが「できた」になったら、書き始めましょう。わかりやすいレポートには、ふつう次の部分があります。何を知りたかったのか、なぜなのかを書いた短い前書き。地図の大きな問い一つにつき一つの節。わかったことと、まだ知りたいことを書いた節。そして参考資料のリストです。そのテーマについて何も知らない人に向けて書きましょう。新しい言葉は、はじめて使うときに説明します。資料どうしのちがいも消さずに残しておきます。それも、わかったことの一部だからです。
+地図のほとんどの問いが「できた」になったら、書き始めましょう。わかりやすいレポートには、ふつう次の部分があります。何を知りたかったのか、なぜなのかを書いた短い前書き。地図の大きな問い一つにつき一つの節。わかったことと、まだ知りたいことを書いた節。そして参考資料のリストです。そのテーマについて何も知らない人に向けて書きましょう。新しい言葉は、はじめて使うときに説明しましょう。資料どうしのちがいも、消さずに残しておきましょう。それも、わかったことの一部だからです。
 
 ### Our finished example
 ### できあがりの例
 
-You can see the report we wrote from this project on the next page: [Heat Waves: A Research Report](/articles/heat-waves-research-report/). Compare it with the map in Step 1. Each big question became a section, and the new questions we found along the way appear there too. Remember that a report is a stop on the way, not the end. If a reader asks a question you cannot answer, add it to the map and keep going.
+Let's look at the report we wrote from this project on the next page: [Heat Waves: A Research Report](/articles/heat-waves-research-report/). Compare it with the map in Step 1. Each big question became a section, and the new questions we found along the way appear there too. Remember that a report is a stop on the way, not the end. If a reader asks a question you cannot answer, great! Add it to the map and keep exploring. Now it's your turn: pick a topic you are curious about and start your own map!
 
 <!-- -->
 
-この研究からできたレポートは、次のページで読めます。[熱波についての研究レポート](/articles/heat-waves-research-report/)です。ステップ1の地図とくらべてみてください。大きな問いがそれぞれ一つの節になり、とちゅうで見つけた新しい問いもそこに入っています。レポートは終点ではなく、とちゅうの駅だということを覚えておきましょう。読んだ人から答えられない質問が来たら、地図に書き足して、また調べましょう。
+この研究からできたレポートは、次のページで読めます。[熱波についての研究レポート](/articles/heat-waves-research-report/)です。ステップ1の地図とくらべてみてください。大きな問いがそれぞれ一つの節になり、とちゅうで見つけた新しい問いもそこに入っています。レポートは終点ではなく、とちゅうの駅だということを覚えておきましょう。読んだ人から答えられない質問が来たら、チャンスです。地図に書き足して、また調べましょう。さあ、次はみなさんの番です。気になるテーマを選んで、自分の地図をつくってみましょう！
