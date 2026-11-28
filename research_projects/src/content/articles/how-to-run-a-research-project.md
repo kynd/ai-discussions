@@ -6,7 +6,9 @@ order: 1
 topics: ["how-to-research", "heat-waves"]
 ---
 
-Research starts with a question. Each answer can lead to more questions! To keep track, we'll set a goal, make a question map, find reliable sources, ask more questions, check what we find, and explain it in our own words.
+Research starts with a question, and each answer can lead to new questions. It's exciting to learn something new, understand it well enough to explain it in your own words, and share it with others!
+
+To guide our research, we'll set a goal, make a question map, find reliable sources, ask more questions, and check what we find.
 
 Let's look at how it works with a research project about heat waves.
 
