@@ -5,13 +5,15 @@ junior high school, **how to run a research project**, step by step. Each projec
 topic as a worked example; the first one is **heat waves**.
 
 It is built on the same Astro template as AI Discussions (the parent folder of this repo):
-semantic search, index pages, related pages, the writing style and editorial policy — with one
-addition: **every section of an article folds open and closed**, so readers can go step by step.
+semantic search, related pages, in-prose term links — with one addition: **every section of an article folds open and closed**, so readers can go step by step.
 
 Published at **https://www.kynd.info/ai-discussions/research_projects/** — the GitHub Pages
 workflow in `.github/workflows/deploy.yml` builds this folder and puts it inside the main site.
 
 ## Pages
+
+Only the homepage and the articles are published. The editorial policy, writing style and change
+log are kept as unpublished references in `docs/`.
 
 - `src/content/articles/how-to-run-a-research-project.md` — the process: goal, question map,
   breaking a question down, choosing sources, follow-up questions, checking facts, writing.

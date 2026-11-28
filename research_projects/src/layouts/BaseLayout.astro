@@ -36,14 +36,6 @@ const navArticles = await Promise.all(allArticles.map(async (a) => {
 const path = Astro.url.pathname.replace(/\/$/, '');
 const isHome = path === base || path === '';
 const currentSlug = (path.match(/\/articles\/([^/]+)$/) || [])[1] || '';
-const extraLinks = [
-  { href: `${base}/chronology`, label: 'Chronology', ja: '年表' },
-  { href: `${base}/people`, label: 'People', ja: '人物' },
-  { href: `${base}/keyword`, label: 'Keywords', ja: 'キーワード' },
-  { href: `${base}/policy`, label: 'Editorial policy', ja: '編集方針' },
-  { href: `${base}/style`, label: 'Writing style', ja: '文体' },
-  { href: `${base}/changes`, label: 'Changes', ja: '更新履歴' },
-];
 
 // Flat list of auto-link targets for the in-prose term linker.
 // Each: { aliases: string[], query: string, person?: boolean }  (label is always an alias)
@@ -193,10 +185,6 @@ const termTargets = [
     .sb-sub .sb-link { padding-left: 34px; font-size: 0.76rem; }
     .sb-sub .sb-link .ja { font-size: 0.68rem; }
     .sb-plain { padding-left: 34px; }
-    .sb-head {
-      font-size: 0.62rem; letter-spacing: 0.12em; text-transform: uppercase; color: #aaa;
-      padding: 1.4rem 1.25rem 0.4rem 34px;
-    }
 
     .main-wrap { margin-top: var(--header-height); transition: margin-left 0.22s ease; }
     /* Keep headings reached from the index clear of the floating controls. */
@@ -366,12 +354,6 @@ const termTargets = [
           </li>
         );
       })}
-    </ul>
-    <p class="sb-head">More · その他</p>
-    <ul class="sb-list">
-      {extraLinks.map((l) => (
-        <li><a href={l.href} class={`sb-link sb-plain${path === l.href ? ' current' : ''}`}>{l.label}<span class="ja">{l.ja}</span></a></li>
-      ))}
     </ul>
   </nav>
 

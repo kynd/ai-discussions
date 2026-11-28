@@ -1,5 +1,4 @@
 ---
-layout: ../layouts/DocLayout.astro
 title: Writing Style
 titleJa: 文体
 intro: How we actually write — from overall voice down to how we use bold. Like the policy, this is a living document.

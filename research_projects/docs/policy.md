@@ -1,5 +1,4 @@
 ---
-layout: ../layouts/DocLayout.astro
 title: Editorial Policy
 titleJa: 編集方針
 intro: How we choose, frame, and stand behind what we publish. This is a living document — it changes as the collection grows.

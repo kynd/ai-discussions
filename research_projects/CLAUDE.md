@@ -10,7 +10,7 @@ index terms, reindex, changes log, commit and push), applied to the files in thi
 these differences:
 
 - **Audience.** Readers are about 10–15 years old. Follow "Writing for young readers" in
-  `src/pages/style.md`: everyday words, new words explained on first use, short sentences,
+  `docs/style.md`: everyday words, new words explained on first use, short sentences,
   concrete examples, an encouraging tone ("Let's …" / 「〜しましょう」), です・ます in Japanese with common kanji, Arabic numerals for counts (1つ, 3人). No 〜のです; single 「—」.
 - **Sources for kids.** Prefer sources a student can read: government science agencies (NOAA,
   NASA, Met Office, 気象庁, 環境省), science magazines for young readers (Science News Explores),
@@ -26,3 +26,9 @@ these differences:
 Commands (run inside `research_projects/`): `npm install`, `npm run reindex`, `npm run dev`,
 `npm run build`.
 - **No AI disclaimer box** under article titles on this site (removed at the user's request); the homepage intro says the pages are AI-written.
+- **Reference docs are not published.** The Editorial Policy, Writing Style and change log live in
+  `docs/policy.md`, `docs/style.md` and `docs/changes.md`. They are not part of the site build: read
+  and follow them, keep them up to date, and log substantial changes in `docs/changes.md`
+  (where the root rules say `src/pages/…`). There are no Chronology / People / Keywords pages;
+  `src/data/index-terms.mjs` still feeds the in-prose term links (click → search), so keep
+  capturing new terms there.

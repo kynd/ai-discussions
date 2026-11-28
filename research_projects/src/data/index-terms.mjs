@@ -1,5 +1,5 @@
-// Curated index terms captured from the article set. Single source of truth for the
-// /chronology, /people, and /keyword index pages AND for the in-prose term auto-linker.
+// Curated index terms captured from the article set. Feeds the in-prose term auto-linker
+// (each linked term runs a semantic search on click). This site has no index pages.
 //
 // Each entry: { label, query?, aliases?, noLink?, group? }
 //   label   — displayed text and default search query
@@ -10,7 +10,7 @@
 //             auto-linker (use for common words that would over-match)
 //
 // RULE: whenever you add or edit an article, capture any new period/event, person,
-// or concept/keyword here so the index pages and in-prose links stay in sync.
+// or concept/keyword here so the in-prose links stay complete.
 
 export const CHRONOLOGY = [
   { label: '1995 Chicago heat wave', query: 'the 1995 Chicago heat wave and why so many people died', aliases: ['1995年のシカゴ'] },

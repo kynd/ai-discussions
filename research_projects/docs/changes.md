@@ -1,5 +1,4 @@
 ---
-layout: ../layouts/DocLayout.astro
 title: Changes
 titleJa: 更新履歴
 intro: A high-level log of substantial changes to the site's content, and the questions that prompted them. Newest first. Small edits — typos and wording — are not listed here.
