@@ -66,3 +66,10 @@ Notes: keep **one** English paragraph followed by **one** Japanese paragraph per
 paragraph as the summary, so keep English first.
 
 To add a preset chip, edit `src/data/topics.mjs` and reindex.
+
+## Sister site: Research Projects
+
+The `research_projects/` folder is a separate Astro site on the same template, for kids: how to
+run a research project, with heat waves as the first example. The deploy workflow builds it into
+the same GitHub Pages artifact at `/ai-discussions/research_projects/`. See
+`research_projects/README.md`.

@@ -1,0 +1,220 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { TOPICS } from '../data/topics.mjs';
+import { readFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const editor = import.meta.env.DEV;
+
+// Load the built search index for the browse list (title + summary, no vectors shipped here).
+let entries: any[] = [];
+try {
+  const p = fileURLToPath(new URL('../../public/search-index.json', import.meta.url));
+  const all = JSON.parse(await readFile(p, 'utf8'));
+  entries = all.map((a: any) => ({
+    slug: a.slug, title: a.title, summary: a.summary, summaryJa: a.summaryJa || '',
+    updated: a.updated || '', mtime: a.mtime || 0, draft: !!a.draft,
+    order: typeof a.order === 'number' ? a.order : 9999,
+  }));
+} catch {}
+const draftCount = entries.filter((e) => e.draft).length;
+
+// Reading order first (frontmatter `order`, lower = earlier), then most recently edited
+// (updated date, then file mtime as a same-day tiebreak).
+entries.sort((a, b) =>
+  (a.order - b.order) || b.updated.localeCompare(a.updated) || (b.mtime - a.mtime) || a.slug.localeCompare(b.slug));
+
+function splitTitle(title: string): { en: string; ja: string } {
+  const m = title.match(/[぀-鿿＀-￯]/);
+  if (!m || m.index === undefined) return { en: title, ja: '' };
+  const lastSpace = title.lastIndexOf(' ', m.index - 1);
+  if (lastSpace === -1) return { en: title, ja: '' };
+  return { en: title.slice(0, lastSpace).trim(), ja: title.slice(lastSpace + 1).trim() };
+}
+---
+
+<BaseLayout title="Research Projects">
+  <div class="home">
+    <header class="home-head">
+      <h1 class="page-title">
+        <span class="title-en">Research Projects</span>
+        <span class="title-ja">研究プロジェクト</span>
+      </h1>
+      <div class="intro">
+        <p>This site shows how to run a research project, step by step. It is written for students from the upper grades of elementary school to junior high school. Our example question is about heat waves: what they are, what causes them, what problems they bring, and who studies them.</p>
+        <p>Start with "How to Run a Research Project", which walks through the process, then read "Heat Waves: A Research Report" to see what a finished report can look like. Each part of a page is folded up. Tap a heading to open it, and read one step at a time.</p>
+        <p>An AI wrote these pages under human supervision, after searching the web. They may contain mistakes. That is one more reason to do what the pages teach: check facts in more than one place.</p>
+        <p class="intro-ja" lang="ja">このサイトでは、調べ学習や研究の進め方を一歩ずつ紹介します。小学校の高学年から中学生くらいの人に向けて書いています。例にするのは「熱波」です。熱波とは何か、なぜ起きるのか、どんな問題が起きるのか、だれが研究しているのかを調べていきます。</p>
+        <p lang="ja">まず「研究のすすめ方」で進め方をたどり、次に「熱波についての研究レポート」で、できあがったレポートの例を見てください。ページの各部分はたたんであります。見出しをタップすると開くので、一つずつ読み進めましょう。</p>
+        <p lang="ja">ページは人の監修のもとで、AIがウェブで調べて書いたものです。まちがいがあるかもしれません。だからこそ、ページで紹介しているように、ほかの資料でも確かめてみてください。</p>
+      </div>
+      <div class="chips">
+        {TOPICS.map((t) => (
+          <button class="chip" data-search={t.query}>{t.label}</button>
+        ))}
+      </div>
+    </header>
+
+    <div class="browse-head-row">
+      <h2 class="browse-head">All pages · {entries.length}</h2>
+      <div class="browse-controls">
+        <div class="sort-control">
+          <span class="sort-label">Order</span>
+          <button class="sort-opt" data-sort="recent">Reading order</button>
+          <span class="sort-sep">·</span>
+          <button class="sort-opt" data-sort="random">Random</button>
+        </div>
+        {editor && (
+        <div class="draft-filter" id="draft-filter">
+          <button class="draft-filter-opt active" data-filter="all">All</button>
+          <span class="draft-filter-sep">·</span>
+          <button class="draft-filter-opt" data-filter="published">Published</button>
+          <span class="draft-filter-sep">·</span>
+          <button class="draft-filter-opt" data-filter="drafts">Drafts ({draftCount})</button>
+        </div>
+        )}
+      </div>
+    </div>
+    <ul class="browse" id="browse-list">
+      {entries.map((a) => {
+        const { en, ja } = splitTitle(a.title);
+        return (
+          <li class="browse-item" data-draft={a.draft ? 'true' : 'false'}>
+            <a href={`${base}/articles/${a.slug}`}>
+              <span class="browse-title">
+                {a.draft && <span class="draft-badge">Draft</span>} {en}{ja && <span class="ja">{ja}</span>}
+              </span>
+              <span class="browse-summary">{a.summary}</span>
+              {a.summaryJa && <span class="browse-summary browse-summary-ja">{a.summaryJa}</span>}
+              {a.updated && <span class="browse-date">Updated {a.updated}</span>}
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+    <!--
+      Sort order. The list is rendered in reading order (frontmatter `order`, then most
+      recently edited), so that order survives without JS; this runs inline (before paint)
+      to shuffle when the visitor picks Random. The choice is remembered per visitor.
+    -->
+    <script is:inline>
+      (function () {
+        var list = document.getElementById('browse-list');
+        if (!list) return;
+        var KEY = 'browse-sort';
+        var byRecent = Array.prototype.slice.call(list.children); // server order
+        var mode = localStorage.getItem(KEY) === 'random' ? 'random' : 'recent';
+
+        function render(m) {
+          var items = byRecent.slice();
+          if (m === 'random') {
+            for (var i = items.length - 1; i > 0; i--) {
+              var j = Math.floor(Math.random() * (i + 1));
+              var t = items[i]; items[i] = items[j]; items[j] = t;
+            }
+          }
+          for (var k = 0; k < items.length; k++) list.appendChild(items[k]);
+          var opts = document.querySelectorAll('.sort-opt');
+          for (var n = 0; n < opts.length; n++) {
+            opts[n].classList.toggle('active', opts[n].getAttribute('data-sort') === m);
+          }
+        }
+
+        render(mode);
+
+        document.addEventListener('click', function (e) {
+          var btn = e.target && e.target.closest ? e.target.closest('.sort-opt') : null;
+          if (!btn) return;
+          mode = btn.getAttribute('data-sort');
+          localStorage.setItem(KEY, mode);
+          render(mode); // clicking Random again reshuffles
+        });
+      })();
+    </script>
+    <!-- Draft filter (editor mode). No-ops on the public site, where #draft-filter is absent. -->
+    <script>
+      const list = document.getElementById('browse-list');
+      const filter = document.getElementById('draft-filter');
+      if (list && filter) {
+        filter.addEventListener('click', (e) => {
+          const btn = (e.target as HTMLElement).closest('.draft-filter-opt') as HTMLElement | null;
+          if (!btn) return;
+          filter.querySelectorAll('.draft-filter-opt').forEach((b) => b.classList.remove('active'));
+          btn.classList.add('active');
+          const mode = btn.getAttribute('data-filter');
+          list.querySelectorAll<HTMLElement>('.browse-item').forEach((li) => {
+            const isDraft = li.getAttribute('data-draft') === 'true';
+            const show = mode === 'all' || (mode === 'drafts' ? isDraft : !isDraft);
+            li.style.display = show ? '' : 'none';
+          });
+        });
+      }
+    </script>
+  </div>
+</BaseLayout>
+
+<style is:global>
+  .home { max-width: 720px; margin: 0 auto; padding: 3rem 1.5rem 6rem; }
+  .home-head { margin-bottom: 3rem; }
+  .page-title { font-size: 3rem; font-weight: 300; letter-spacing: -0.03em; line-height: 1.15; }
+  .page-title .title-en, .page-title .title-ja { display: block; }
+  .page-title .title-ja { margin-top: 0.25em; font-size: 1.4rem; color: var(--fg-muted); }
+  .intro { margin-top: 1.25rem; color: var(--fg); line-height: 1.7; }
+  .intro p { margin: 0; }
+  .intro p + p { margin-top: 0.9rem; }
+  .intro .intro-ja { margin-top: 1.6rem; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem; }
+  .chip {
+    font-family: inherit; font-size: 0.8rem; color: var(--fg-muted);
+    background: transparent; border: 1px solid var(--border); border-radius: 999px;
+    padding: 0.32rem 0.85rem; cursor: pointer; transition: color 0.15s, border-color 0.15s;
+  }
+  .chip:hover { color: var(--fg); border-color: #bbb; }
+
+  .browse-head-row {
+    display: flex; justify-content: space-between; align-items: baseline;
+    flex-wrap: wrap; gap: 0.5rem 1rem; margin-bottom: 0.5rem;
+  }
+  .browse-head {
+    font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em;
+    color: var(--fg-muted); font-weight: 600; margin-bottom: 0;
+  }
+  .browse-controls { display: flex; align-items: baseline; gap: 1.1rem; flex-wrap: wrap; }
+  .sort-control { display: flex; align-items: baseline; gap: 0.4rem; font-family: var(--font-sans); }
+  .sort-label {
+    font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--fg-muted); margin-right: 0.15rem;
+  }
+  .sort-opt {
+    background: none; border: none; cursor: pointer; padding: 0;
+    font-family: inherit; font-size: 0.75rem; color: var(--fg-muted);
+  }
+  .sort-opt:hover { color: var(--fg); }
+  .sort-opt.active { color: var(--fg); font-weight: 600; }
+  .sort-sep { color: #ccc; }
+
+  .draft-filter { display: flex; align-items: baseline; gap: 0.4rem; font-family: var(--font-sans); }
+  .draft-filter-opt {
+    background: none; border: none; cursor: pointer; padding: 0;
+    font-size: 0.75rem; color: var(--fg-muted);
+  }
+  .draft-filter-opt:hover { color: var(--editor); }
+  .draft-filter-opt.active { color: var(--editor); font-weight: 600; }
+  .draft-filter-sep { color: #ccc; }
+  .browse { list-style: none; }
+  .browse-item { padding: 1.4rem 0; border-top: 1px solid var(--border); }
+  .browse-item a { color: var(--fg); display: block; }
+  .browse-item a:hover { opacity: 1; color: var(--link); }
+  .browse-title { font-size: 1.1rem; font-weight: 500; letter-spacing: -0.01em; line-height: 1.3; display: block; }
+  .browse-title .ja { color: var(--fg-muted); font-weight: 400; margin-left: 0.4rem; font-size: 0.88em; }
+  .browse-summary {
+    color: var(--fg-muted); font-size: 0.9rem; line-height: 1.6; margin-top: 0.35rem; display: -webkit-box;
+    -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .browse-summary-ja { font-size: 0.82rem; color: #999; margin-top: 0.2rem; }
+  .browse-date { display: block; margin-top: 0.4rem; font-size: 0.72rem; color: #aaa; }
+
+  @media (max-width: 600px) { .page-title { font-size: 2.25rem; } }
+</style>
