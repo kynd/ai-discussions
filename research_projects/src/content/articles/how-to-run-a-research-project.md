@@ -6,11 +6,17 @@ order: 1
 topics: ["how-to-research", "heat-waves"]
 ---
 
-A research project starts with a question, and it can grow forever, because every answer leads to new questions. This page shows a way to keep it on track, step by step: set a goal, draw a map of the questions you want to answer, look things up in trustworthy places, ask follow-up questions, check what you found, and write it down in your own words. Our example is a project about heat waves.
+A research project starts with a question, and it can grow forever, because every answer leads to new questions. This page shows a way to keep it on track, step by step: set a goal, draw a map of the questions you want to answer, look things up in trustworthy places, ask follow-up questions, check what you found, and write it down in your own words.
 
 <!-- -->
 
-研究は一つの問いから始まります。答えが一つ見つかるたびに新しい問いが生まれるので、どこまでも広がっていきます。このページでは、迷わずに進むための方法を一歩ずつ紹介します。目標を決め、答えたい問いの地図をつくり、信頼できる場所で調べ、さらに問いを重ね、見つけたことを確かめ、自分の言葉で書きとめる。例として、熱波についての研究を取り上げます。
+研究は一つの問いから始まります。答えが一つ見つかるたびに新しい問いが生まれるので、どこまでも広がっていきます。このページでは、迷わずに進むための方法を一歩ずつ紹介します。目標を決め、答えたい問いの地図をつくり、信頼できる場所で調べ、さらに問いを重ね、見つけたことを確かめ、自分の言葉で書きとめる、という流れです。
+
+Our example is a project about heat waves.
+
+<!-- -->
+
+例として、熱波についての研究を取り上げます。
 
 ---
 
