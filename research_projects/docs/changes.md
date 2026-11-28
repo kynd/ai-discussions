@@ -5,6 +5,15 @@ intro: A high-level log of substantial changes to the site's content, and the qu
 introJa: 内容に対する大きな変更と、そのきっかけとなった問いの記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-11-28 — Researching together
+## 2026-11-28 — いっしょに研究する
+
+Prompted by a request to explain why a goal matters starting from the general point (every topic connects to many others) before the heat-wave example, and to add advice on working with someone else. "How to Run a Research Project" now has a step on researching together: dividing the question map, or researching the same questions in parallel and merging the findings.
+
+<!-- -->
+
+目標が必要な理由を、熱波の例より先に「どんなテーマもたくさんのことにつながっている」という一般的な話から説明してほしい、また、だれかといっしょに取り組むことについても書いてほしい、という依頼を受けて、「研究のすすめ方」に、いっしょに研究する方法を加えました。問いの地図を手分けする方法と、同じ問いを同時に調べて、あとで見つけたことをまとめる方法です。
+
 ## 2026-11-28 — Launch: heat waves
 ## 2026-11-28 — 公開：熱波
 

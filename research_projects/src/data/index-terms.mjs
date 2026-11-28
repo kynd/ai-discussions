@@ -37,6 +37,7 @@ export const KEYWORDS = [
   { label: 'Follow-up questions', group: 'Research skills', query: 'asking follow-up questions to go one step deeper' },
   { label: 'Trustworthy sources', group: 'Research skills', query: 'choosing reliable websites and sources for research' },
   { label: 'Summarizing in your own words', group: 'Research skills', query: 'summarizing sources in your own words instead of copying', aliases: ['自分の言葉'] },
+  { label: 'Divide and conquer', group: 'Research skills', query: 'researching with others: dividing the work or working in parallel and merging findings', aliases: ['work in parallel', '手分け'] },
   { label: 'Source notes', group: 'Research skills', query: 'keeping note cards and a list of sources', aliases: ['メモカード', '参考資料'] },
   { label: 'Heat wave', group: 'Weather & climate', query: 'what a heat wave is', aliases: ['heat waves', 'heatwave', '熱波'] },
   { label: 'Heat dome', group: 'Weather & climate', query: 'heat domes and high pressure', aliases: ['ヒートドーム'] },

@@ -26,11 +26,11 @@ Let's try it together with a project about heat waves!
 ### Why you need a goal
 ### なぜ目標が必要なのか
 
-Heat waves connect to weather, health, cities, farming, history, and much more. If you try to follow every interesting link, you might never finish. So before you start, let's write one sentence that says what you want to be able to explain at the end. For example: "I want to explain to my class what a heat wave is, why it happens, why it is dangerous, and who studies it." Don't worry if your goal changes as you learn more. That is normal, and it means you are learning! Having a goal written down helps you decide what to read now and what to save for later.
+Every topic connects to many other things, and each of those connects to even more. Heat waves, for example, connect to weather, health, cities, farming, history, and much more. If you try to follow every interesting link, you might never finish. So before you start, let's write one sentence that says what you want to be able to explain at the end. For our project it could be: "I want to explain to my class what a heat wave is, why it happens, why it is dangerous, and who studies it." Don't worry if your goal changes as you learn more. That is normal, and it means you are learning! Having a goal written down helps you decide what to read now and what to save for later.
 
 <!-- -->
 
-熱波は、天気、健康、都市、農業、歴史など、いろいろなことにつながっています。おもしろそうな話を全部追いかけていたら、いつまでも終わりません。だから始める前に、最後に何を説明できるようになりたいのかを1文で書いておきましょう。たとえば「熱波とは何か、なぜ起きるのか、なぜ危ないのか、だれが研究しているのかを、クラスのみんなに説明したい」。目標は、調べるうちに変わってもだいじょうぶです。それは、学んでいるしるしです。目標を書いておけば、いま読むものと、あとに回すものを決めやすくなります。
+どんなテーマも、ほかのたくさんのことにつながっていて、その先もまた別のことにつながっています。たとえば熱波は、天気、健康、都市、農業、歴史など、いろいろなことにつながっています。おもしろそうな話を全部追いかけていたら、いつまでも終わりません。だから始める前に、最後に何を説明できるようになりたいのかを1文で書いておきましょう。この研究なら、「熱波とは何か、なぜ起きるのか、なぜ危ないのか、だれが研究しているのかを、クラスのみんなに説明したい」のようになります。目標は、調べるうちに変わってもだいじょうぶです。それは、学んでいるしるしです。目標を書いておけば、いま読むものと、あとに回すものを決めやすくなります。
 
 ### Let's make a map of big questions
 ### 大きな問いの地図をつくりましょう
@@ -59,6 +59,15 @@ The map is not a promise you can never change. As you read, you will discover qu
 <!-- -->
 
 地図は、一度決めたら変えられない約束ではありません。読み進めるうちに、「どうして都会はいなかより暑いのだろう？」のように、最初は思いつかなかった問いが出てきます。そうしたら、関係のある大きな問いの下に書き足しましょう。大きすぎて分けたほうがいい問いや、思ったほどおもしろくなくて消してもいい問いも出てきます。それぞれの問いに「まだ」「調べ中」「できた」のしるしをつけておきましょう。調べ始めるたびに地図を見てください。ここまで進んだことがわかり、目標も思い出せます。「できた」が増えていくのは、うれしいものです！
+
+### Research together
+### いっしょに研究しましょう
+
+You don't have to research alone. Working with a friend, a classmate, or someone in your family can make a project faster and more fun. There are two good ways to share the work. You can **divide and conquer**: split the map, so each person takes different questions, for example one person takes "What causes heat waves?" and another takes "Who studies heat waves?". Or you can **work in parallel**: everyone looks into the same question on their own, and then you compare what you found. Working in parallel is a great way to catch mistakes, because two people often find different sources. Either way, let's keep one shared map, meet often to tell each other what you learned, and merge your notes and source lists before you write the report.
+
+<!-- -->
+
+研究は、ひとりでしなくてもかまいません。友だちやクラスメイト、家族といっしょに進めると、早く進み、もっと楽しくなります。分担のしかたには、よい方法が2つあります。1つは**手分けする**方法です。地図を分けて、それぞれがちがう問いを受け持ちます。たとえば、1人が「熱波はなぜ起きるのか？」を、もう1人が「だれが熱波を研究しているのか？」を調べます。もう1つは**同時に調べる**方法です。みんなが同じ問いをそれぞれに調べて、あとで見つけたことをくらべます。2人がちがう資料を見つけることが多いので、まちがいに気づくのにぴったりです。どちらの方法でも、地図は1つにまとめて共有しましょう。こまめに集まって学んだことを話し合い、レポートを書く前に、メモと参考資料のリストを1つにまとめましょう。
 
 ---
 
