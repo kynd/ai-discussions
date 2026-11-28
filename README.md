@@ -69,7 +69,6 @@ To add a preset chip, edit `src/data/topics.mjs` and reindex.
 
 ## Sister site: Research Projects
 
-The `research_projects/` folder is a separate Astro site on the same template, for kids: how to
-run a research project, with heat waves as the first example. The deploy workflow builds it into
-the same GitHub Pages artifact at `/ai-discussions/research_projects/`. See
-`research_projects/README.md`.
+A kids' guide to running a research project, on the same template, now lives in its own
+repository: [kynd/research_projects](https://github.com/kynd/research_projects)
+(www.kynd.info/research_projects/).

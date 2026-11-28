@@ -29,14 +29,6 @@ jobs:
       - run: npm ci
       # `npm run build` regenerates the embedding index (build:index) then astro build.
       - run: npm run build
-      # Sister site for kids, built into the same Pages artifact at /ai-discussions/research_projects/.
-      - name: Build research_projects
-        working-directory: research_projects
-        run: |
-          npm ci
-          npm run build
-          mkdir -p ../dist/research_projects
-          cp -r dist/. ../dist/research_projects/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
