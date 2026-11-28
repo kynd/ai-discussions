@@ -27,6 +27,10 @@ Write articles in the normal bilingual format (see `CLAUDE.md`). At build time t
 - each `###` EN/JA heading pair inside it into a nested collapsible step.
 
 The first block (the summary) always stays open. Article pages have "Open all / Close all".
+
+## Layout
+
+Like kynd.info/writing: no header bar. Floating controls (index toggle, search, font switch) sit over the page, and a collapsible side index lists every article in reading order with its sections as anchors (open by default on wide screens, remembered per visitor). The index and folding scripts are inline, so they work even if the search model's CDN is slow or blocked.
 Frontmatter `order:` sets the reading order on the homepage.
 
 ## Commands

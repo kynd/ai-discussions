@@ -86,24 +86,27 @@ const updatedStr = fmtDate(doc.data.updated);
   </div>
 </BaseLayout>
 
-<script>
-  // Open / close every collapsible section at once.
-  document.querySelectorAll<HTMLButtonElement>('.fold-all').forEach((btn) => {
-    btn.addEventListener('click', () => {
-      const open = btn.dataset.open === '1';
-      document.querySelectorAll<HTMLDetailsElement>('.prose details.fold').forEach((d) => { d.open = open; });
+<!-- Inline (not bundled), so folding works even if the search model's CDN is slow or blocked. -->
+<script is:inline>
+  (function () {
+    // Open / close every collapsible section at once.
+    document.querySelectorAll('.fold-all').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var open = btn.dataset.open === '1';
+        document.querySelectorAll('.prose details.fold').forEach(function (d) { d.open = open; });
+      });
     });
-  });
-  // Opening a link to #anchor inside a closed section opens the sections around it.
-  function revealHash() {
-    if (!location.hash) return;
-    const t = document.getElementById(decodeURIComponent(location.hash.slice(1)));
-    let d = t && t.closest('details');
-    while (d) { (d as HTMLDetailsElement).open = true; d = d.parentElement && d.parentElement.closest('details'); }
-    if (t) t.scrollIntoView();
-  }
-  window.addEventListener('hashchange', revealHash);
-  revealHash();
+    // A link to #anchor inside a closed section opens the sections around it.
+    function revealHash() {
+      if (!location.hash) return;
+      var t = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+      var d = t && t.closest('details');
+      while (d) { d.open = true; d = d.parentElement && d.parentElement.closest('details'); }
+      if (t) t.scrollIntoView();
+    }
+    window.addEventListener('hashchange', revealHash);
+    revealHash();
+  })();
 </script>
 
 <style is:global>
@@ -150,15 +153,12 @@ const updatedStr = fmtDate(doc.data.updated);
   .prose .note p:last-child { margin-bottom: 0; }
   @media print { .prose details.fold > .fold-body { display: block; } }
 
+  /* One column (like kynd.info/writing); the side index holds navigation, and
+     Related sits under the article. */
   .article-shell {
-    display: grid;
-    grid-template-columns: minmax(0, 720px) 260px;
-    gap: 4rem;
-    justify-content: center;
-    max-width: 1100px;
+    max-width: 780px;
     margin: 0 auto;
-    padding: 2.5rem 2rem 6rem;
-    align-items: start;
+    padding: 1.5rem 2rem 6rem;
   }
 
   .back { font-size: 0.8rem; margin-bottom: 2rem; }
@@ -230,8 +230,7 @@ const updatedStr = fmtDate(doc.data.updated);
 
   /* Related side column */
   .related {
-    position: sticky;
-    top: calc(var(--header-height) + 1rem);
+    margin-top: 4rem;
     border-top: 2px solid var(--fg);
     padding-top: 0.9rem;
   }
@@ -260,8 +259,7 @@ const updatedStr = fmtDate(doc.data.updated);
     overflow: hidden;
   }
 
-  @media (max-width: 900px) {
-    .article-shell { grid-template-columns: minmax(0, 1fr); gap: 3rem; }
-    .related { position: static; }
+  @media (max-width: 600px) {
+    .article-shell { padding: 1rem 1.1rem 5rem; }
   }
 </style>
